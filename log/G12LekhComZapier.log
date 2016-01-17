@@ -1,0 +1,51 @@
+2016-17-01 22:50:14   INFO [libs.WebElementOnPage] : Browser and url https://zapier.com/sign-up/ was opened!
+2016-17-01 22:50:14   INFO [pages.SignUpPage] : Browser and url https://zapier.com/sign-up/was opened!
+2016-17-01 22:50:14   INFO [libs.WebElementOnPage] : Text Roman was typed into input!
+2016-17-01 22:50:14   INFO [pages.SignUpPage] : First name was typed in input FirstName: true
+2016-17-01 22:50:14   INFO [libs.WebElementOnPage] : Text Lekh was typed into input!
+2016-17-01 22:50:14   INFO [pages.SignUpPage] : Last name was typed into input LastName: true
+2016-17-01 22:50:14   INFO [libs.WebElementOnPage] : Text romanlekh@ was typed into input!
+2016-17-01 22:50:14   INFO [pages.SignUpPage] : Email was typed into input Email: true
+2016-17-01 22:50:15   INFO [libs.WebElementOnPage] : Text 123 was typed into input!
+2016-17-01 22:50:15   INFO [pages.SignUpPage] : Password was typed into input Password: true
+2016-17-01 22:50:15   INFO [pages.SignUpPage] : Check box "Updates" was unchecked: true
+2016-17-01 22:50:17   INFO [libs.WebElementOnPage] : Button [[ChromeDriver: chrome on LINUX (36fb4103a5349a31a285520f9e7d3a3a)] -> xpath: .//*[@type='submit']] was clicked
+2016-17-01 22:50:17   INFO [pages.SignUpPage] : Button "Sign Up" was clicked: true
+2016-17-01 22:50:17   INFO [libs.WebElementOnPage] : Element is on page!
+2016-17-01 22:50:17   INFO [pages.SignUpPage] : Error message on page: true
+2016-17-01 22:50:18   INFO [libs.WebElementOnPage] : Browser was closed!
+2016-17-01 22:50:18   INFO [pages.SignUpPage] : Page SignUP and browser was closed!
+2016-17-01 22:51:41   INFO [libs.WebElementOnPage] : Browser and url https://zapier.com/sign-up/ was opened!
+2016-17-01 22:51:41   INFO [pages.SignUpPage] : Browser and url https://zapier.com/sign-up/was opened!
+2016-17-01 22:51:43   INFO [libs.WebElementOnPage] : Text Roman was typed into input!
+2016-17-01 22:51:43   INFO [pages.SignUpPage] : First name was typed in input FirstName: true
+2016-17-01 22:51:43   INFO [libs.WebElementOnPage] : Text Lekh was typed into input!
+2016-17-01 22:51:43   INFO [pages.SignUpPage] : Last name was typed into input LastName: true
+2016-17-01 22:51:43   INFO [libs.WebElementOnPage] : Text romanlekh@ was typed into input!
+2016-17-01 22:51:43   INFO [pages.SignUpPage] : Email was typed into input Email: true
+2016-17-01 22:51:44   INFO [libs.WebElementOnPage] : Text 123 was typed into input!
+2016-17-01 22:51:44   INFO [pages.SignUpPage] : Password was typed into input Password: true
+2016-17-01 22:51:44   INFO [pages.SignUpPage] : Check box "Updates" was unchecked: true
+2016-17-01 22:51:45   INFO [libs.WebElementOnPage] : Button [[FirefoxDriver: firefox on LINUX (e5dc6175-9a2a-48de-b112-81e6185b7220)] -> xpath: .//*[@type='submit']] was clicked
+2016-17-01 22:51:45   INFO [pages.SignUpPage] : Button "Sign Up" was clicked: true
+2016-17-01 22:51:46   INFO [libs.WebElementOnPage] : Element is on page!
+2016-17-01 22:51:46   INFO [pages.SignUpPage] : Error message on page: true
+2016-17-01 22:51:46   INFO [libs.WebElementOnPage] : Browser was closed!
+2016-17-01 22:51:46   INFO [pages.SignUpPage] : Page SignUP and browser was closed!
+2016-17-01 23:59:41   INFO [libs.WebElementOnPage] : Browser and url https://zapier.com/sign-up/ was opened!
+2016-17-01 23:59:41   INFO [pages.SignUpPage] : Browser and url https://zapier.com/sign-up/was opened!
+2016-17-01 23:59:42   INFO [libs.WebElementOnPage] : Text Roman was typed into input!
+2016-17-01 23:59:42   INFO [pages.SignUpPage] : First name was typed in input FirstName: true
+2016-17-01 23:59:42   INFO [libs.WebElementOnPage] : Text Lekh was typed into input!
+2016-17-01 23:59:42   INFO [pages.SignUpPage] : Last name was typed into input LastName: true
+2016-17-01 23:59:43   INFO [libs.WebElementOnPage] : Text romanlekh@ was typed into input!
+2016-17-01 23:59:43   INFO [pages.SignUpPage] : Email was typed into input Email: true
+2016-17-01 23:59:43   INFO [libs.WebElementOnPage] : Text 123 was typed into input!
+2016-17-01 23:59:43   INFO [pages.SignUpPage] : Password was typed into input Password: true
+2016-17-01 23:59:43   INFO [pages.SignUpPage] : Check box "Updates" was unchecked: true
+2016-17-01 23:59:47   INFO [libs.WebElementOnPage] : Button [[ChromeDriver: chrome on LINUX (123c036874699d6b2f7954f94981e56f)] -> xpath: .//*[@type='submit']] was clicked
+2016-17-01 23:59:47   INFO [pages.SignUpPage] : Button "Sign Up" was clicked: true
+2016-17-01 23:59:47   INFO [libs.WebElementOnPage] : Element is on page!
+2016-17-01 23:59:47   INFO [pages.SignUpPage] : Error message on page: true
+2016-17-01 23:59:47   INFO [libs.WebElementOnPage] : Browser was closed!
+2016-17-01 23:59:47   INFO [pages.SignUpPage] : Page SignUP and browser was closed!

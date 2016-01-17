@@ -7,8 +7,9 @@ import org.junit.Assert;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.Select;
-
+import org.openqa.selenium.support.ui.WebDriverWait;
 
 import static libs.ConfigData.ui;
 
@@ -17,6 +18,9 @@ public class WebElementOnPage {
 
 	WebDriver driver;
 	Logger log;
+	public WebDriverWait wait;
+	
+	
 	/**
 	 * CONSTRUCTOR FOR CLASS WebElementOnPAge
 	 * @param extDriver
@@ -24,6 +28,7 @@ public class WebElementOnPage {
 	public WebElementOnPage(WebDriver extDriver){
 		this.driver = extDriver;
 		log = Logger.getLogger(getClass());
+		wait = new WebDriverWait(driver, 30);
 	}
 	/**
 	 * Method open browser and url
@@ -34,7 +39,7 @@ public class WebElementOnPage {
 			driver.manage().window().maximize();
 			driver.manage().timeouts().implicitlyWait(3, TimeUnit.SECONDS);
 			driver.get(url);
-			log.info("Browser and url "+url+ " was opened!");
+			log.info("Browser and url "+ url + " was opened!");
 		} catch (Exception e) {
 			log.error(e);
 			Assert.assertTrue("Browser wasn't opened", false);
