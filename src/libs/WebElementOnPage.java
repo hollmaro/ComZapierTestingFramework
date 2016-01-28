@@ -71,7 +71,7 @@ public class WebElementOnPage {
 	public boolean typeTextIntoInput(String text, String keyInputLocator){
 		try {
 			WebElement input = driver.findElement(ui(keyInputLocator));
-			
+
 			input.click();
 			keyAction.sendKeys(text).build().perform();
 			log.info("Text "+text+" was typed into input!");
