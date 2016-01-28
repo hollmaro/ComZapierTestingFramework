@@ -49,3 +49,1474 @@
 2016-17-01 23:59:47   INFO [pages.SignUpPage] : Error message on page: true
 2016-17-01 23:59:47   INFO [libs.WebElementOnPage] : Browser was closed!
 2016-17-01 23:59:47   INFO [pages.SignUpPage] : Page SignUP and browser was closed!
+2016-20-01 00:24:36   INFO [tests.signUpTests.TC2] :  ----- class org.openqa.selenium.chrome.ChromeDriver -------
+2016-20-01 00:24:36   INFO [tests.signUpTests.TC2] : Test - test2[0] - started
+2016-20-01 00:24:41   INFO [libs.WebElementOnPage] : Browser and url https://zapier.com/sign-up/ was opened!
+2016-20-01 00:24:41   INFO [pages.SignUpPage] : Browser and url https://zapier.com/sign-up/was opened!
+2016-20-01 00:24:41   INFO [libs.WebElementOnPage] : Text Zelenskyi was typed into input!
+2016-20-01 00:24:41   INFO [pages.SignUpPage] : Last name was typed into input LastName: true
+2016-20-01 00:24:41  ERROR [libs.WebElementOnPage] : java.lang.NullPointerException
+2016-20-01 00:24:41   INFO [pages.SignUpPage] : TAB was pressed 5times
+2016-20-01 00:24:43   INFO [libs.WebElementOnPage] : Button [[ChromeDriver: chrome on LINUX (5711bc2415e987873f5a60c18b5ce693)] -> xpath: .//*[@type='submit']] was clicked
+2016-20-01 00:24:43   INFO [pages.SignUpPage] : Button "Sign Up" was clicked: true
+2016-20-01 00:24:43   INFO [libs.WebElementOnPage] : Element is on page!
+2016-20-01 00:24:43   INFO [pages.SignUpPage] : Error message on page: true
+2016-20-01 00:24:44   INFO [libs.WebElementOnPage] : Browser was closed!
+2016-20-01 00:24:44   INFO [pages.SignUpPage] : Page SignUP and browser was closed!
+2016-23-01 00:13:45   INFO [tests.signUpTests.TC3] :  ----- class org.openqa.selenium.firefox.FirefoxDriver -------
+2016-23-01 00:13:45   INFO [tests.signUpTests.TC3] : Test - test3[0] - started
+2016-23-01 00:13:49   INFO [libs.WebElementOnPage] : Browser and url https://zapier.com/sign-up/ was opened!
+2016-23-01 00:13:49   INFO [pages.SignUpPage] : Browser and url https://zapier.com/sign-up/was opened!
+2016-23-01 00:13:52   INFO [libs.WebElementOnPage] : Button [[FirefoxDriver: firefox on LINUX (470313b9-bf84-4556-a7e5-83ef985e3bd9)] -> xpath: .//*[@type='submit']] was clicked
+2016-23-01 00:13:52   INFO [pages.SignUpPage] : Button "Sign Up" was clicked: true
+2016-23-01 00:13:53   INFO [libs.WebElementOnPage] : Element is on page!
+2016-23-01 00:13:53   INFO [pages.SignUpPage] : Error message on page: true
+2016-23-01 00:13:53   INFO [libs.WebElementOnPage] : Browser was closed!
+2016-23-01 00:13:53   INFO [pages.SignUpPage] : Page SignUP and browser was closed!
+2016-23-01 00:14:02   INFO [tests.signUpTests.TC3] :  ----- class org.openqa.selenium.chrome.ChromeDriver -------
+2016-23-01 00:14:02   INFO [tests.signUpTests.TC3] : Test - test3[1] - started
+2016-23-01 00:14:07   INFO [libs.WebElementOnPage] : Browser and url https://zapier.com/sign-up/ was opened!
+2016-23-01 00:14:07   INFO [pages.SignUpPage] : Browser and url https://zapier.com/sign-up/was opened!
+2016-23-01 00:14:10   INFO [libs.WebElementOnPage] : Button [[ChromeDriver: chrome on LINUX (1f279c802cb9865d34287c2272eadbc7)] -> xpath: .//*[@type='submit']] was clicked
+2016-23-01 00:14:10   INFO [pages.SignUpPage] : Button "Sign Up" was clicked: true
+2016-23-01 00:14:10   INFO [libs.WebElementOnPage] : Element is on page!
+2016-23-01 00:14:10   INFO [pages.SignUpPage] : Error message on page: true
+2016-23-01 00:14:10   INFO [libs.WebElementOnPage] : Browser was closed!
+2016-23-01 00:14:10   INFO [pages.SignUpPage] : Page SignUP and browser was closed!
+2016-23-01 00:14:39   INFO [tests.signUpTests.TC3] :  ----- class org.openqa.selenium.firefox.FirefoxDriver -------
+2016-23-01 00:14:39   INFO [tests.signUpTests.TC3] : Test - test3[0] - started
+2016-23-01 00:14:42   INFO [libs.WebElementOnPage] : Browser and url https://zapier.com/sign-up/ was opened!
+2016-23-01 00:14:42   INFO [pages.SignUpPage] : Browser and url https://zapier.com/sign-up/was opened!
+2016-23-01 00:14:45   INFO [libs.WebElementOnPage] : Button [[FirefoxDriver: firefox on LINUX (c7894516-592e-4b18-8282-a33be19cb8f4)] -> xpath: .//*[@type='submit']] was clicked
+2016-23-01 00:14:45   INFO [pages.SignUpPage] : Button "Sign Up" was clicked: true
+2016-23-01 00:14:45   INFO [libs.WebElementOnPage] : Element is on page!
+2016-23-01 00:14:45   INFO [pages.SignUpPage] : Error message on page: true
+2016-23-01 00:14:45   INFO [libs.WebElementOnPage] : Browser was closed!
+2016-23-01 00:14:45   INFO [pages.SignUpPage] : Page SignUP and browser was closed!
+2016-23-01 00:14:47   INFO [tests.signUpTests.TC3] :  ----- class org.openqa.selenium.chrome.ChromeDriver -------
+2016-23-01 00:14:47   INFO [tests.signUpTests.TC3] : Test - test3[1] - started
+2016-23-01 00:14:52   INFO [libs.WebElementOnPage] : Browser and url https://zapier.com/sign-up/ was opened!
+2016-23-01 00:14:52   INFO [pages.SignUpPage] : Browser and url https://zapier.com/sign-up/was opened!
+2016-23-01 00:14:55   INFO [libs.WebElementOnPage] : Button [[ChromeDriver: chrome on LINUX (a4220b6a7e2e461ff4a6a65d93281569)] -> xpath: .//*[@type='submit']] was clicked
+2016-23-01 00:14:55   INFO [pages.SignUpPage] : Button "Sign Up" was clicked: true
+2016-23-01 00:14:55   INFO [libs.WebElementOnPage] : Element is on page!
+2016-23-01 00:14:55   INFO [pages.SignUpPage] : Error message on page: true
+2016-23-01 00:14:55   INFO [libs.WebElementOnPage] : Browser was closed!
+2016-23-01 00:14:55   INFO [pages.SignUpPage] : Page SignUP and browser was closed!
+2016-23-01 00:59:45   INFO [tests.signUpTests.TC1] :  ----- class org.openqa.selenium.firefox.FirefoxDriver -------
+2016-23-01 00:59:45   INFO [tests.signUpTests.TC1] : Test - test1[0] - started
+2016-23-01 00:59:49   INFO [libs.WebElementOnPage] : Browser and url https://zapier.com/sign-up/ was opened!
+2016-23-01 00:59:49   INFO [pages.SignUpPage] : Browser and url https://zapier.com/sign-up/was opened!
+2016-23-01 00:59:51   INFO [libs.WebElementOnPage] : Text Roman was typed into input!
+2016-23-01 00:59:51   INFO [pages.SignUpPage] : First name was typed in input FirstName: true
+2016-23-01 00:59:51   INFO [libs.WebElementOnPage] : Text Lekh was typed into input!
+2016-23-01 00:59:51   INFO [pages.SignUpPage] : Last name was typed into input LastName: true
+2016-23-01 00:59:52   INFO [libs.WebElementOnPage] : Text romanlekh@ was typed into input!
+2016-23-01 00:59:52   INFO [pages.SignUpPage] : Email was typed into input Email: true
+2016-23-01 00:59:52   INFO [libs.WebElementOnPage] : Text 123 was typed into input!
+2016-23-01 00:59:52   INFO [pages.SignUpPage] : Password was typed into input Password: true
+2016-23-01 00:59:52   INFO [pages.SignUpPage] : Check box "Updates" was unchecked: true
+2016-23-01 00:59:54   INFO [libs.WebElementOnPage] : Button [[FirefoxDriver: firefox on LINUX (b23c6740-30b6-470e-945b-ddaabf73af69)] -> xpath: .//*[@type='submit']] was clicked
+2016-23-01 00:59:54   INFO [pages.SignUpPage] : Button "Sign Up" was clicked: true
+2016-23-01 00:59:54   INFO [libs.WebElementOnPage] : Element is on page!
+2016-23-01 00:59:54   INFO [pages.SignUpPage] : Error message on page: true
+2016-23-01 00:59:55   INFO [libs.WebElementOnPage] : Browser was closed!
+2016-23-01 00:59:55   INFO [pages.SignUpPage] : Page SignUP and browser was closed!
+2016-23-01 01:00:04   INFO [tests.signUpTests.TC1] :  ----- class org.openqa.selenium.chrome.ChromeDriver -------
+2016-23-01 01:00:04   INFO [tests.signUpTests.TC1] : Test - test1[1] - started
+2016-23-01 01:00:08   INFO [libs.WebElementOnPage] : Browser and url https://zapier.com/sign-up/ was opened!
+2016-23-01 01:00:08   INFO [pages.SignUpPage] : Browser and url https://zapier.com/sign-up/was opened!
+2016-23-01 01:00:09   INFO [libs.WebElementOnPage] : Text Roman was typed into input!
+2016-23-01 01:00:09   INFO [pages.SignUpPage] : First name was typed in input FirstName: true
+2016-23-01 01:00:09   INFO [libs.WebElementOnPage] : Text Lekh was typed into input!
+2016-23-01 01:00:09   INFO [pages.SignUpPage] : Last name was typed into input LastName: true
+2016-23-01 01:00:09   INFO [libs.WebElementOnPage] : Text romanlekh@ was typed into input!
+2016-23-01 01:00:09   INFO [pages.SignUpPage] : Email was typed into input Email: true
+2016-23-01 01:00:09   INFO [libs.WebElementOnPage] : Text 123 was typed into input!
+2016-23-01 01:00:09   INFO [pages.SignUpPage] : Password was typed into input Password: true
+2016-23-01 01:00:10   INFO [pages.SignUpPage] : Check box "Updates" was unchecked: true
+2016-23-01 01:00:12   INFO [libs.WebElementOnPage] : Button [[ChromeDriver: chrome on LINUX (a52416a938bfa3216e48607a391177dd)] -> xpath: .//*[@type='submit']] was clicked
+2016-23-01 01:00:12   INFO [pages.SignUpPage] : Button "Sign Up" was clicked: true
+2016-23-01 01:00:12   INFO [libs.WebElementOnPage] : Element is on page!
+2016-23-01 01:00:12   INFO [pages.SignUpPage] : Error message on page: true
+2016-23-01 01:00:12   INFO [libs.WebElementOnPage] : Browser was closed!
+2016-23-01 01:00:12   INFO [pages.SignUpPage] : Page SignUP and browser was closed!
+2016-23-01 01:41:21   INFO [tests.signUpTests.TC1] :  ----- class org.openqa.selenium.firefox.FirefoxDriver -------
+2016-23-01 01:41:21   INFO [tests.signUpTests.TC1] : Test - test1[0] - started
+2016-23-01 01:41:26   INFO [libs.WebElementOnPage] : Browser and url https://zapier.com/sign-up/ was opened!
+2016-23-01 01:41:26   INFO [pages.SignUpPage] : Browser and url https://zapier.com/sign-up/was opened!
+2016-23-01 01:41:27   INFO [libs.WebElementOnPage] : Text Roman was typed into input!
+2016-23-01 01:41:27   INFO [pages.SignUpPage] : First name was typed in input FirstName: true
+2016-23-01 01:41:27   INFO [libs.WebElementOnPage] : Text Lekh was typed into input!
+2016-23-01 01:41:27   INFO [pages.SignUpPage] : Last name was typed into input LastName: true
+2016-23-01 01:41:27   INFO [libs.WebElementOnPage] : Text qwerty@gmail.com was typed into input!
+2016-23-01 01:41:27   INFO [pages.SignUpPage] : Email was typed into input Email: true
+2016-23-01 01:41:27   INFO [libs.WebElementOnPage] : Text 123 was typed into input!
+2016-23-01 01:41:27   INFO [pages.SignUpPage] : Password was typed into input Password: true
+2016-23-01 01:41:27   INFO [pages.SignUpPage] : Check box "Updates" was unchecked: true
+2016-23-01 01:41:30   INFO [libs.WebElementOnPage] : Button [[FirefoxDriver: firefox on LINUX (a97352b2-bac5-4854-a094-6c19024110ee)] -> xpath: .//*[@type='submit']] was clicked
+2016-23-01 01:41:30   INFO [pages.SignUpPage] : Button "Sign Up" was clicked: true
+2016-23-01 01:41:30   INFO [libs.WebElementOnPage] : Element is on page!
+2016-23-01 01:41:30   INFO [pages.SignUpPage] : Error message on page: true
+2016-23-01 01:41:31   INFO [libs.WebElementOnPage] : Browser was closed!
+2016-23-01 01:41:31   INFO [pages.SignUpPage] : Page SignUP and browser was closed!
+2016-23-01 01:41:32   INFO [tests.signUpTests.TC1] :  ----- class org.openqa.selenium.chrome.ChromeDriver -------
+2016-23-01 01:41:32   INFO [tests.signUpTests.TC1] : Test - test1[1] - started
+2016-23-01 01:41:37   INFO [libs.WebElementOnPage] : Browser and url https://zapier.com/sign-up/ was opened!
+2016-23-01 01:41:37   INFO [pages.SignUpPage] : Browser and url https://zapier.com/sign-up/was opened!
+2016-23-01 01:41:37   INFO [libs.WebElementOnPage] : Text Roman was typed into input!
+2016-23-01 01:41:37   INFO [pages.SignUpPage] : First name was typed in input FirstName: true
+2016-23-01 01:41:37   INFO [libs.WebElementOnPage] : Text Lekh was typed into input!
+2016-23-01 01:41:37   INFO [pages.SignUpPage] : Last name was typed into input LastName: true
+2016-23-01 01:41:38   INFO [libs.WebElementOnPage] : Text qwerty@gmail.com was typed into input!
+2016-23-01 01:41:38   INFO [pages.SignUpPage] : Email was typed into input Email: true
+2016-23-01 01:41:38   INFO [libs.WebElementOnPage] : Text 123 was typed into input!
+2016-23-01 01:41:38   INFO [pages.SignUpPage] : Password was typed into input Password: true
+2016-23-01 01:41:38   INFO [pages.SignUpPage] : Check box "Updates" was unchecked: true
+2016-23-01 01:41:41   INFO [libs.WebElementOnPage] : Button [[ChromeDriver: chrome on LINUX (c5b23523c2bdb79ce1a5235cdb8b8664)] -> xpath: .//*[@type='submit']] was clicked
+2016-23-01 01:41:41   INFO [pages.SignUpPage] : Button "Sign Up" was clicked: true
+2016-23-01 01:41:41   INFO [libs.WebElementOnPage] : Element is on page!
+2016-23-01 01:41:41   INFO [pages.SignUpPage] : Error message on page: true
+2016-23-01 01:41:41   INFO [libs.WebElementOnPage] : Browser was closed!
+2016-23-01 01:41:41   INFO [pages.SignUpPage] : Page SignUP and browser was closed!
+2016-23-01 01:42:54   INFO [tests.signUpTests.TC1] :  ----- class org.openqa.selenium.firefox.FirefoxDriver -------
+2016-23-01 01:42:54   INFO [tests.signUpTests.TC1] : Test - test1[0] - started
+2016-23-01 01:42:57   INFO [libs.WebElementOnPage] : Browser and url https://zapier.com/sign-up/ was opened!
+2016-23-01 01:42:57   INFO [pages.SignUpPage] : Browser and url https://zapier.com/sign-up/was opened!
+2016-23-01 01:42:58   INFO [libs.WebElementOnPage] : Text Roman was typed into input!
+2016-23-01 01:42:58   INFO [pages.SignUpPage] : First name was typed in input FirstName: true
+2016-23-01 01:42:59   INFO [libs.WebElementOnPage] : Text Lekh was typed into input!
+2016-23-01 01:42:59   INFO [pages.SignUpPage] : Last name was typed into input LastName: true
+2016-23-01 01:42:59   INFO [libs.WebElementOnPage] : Text ______ was typed into input!
+2016-23-01 01:42:59   INFO [pages.SignUpPage] : Email was typed into input Email: true
+2016-23-01 01:42:59   INFO [libs.WebElementOnPage] : Text 123 was typed into input!
+2016-23-01 01:42:59   INFO [pages.SignUpPage] : Password was typed into input Password: true
+2016-23-01 01:42:59   INFO [pages.SignUpPage] : Check box "Updates" was unchecked: true
+2016-23-01 01:43:01   INFO [libs.WebElementOnPage] : Button [[FirefoxDriver: firefox on LINUX (eaac9330-50f9-4fbc-a133-3adb26a0906b)] -> xpath: .//*[@type='submit']] was clicked
+2016-23-01 01:43:01   INFO [pages.SignUpPage] : Button "Sign Up" was clicked: true
+2016-23-01 01:43:02   INFO [libs.WebElementOnPage] : Element is on page!
+2016-23-01 01:43:02   INFO [pages.SignUpPage] : Error message on page: true
+2016-23-01 01:43:02   INFO [libs.WebElementOnPage] : Browser was closed!
+2016-23-01 01:43:02   INFO [pages.SignUpPage] : Page SignUP and browser was closed!
+2016-23-01 01:43:04   INFO [tests.signUpTests.TC1] :  ----- class org.openqa.selenium.chrome.ChromeDriver -------
+2016-23-01 01:43:04   INFO [tests.signUpTests.TC1] : Test - test1[1] - started
+2016-23-01 01:43:08   INFO [libs.WebElementOnPage] : Browser and url https://zapier.com/sign-up/ was opened!
+2016-23-01 01:43:08   INFO [pages.SignUpPage] : Browser and url https://zapier.com/sign-up/was opened!
+2016-23-01 01:43:08   INFO [libs.WebElementOnPage] : Text Roman was typed into input!
+2016-23-01 01:43:08   INFO [pages.SignUpPage] : First name was typed in input FirstName: true
+2016-23-01 01:43:09   INFO [libs.WebElementOnPage] : Text Lekh was typed into input!
+2016-23-01 01:43:09   INFO [pages.SignUpPage] : Last name was typed into input LastName: true
+2016-23-01 01:43:09   INFO [libs.WebElementOnPage] : Text ______ was typed into input!
+2016-23-01 01:43:09   INFO [pages.SignUpPage] : Email was typed into input Email: true
+2016-23-01 01:43:09   INFO [libs.WebElementOnPage] : Text 123 was typed into input!
+2016-23-01 01:43:09   INFO [pages.SignUpPage] : Password was typed into input Password: true
+2016-23-01 01:43:09   INFO [pages.SignUpPage] : Check box "Updates" was unchecked: true
+2016-23-01 01:43:11   INFO [libs.WebElementOnPage] : Button [[ChromeDriver: chrome on LINUX (7e533626fbb5ac38fccd509d402dae4e)] -> xpath: .//*[@type='submit']] was clicked
+2016-23-01 01:43:11   INFO [pages.SignUpPage] : Button "Sign Up" was clicked: true
+2016-23-01 01:43:12   INFO [libs.WebElementOnPage] : Element is on page!
+2016-23-01 01:43:12   INFO [pages.SignUpPage] : Error message on page: true
+2016-23-01 01:43:12   INFO [libs.WebElementOnPage] : Browser was closed!
+2016-23-01 01:43:12   INFO [pages.SignUpPage] : Page SignUP and browser was closed!
+2016-24-01 15:30:56   INFO [tests.contactUsTests.TC10] :  ----- class org.openqa.selenium.firefox.FirefoxDriver -------
+2016-24-01 15:30:56   INFO [tests.contactUsTests.TC10] : Test - test10[0] - started
+2016-24-01 15:31:01   INFO [libs.WebElementOnPage] : Browser and url https://zapier.com/app/contact-us was opened!
+2016-24-01 15:31:01   INFO [pages.ContactUsPage] : Page https://zapier.com/app/contact-us was opened!
+2016-24-01 15:31:33  ERROR [pages.ContactUsPage] : org.openqa.selenium.TimeoutException: Timed out after 30 seconds waiting for element to be clickable: [[FirefoxDriver: firefox on LINUX (979c3d34-5585-4b6d-9b1d-84832709b405)] -> xpath: .//textarea[contains(@class, input) and @data-id='question_type']]
+Build info: version: '2.49.0', revision: '365eeb4', time: '2016-01-13 18:37:00'
+System info: host: 'romanlekh-mint', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.16.0-38-generic', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=38.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 979c3d34-5585-4b6d-9b1d-84832709b405
+2016-24-01 15:31:33   INFO [libs.WebElementOnPage] : Browser was closed!
+2016-24-01 15:31:33   INFO [pages.ContactUsPage] : ContactUs page was closed!
+2016-24-01 15:31:40   INFO [tests.contactUsTests.TC10] :  ----- class org.openqa.selenium.chrome.ChromeDriver -------
+2016-24-01 15:31:40   INFO [tests.contactUsTests.TC10] : Test - test10[1] - started
+2016-24-01 15:31:44   INFO [libs.WebElementOnPage] : Browser and url https://zapier.com/app/contact-us was opened!
+2016-24-01 15:31:44   INFO [pages.ContactUsPage] : Page https://zapier.com/app/contact-us was opened!
+2016-24-01 15:32:11  ERROR [pages.ContactUsPage] : org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=47.0.2526.111)
+  (Driver info: chromedriver=2.20.353124 (035346203162d32c80f1dce587c8154a1efa0c3b),platform=Linux 3.16.0-38-generic x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 5 milliseconds
+Build info: version: '2.49.0', revision: '365eeb4', time: '2016-01-13 18:37:00'
+System info: host: 'romanlekh-mint', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.16.0-38-generic', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=/tmp/.com.google.Chrome.XXMBqg}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=47.0.2526.111, platform=LINUX, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: d7870b0440cd55ad5b38e7c4482064bc
+2016-24-01 15:32:11   INFO [libs.WebElementOnPage] : Browser was closed!
+2016-24-01 15:32:11   INFO [pages.ContactUsPage] : ContactUs page was closed!
+2016-24-01 15:34:19   INFO [tests.contactUsTests.TC10] :  ----- class org.openqa.selenium.firefox.FirefoxDriver -------
+2016-24-01 15:34:19   INFO [tests.contactUsTests.TC10] : Test - test10[0] - started
+2016-24-01 15:34:26  ERROR [libs.WebElementOnPage] : org.openqa.selenium.remote.UnreachableBrowserException: Error communicating with the remote browser. It may have died.
+Build info: version: '2.49.0', revision: '365eeb4', time: '2016-01-13 18:37:00'
+System info: host: 'romanlekh-mint', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.16.0-38-generic', java.version: '1.8.0_65'
+Driver info: driver.version: RemoteWebDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=38.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 2a0707da-052b-4364-9a36-73c23a9c2257
+2016-24-01 15:34:26  ERROR [libs.WebElementOnPage] : org.openqa.selenium.remote.UnreachableBrowserException: Error communicating with the remote browser. It may have died.
+Build info: version: '2.49.0', revision: '365eeb4', time: '2016-01-13 18:37:00'
+System info: host: 'romanlekh-mint', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.16.0-38-generic', java.version: '1.8.0_65'
+Driver info: driver.version: RemoteWebDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=38.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 2a0707da-052b-4364-9a36-73c23a9c2257
+2016-24-01 15:34:26   INFO [pages.ContactUsPage] : ContactUs page was closed!
+2016-24-01 15:34:29   INFO [tests.contactUsTests.TC10] :  ----- class org.openqa.selenium.chrome.ChromeDriver -------
+2016-24-01 15:34:29   INFO [tests.contactUsTests.TC10] : Test - test10[1] - started
+2016-24-01 15:34:32   INFO [libs.WebElementOnPage] : Browser and url https://zapier.com/app/contact-us was opened!
+2016-24-01 15:34:32   INFO [pages.ContactUsPage] : Page https://zapier.com/app/contact-us was opened!
+2016-24-01 15:34:32  ERROR [pages.ContactUsPage] : org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=47.0.2526.111)
+  (Driver info: chromedriver=2.20.353124 (035346203162d32c80f1dce587c8154a1efa0c3b),platform=Linux 3.16.0-38-generic x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 14 milliseconds
+Build info: version: '2.49.0', revision: '365eeb4', time: '2016-01-13 18:37:00'
+System info: host: 'romanlekh-mint', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.16.0-38-generic', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=/tmp/.com.google.Chrome.mRiM8A}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=47.0.2526.111, platform=LINUX, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 0e8e599f7852ce672d526eaadf0c37c9
+*** Element info: {Using=xpath, value=.//textarea[contains(@class, input) and @data-id='question_type']}
+2016-24-01 15:34:32   INFO [libs.WebElementOnPage] : Browser was closed!
+2016-24-01 15:34:32   INFO [pages.ContactUsPage] : ContactUs page was closed!
+2016-24-01 15:35:16   INFO [libs.WebElementOnPage] : Browser and url https://zapier.com/app/contact-us was opened!
+2016-24-01 15:35:16   INFO [pages.ContactUsPage] : Page https://zapier.com/app/contact-us was opened!
+2016-24-01 15:36:12   INFO [libs.WebElementOnPage] : Browser and url https://zapier.com/app/contact-us was opened!
+2016-24-01 15:36:12   INFO [pages.ContactUsPage] : Page https://zapier.com/app/contact-us was opened!
+2016-24-01 16:47:05   INFO [tests.contactUsTests.TC10] :  ----- class org.openqa.selenium.firefox.FirefoxDriver -------
+2016-24-01 16:47:06   INFO [tests.contactUsTests.TC10] : Test - test10[0] - started
+2016-24-01 16:47:16   INFO [libs.WebElementOnPage] : Browser and url https://zapier.com/app/contact-us was opened!
+2016-24-01 16:47:16   INFO [pages.ContactUsPage] : Page https://zapier.com/app/contact-us was opened!
+2016-24-01 16:47:17  ERROR [pages.ContactUsPage] : org.openqa.selenium.InvalidSelectorException: The given selector (".//*[@data-key='I have a question before signing up']/a[1]") is either invalid or does not result in a WebElement. The following error occurred:
+InvalidSelectorError: Unable to locate an element with the xpath expression (".//*[@data-key='I have a question before signing up']/a[1]") because of the following error:
+TypeError: The expression cannot be converted to return the specified type.
+Command duration or timeout: 1.25 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '2.49.0', revision: '365eeb4', time: '2016-01-13 18:37:00'
+System info: host: 'romanlekh-mint', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.16.0-38-generic', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=38.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 20e862f0-7121-4543-8158-cb6478cddf57
+*** Element info: {Using=xpath, value=(".//*[@data-key='I have a question before signing up']/a[1]")}
+2016-24-01 16:47:17   INFO [libs.WebElementOnPage] : Browser was closed!
+2016-24-01 16:47:17   INFO [pages.ContactUsPage] : ContactUs page was closed!
+2016-24-01 16:47:32   INFO [tests.contactUsTests.TC10] :  ----- class org.openqa.selenium.chrome.ChromeDriver -------
+2016-24-01 16:47:32   INFO [tests.contactUsTests.TC10] : Test - test10[1] - started
+2016-24-01 16:47:42   INFO [libs.WebElementOnPage] : Browser and url https://zapier.com/app/contact-us was opened!
+2016-24-01 16:47:42   INFO [pages.ContactUsPage] : Page https://zapier.com/app/contact-us was opened!
+2016-24-01 16:47:43  ERROR [pages.ContactUsPage] : org.openqa.selenium.InvalidSelectorException: invalid selector: Unable to locate an element with the xpath expression (".//*[@data-key='I have a question before signing up']/a[1]") because of the following error:
+TypeError: Failed to execute 'evaluate' on 'Document': The result is not a node set, and therefore cannot be converted to the desired type.
+  (Session info: chrome=47.0.2526.111)
+  (Driver info: chromedriver=2.20.353124 (035346203162d32c80f1dce587c8154a1efa0c3b),platform=Linux 3.16.0-38-generic x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 106 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '2.49.0', revision: '365eeb4', time: '2016-01-13 18:37:00'
+System info: host: 'romanlekh-mint', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.16.0-38-generic', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=/tmp/.com.google.Chrome.tDqPTj}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=47.0.2526.111, platform=LINUX, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: abdf2c1a6e6053ad54b13d96a2953e84
+*** Element info: {Using=xpath, value=(".//*[@data-key='I have a question before signing up']/a[1]")}
+2016-24-01 16:47:43   INFO [libs.WebElementOnPage] : Browser was closed!
+2016-24-01 16:47:43   INFO [pages.ContactUsPage] : ContactUs page was closed!
+2016-24-01 17:00:03   INFO [tests.contactUsTests.TC10] :  ----- class org.openqa.selenium.firefox.FirefoxDriver -------
+2016-24-01 17:00:03   INFO [tests.contactUsTests.TC10] : Test - test10[0] - started
+2016-24-01 17:00:17   INFO [libs.WebElementOnPage] : Browser and url https://zapier.com/app/contact-us was opened!
+2016-24-01 17:00:17   INFO [pages.ContactUsPage] : Page https://zapier.com/app/contact-us was opened!
+2016-24-01 17:00:19  ERROR [pages.ContactUsPage] : org.openqa.selenium.InvalidSelectorException: The given selector (".//*[@data-key='I have a question before signing up']/a[1]") is either invalid or does not result in a WebElement. The following error occurred:
+InvalidSelectorError: Unable to locate an element with the xpath expression (".//*[@data-key='I have a question before signing up']/a[1]") because of the following error:
+TypeError: The expression cannot be converted to return the specified type.
+Command duration or timeout: 39 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '2.49.0', revision: '365eeb4', time: '2016-01-13 18:37:00'
+System info: host: 'romanlekh-mint', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.16.0-38-generic', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=38.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 16cf74fd-d34f-4397-871b-6840b86d4be6
+*** Element info: {Using=xpath, value=(".//*[@data-key='I have a question before signing up']/a[1]")}
+2016-24-01 17:00:19   INFO [libs.WebElementOnPage] : Browser was closed!
+2016-24-01 17:00:19   INFO [pages.ContactUsPage] : ContactUs page was closed!
+2016-24-01 17:00:26   INFO [tests.contactUsTests.TC10] :  ----- class org.openqa.selenium.chrome.ChromeDriver -------
+2016-24-01 17:00:26   INFO [tests.contactUsTests.TC10] : Test - test10[1] - started
+2016-24-01 17:00:36   INFO [libs.WebElementOnPage] : Browser and url https://zapier.com/app/contact-us was opened!
+2016-24-01 17:00:36   INFO [pages.ContactUsPage] : Page https://zapier.com/app/contact-us was opened!
+2016-24-01 17:00:36  ERROR [pages.ContactUsPage] : org.openqa.selenium.InvalidSelectorException: invalid selector: Unable to locate an element with the xpath expression (".//*[@data-key='I have a question before signing up']/a[1]") because of the following error:
+TypeError: Failed to execute 'evaluate' on 'Document': The result is not a node set, and therefore cannot be converted to the desired type.
+  (Session info: chrome=47.0.2526.111)
+  (Driver info: chromedriver=2.20.353124 (035346203162d32c80f1dce587c8154a1efa0c3b),platform=Linux 3.16.0-38-generic x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 101 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '2.49.0', revision: '365eeb4', time: '2016-01-13 18:37:00'
+System info: host: 'romanlekh-mint', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.16.0-38-generic', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=/tmp/.com.google.Chrome.7efvFE}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=47.0.2526.111, platform=LINUX, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 47337877c5879b47e2bfde7a9f6a4228
+*** Element info: {Using=xpath, value=(".//*[@data-key='I have a question before signing up']/a[1]")}
+2016-24-01 17:00:36   INFO [libs.WebElementOnPage] : Browser was closed!
+2016-24-01 17:00:36   INFO [pages.ContactUsPage] : ContactUs page was closed!
+2016-24-01 19:06:21   INFO [tests.signUpTests.TC2] :  ----- class org.openqa.selenium.firefox.FirefoxDriver -------
+2016-24-01 19:06:21   INFO [tests.signUpTests.TC2] : Test - test2[0] - started
+2016-24-01 19:06:27   INFO [libs.WebElementOnPage] : Browser and url https://zapier.com/sign-up/ was opened!
+2016-24-01 19:06:27   INFO [pages.SignUpPage] : Browser and url https://zapier.com/sign-up/was opened!
+2016-24-01 19:06:28   INFO [libs.WebElementOnPage] : Text Zelenskiy was typed into input!
+2016-24-01 19:06:28   INFO [pages.SignUpPage] : Last name was typed into input LastName: true
+2016-24-01 19:06:28  ERROR [libs.WebElementOnPage] : java.lang.NullPointerException
+2016-24-01 19:06:28   INFO [pages.SignUpPage] : TAB was pressed 5times
+2016-24-01 19:06:28  ERROR [libs.WebElementOnPage] : java.lang.NullPointerException
+2016-24-01 19:06:28   INFO [pages.SignUpPage] : Enter was pressed 1times
+2016-24-01 19:06:31  ERROR [libs.WebElementOnPage] : Can't find element on page!
+2016-24-01 19:06:31   INFO [pages.SignUpPage] : Error message on page: false
+2016-24-01 19:06:31   INFO [libs.WebElementOnPage] : Browser was closed!
+2016-24-01 19:06:31   INFO [pages.SignUpPage] : Page SignUP and browser was closed!
+2016-24-01 19:06:39   INFO [tests.signUpTests.TC2] :  ----- class org.openqa.selenium.chrome.ChromeDriver -------
+2016-24-01 19:06:39   INFO [tests.signUpTests.TC2] : Test - test2[1] - started
+2016-24-01 19:06:44   INFO [libs.WebElementOnPage] : Browser and url https://zapier.com/sign-up/ was opened!
+2016-24-01 19:06:44   INFO [pages.SignUpPage] : Browser and url https://zapier.com/sign-up/was opened!
+2016-24-01 19:06:44   INFO [libs.WebElementOnPage] : Text Zelenskiy was typed into input!
+2016-24-01 19:06:44   INFO [pages.SignUpPage] : Last name was typed into input LastName: true
+2016-24-01 19:06:44  ERROR [libs.WebElementOnPage] : java.lang.NullPointerException
+2016-24-01 19:06:44   INFO [pages.SignUpPage] : TAB was pressed 5times
+2016-24-01 19:06:44  ERROR [libs.WebElementOnPage] : java.lang.NullPointerException
+2016-24-01 19:06:44   INFO [pages.SignUpPage] : Enter was pressed 1times
+2016-24-01 19:06:47  ERROR [libs.WebElementOnPage] : Can't find element on page!
+2016-24-01 19:06:47   INFO [pages.SignUpPage] : Error message on page: false
+2016-24-01 19:06:48   INFO [libs.WebElementOnPage] : Browser was closed!
+2016-24-01 19:06:48   INFO [pages.SignUpPage] : Page SignUP and browser was closed!
+2016-24-01 19:08:59   INFO [tests.signUpTests.TC2] :  ----- class org.openqa.selenium.firefox.FirefoxDriver -------
+2016-24-01 19:08:59   INFO [tests.signUpTests.TC2] : Test - test2[0] - started
+2016-24-01 19:09:05   INFO [libs.WebElementOnPage] : Browser and url https://zapier.com/sign-up/ was opened!
+2016-24-01 19:09:05   INFO [pages.SignUpPage] : Browser and url https://zapier.com/sign-up/was opened!
+2016-24-01 19:09:06   INFO [libs.WebElementOnPage] : Text Zelenskiy was typed into input!
+2016-24-01 19:09:06   INFO [pages.SignUpPage] : Last name was typed into input LastName: true
+2016-24-01 19:09:06  ERROR [libs.WebElementOnPage] : java.lang.NullPointerException
+2016-24-01 19:09:06   INFO [pages.SignUpPage] : TAB was pressed 5times
+2016-24-01 19:09:06  ERROR [libs.WebElementOnPage] : java.lang.NullPointerException
+2016-24-01 19:09:06   INFO [pages.SignUpPage] : Enter was pressed 1times
+2016-24-01 19:09:09  ERROR [libs.WebElementOnPage] : Can't find element on page!
+2016-24-01 19:09:09   INFO [pages.SignUpPage] : Error message on page: false
+2016-24-01 19:09:10   INFO [libs.WebElementOnPage] : Browser was closed!
+2016-24-01 19:09:10   INFO [pages.SignUpPage] : Page SignUP and browser was closed!
+2016-24-01 19:09:12   INFO [tests.signUpTests.TC2] :  ----- class org.openqa.selenium.chrome.ChromeDriver -------
+2016-24-01 19:09:12   INFO [tests.signUpTests.TC2] : Test - test2[1] - started
+2016-24-01 19:09:17   INFO [libs.WebElementOnPage] : Browser and url https://zapier.com/sign-up/ was opened!
+2016-24-01 19:09:17   INFO [pages.SignUpPage] : Browser and url https://zapier.com/sign-up/was opened!
+2016-24-01 19:09:17   INFO [libs.WebElementOnPage] : Text Zelenskiy was typed into input!
+2016-24-01 19:09:17   INFO [pages.SignUpPage] : Last name was typed into input LastName: true
+2016-24-01 19:09:17  ERROR [libs.WebElementOnPage] : java.lang.NullPointerException
+2016-24-01 19:09:17   INFO [pages.SignUpPage] : TAB was pressed 5times
+2016-24-01 19:09:17  ERROR [libs.WebElementOnPage] : java.lang.NullPointerException
+2016-24-01 19:09:17   INFO [pages.SignUpPage] : Enter was pressed 1times
+2016-24-01 19:09:20  ERROR [libs.WebElementOnPage] : Can't find element on page!
+2016-24-01 19:09:20   INFO [pages.SignUpPage] : Error message on page: false
+2016-24-01 19:09:21   INFO [libs.WebElementOnPage] : Browser was closed!
+2016-24-01 19:09:21   INFO [pages.SignUpPage] : Page SignUP and browser was closed!
+2016-24-01 19:14:39   INFO [tests.contactUsTests.TC10] :  ----- class org.openqa.selenium.firefox.FirefoxDriver -------
+2016-24-01 19:14:39   INFO [tests.contactUsTests.TC10] : Test - test10[0] - started
+2016-24-01 19:14:44   INFO [libs.WebElementOnPage] : Browser and url https://zapier.com/app/contact-us was opened!
+2016-24-01 19:14:44   INFO [pages.ContactUsPage] : Page https://zapier.com/app/contact-us was opened!
+2016-24-01 19:14:45   INFO [pages.ContactUsPage] : Item was selected from DD: 
+2016-24-01 19:14:49  ERROR [libs.WebElementOnPage] : org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"partial link text","selector":".//textarea[contains(@class, input) and @data-id='message']"}
+Command duration or timeout: 3.28 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.49.0', revision: '365eeb4', time: '2016-01-13 18:37:00'
+System info: host: 'romanlekh-mint', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.16.0-38-generic', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=38.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 6961c84a-4e74-48ce-839d-05df04a87b06
+*** Element info: {Using=partial link text, value=.//textarea[contains(@class, input) and @data-id='message']}
+2016-24-01 19:14:49   INFO [pages.ContactUsPage] : Text What is the service?was typed into input questionText: false
+2016-24-01 19:14:52  ERROR [libs.WebElementOnPage] : Can't find element on page!
+2016-24-01 19:14:52   INFO [pages.ContactUsPage] : Button NEXT is present on Page!
+2016-24-01 19:14:52   INFO [libs.WebElementOnPage] : Browser was closed!
+2016-24-01 19:14:52   INFO [pages.ContactUsPage] : ContactUs page was closed!
+2016-24-01 19:14:58   INFO [tests.contactUsTests.TC10] :  ----- class org.openqa.selenium.chrome.ChromeDriver -------
+2016-24-01 19:14:58   INFO [tests.contactUsTests.TC10] : Test - test10[1] - started
+2016-24-01 19:15:03   INFO [libs.WebElementOnPage] : Browser and url https://zapier.com/app/contact-us was opened!
+2016-24-01 19:15:03   INFO [pages.ContactUsPage] : Page https://zapier.com/app/contact-us was opened!
+2016-24-01 19:15:03   INFO [pages.ContactUsPage] : Item was selected from DD: 
+2016-24-01 19:15:06  ERROR [libs.WebElementOnPage] : org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"partial link text","selector":".//textarea[contains(@class, input) and @data-id='message']"}
+  (Session info: chrome=47.0.2526.111)
+  (Driver info: chromedriver=2.20.353124 (035346203162d32c80f1dce587c8154a1efa0c3b),platform=Linux 3.16.0-38-generic x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 3.06 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.49.0', revision: '365eeb4', time: '2016-01-13 18:37:00'
+System info: host: 'romanlekh-mint', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.16.0-38-generic', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=/tmp/.com.google.Chrome.oU3U42}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=47.0.2526.111, platform=LINUX, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: bb1174e6a13014828a6f08d0e3819eb6
+*** Element info: {Using=partial link text, value=.//textarea[contains(@class, input) and @data-id='message']}
+2016-24-01 19:15:06   INFO [pages.ContactUsPage] : Text What is the service?was typed into input questionText: false
+2016-24-01 19:15:09  ERROR [libs.WebElementOnPage] : Can't find element on page!
+2016-24-01 19:15:09   INFO [pages.ContactUsPage] : Button NEXT is present on Page!
+2016-24-01 19:15:10   INFO [libs.WebElementOnPage] : Browser was closed!
+2016-24-01 19:15:10   INFO [pages.ContactUsPage] : ContactUs page was closed!
+2016-24-01 19:17:24   INFO [tests.contactUsTests.TC10] :  ----- class org.openqa.selenium.firefox.FirefoxDriver -------
+2016-24-01 19:17:24   INFO [tests.contactUsTests.TC10] : Test - test10[0] - started
+2016-24-01 19:17:31   INFO [libs.WebElementOnPage] : Browser and url https://zapier.com/app/contact-us was opened!
+2016-24-01 19:17:31   INFO [pages.ContactUsPage] : Page https://zapier.com/app/contact-us was opened!
+2016-24-01 19:17:32  ERROR [pages.ContactUsPage] : org.openqa.selenium.InvalidSelectorException: The given selector (".//*[@data-key='I have a question before signing up']/a[1]") is either invalid or does not result in a WebElement. The following error occurred:
+InvalidSelectorError: Unable to locate an element with the xpath expression (".//*[@data-key='I have a question before signing up']/a[1]") because of the following error:
+TypeError: The expression cannot be converted to return the specified type.
+Command duration or timeout: 49 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '2.49.0', revision: '365eeb4', time: '2016-01-13 18:37:00'
+System info: host: 'romanlekh-mint', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.16.0-38-generic', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=38.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 6dd4fb96-32e9-4087-a965-740f78ad6c54
+*** Element info: {Using=xpath, value=(".//*[@data-key='I have a question before signing up']/a[1]")}
+2016-24-01 19:17:32   INFO [libs.WebElementOnPage] : Browser was closed!
+2016-24-01 19:17:32   INFO [pages.ContactUsPage] : ContactUs page was closed!
+2016-24-01 19:17:34   INFO [tests.contactUsTests.TC10] :  ----- class org.openqa.selenium.chrome.ChromeDriver -------
+2016-24-01 19:17:34   INFO [tests.contactUsTests.TC10] : Test - test10[1] - started
+2016-24-01 19:17:40   INFO [libs.WebElementOnPage] : Browser and url https://zapier.com/app/contact-us was opened!
+2016-24-01 19:17:40   INFO [pages.ContactUsPage] : Page https://zapier.com/app/contact-us was opened!
+2016-24-01 19:17:41  ERROR [pages.ContactUsPage] : org.openqa.selenium.InvalidSelectorException: invalid selector: Unable to locate an element with the xpath expression (".//*[@data-key='I have a question before signing up']/a[1]") because of the following error:
+TypeError: Failed to execute 'evaluate' on 'Document': The result is not a node set, and therefore cannot be converted to the desired type.
+  (Session info: chrome=47.0.2526.111)
+  (Driver info: chromedriver=2.20.353124 (035346203162d32c80f1dce587c8154a1efa0c3b),platform=Linux 3.16.0-38-generic x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 91 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '2.49.0', revision: '365eeb4', time: '2016-01-13 18:37:00'
+System info: host: 'romanlekh-mint', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.16.0-38-generic', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=/tmp/.com.google.Chrome.Gx1mH0}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=47.0.2526.111, platform=LINUX, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 01bd09530677132acd40af37909633d3
+*** Element info: {Using=xpath, value=(".//*[@data-key='I have a question before signing up']/a[1]")}
+2016-24-01 19:17:41   INFO [libs.WebElementOnPage] : Browser was closed!
+2016-24-01 19:17:41   INFO [pages.ContactUsPage] : ContactUs page was closed!
+2016-24-01 19:24:29   INFO [tests.contactUsTests.TC10] :  ----- class org.openqa.selenium.firefox.FirefoxDriver -------
+2016-24-01 19:24:29   INFO [tests.contactUsTests.TC10] : Test - test10[0] - started
+2016-24-01 19:24:40   INFO [libs.WebElementOnPage] : Browser and url https://zapier.com/app/contact-us was opened!
+2016-24-01 19:24:40   INFO [pages.ContactUsPage] : Page https://zapier.com/app/contact-us was opened!
+2016-24-01 19:24:41  ERROR [pages.ContactUsPage] : org.openqa.selenium.InvalidSelectorException: The given selector ".//*[@data-key='I have a question before signing up']/a[1]" is either invalid or does not result in a WebElement. The following error occurred:
+InvalidSelectorError: Unable to locate an element with the xpath expression ".//*[@data-key='I have a question before signing up']/a[1]" because of the following error:
+TypeError: The expression cannot be converted to return the specified type.
+Command duration or timeout: 45 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '2.49.0', revision: '365eeb4', time: '2016-01-13 18:37:00'
+System info: host: 'romanlekh-mint', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.16.0-38-generic', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=38.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 966b9da8-5d8b-473d-86f5-80e0acbba0f6
+*** Element info: {Using=xpath, value=".//*[@data-key='I have a question before signing up']/a[1]"}
+2016-24-01 19:24:41   INFO [libs.WebElementOnPage] : Browser was closed!
+2016-24-01 19:24:41   INFO [pages.ContactUsPage] : ContactUs page was closed!
+2016-24-01 19:24:43   INFO [tests.contactUsTests.TC10] :  ----- class org.openqa.selenium.chrome.ChromeDriver -------
+2016-24-01 19:24:43   INFO [tests.contactUsTests.TC10] : Test - test10[1] - started
+2016-24-01 19:24:50   INFO [libs.WebElementOnPage] : Browser and url https://zapier.com/app/contact-us was opened!
+2016-24-01 19:24:50   INFO [pages.ContactUsPage] : Page https://zapier.com/app/contact-us was opened!
+2016-24-01 19:24:50  ERROR [pages.ContactUsPage] : org.openqa.selenium.InvalidSelectorException: invalid selector: Unable to locate an element with the xpath expression ".//*[@data-key='I have a question before signing up']/a[1]" because of the following error:
+TypeError: Failed to execute 'evaluate' on 'Document': The result is not a node set, and therefore cannot be converted to the desired type.
+  (Session info: chrome=47.0.2526.111)
+  (Driver info: chromedriver=2.20.353124 (035346203162d32c80f1dce587c8154a1efa0c3b),platform=Linux 3.16.0-38-generic x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 85 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '2.49.0', revision: '365eeb4', time: '2016-01-13 18:37:00'
+System info: host: 'romanlekh-mint', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.16.0-38-generic', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=/tmp/.com.google.Chrome.JC4tk1}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=47.0.2526.111, platform=LINUX, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: d840018054abffd053c61d439dffdd95
+*** Element info: {Using=xpath, value=".//*[@data-key='I have a question before signing up']/a[1]"}
+2016-24-01 19:24:50   INFO [libs.WebElementOnPage] : Browser was closed!
+2016-24-01 19:24:50   INFO [pages.ContactUsPage] : ContactUs page was closed!
+2016-24-01 19:26:15   INFO [tests.contactUsTests.TC10] :  ----- class org.openqa.selenium.firefox.FirefoxDriver -------
+2016-24-01 19:26:15   INFO [tests.contactUsTests.TC10] : Test - test10[0] - started
+2016-24-01 19:26:21   INFO [libs.WebElementOnPage] : Browser and url https://zapier.com/app/contact-us was opened!
+2016-24-01 19:26:21   INFO [pages.ContactUsPage] : Page https://zapier.com/app/contact-us was opened!
+2016-24-01 19:26:22  ERROR [pages.ContactUsPage] : org.openqa.selenium.InvalidSelectorException: The given selector (".//*[@data-key='I have a question before signing up']/a[1]") is either invalid or does not result in a WebElement. The following error occurred:
+InvalidSelectorError: Unable to locate an element with the xpath expression (".//*[@data-key='I have a question before signing up']/a[1]") because of the following error:
+TypeError: The expression cannot be converted to return the specified type.
+Command duration or timeout: 33 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '2.49.0', revision: '365eeb4', time: '2016-01-13 18:37:00'
+System info: host: 'romanlekh-mint', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.16.0-38-generic', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=38.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: fa514a1d-fa3e-4b36-9b65-fe5b501e8143
+*** Element info: {Using=xpath, value=(".//*[@data-key='I have a question before signing up']/a[1]")}
+2016-24-01 19:26:22   INFO [libs.WebElementOnPage] : Browser was closed!
+2016-24-01 19:26:22   INFO [pages.ContactUsPage] : ContactUs page was closed!
+2016-24-01 19:26:24   INFO [tests.contactUsTests.TC10] :  ----- class org.openqa.selenium.chrome.ChromeDriver -------
+2016-24-01 19:26:24   INFO [tests.contactUsTests.TC10] : Test - test10[1] - started
+2016-24-01 19:26:30   INFO [libs.WebElementOnPage] : Browser and url https://zapier.com/app/contact-us was opened!
+2016-24-01 19:26:30   INFO [pages.ContactUsPage] : Page https://zapier.com/app/contact-us was opened!
+2016-24-01 19:26:30  ERROR [pages.ContactUsPage] : org.openqa.selenium.InvalidSelectorException: invalid selector: Unable to locate an element with the xpath expression (".//*[@data-key='I have a question before signing up']/a[1]") because of the following error:
+TypeError: Failed to execute 'evaluate' on 'Document': The result is not a node set, and therefore cannot be converted to the desired type.
+  (Session info: chrome=47.0.2526.111)
+  (Driver info: chromedriver=2.20.353124 (035346203162d32c80f1dce587c8154a1efa0c3b),platform=Linux 3.16.0-38-generic x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 129 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '2.49.0', revision: '365eeb4', time: '2016-01-13 18:37:00'
+System info: host: 'romanlekh-mint', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.16.0-38-generic', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=/tmp/.com.google.Chrome.u0SjGp}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=47.0.2526.111, platform=LINUX, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 52d9b2d538605f3a0a4cc20d4d5fe701
+*** Element info: {Using=xpath, value=(".//*[@data-key='I have a question before signing up']/a[1]")}
+2016-24-01 19:26:30   INFO [libs.WebElementOnPage] : Browser was closed!
+2016-24-01 19:26:30   INFO [pages.ContactUsPage] : ContactUs page was closed!
+2016-24-01 19:32:06   INFO [tests.contactUsTests.TC10] :  ----- class org.openqa.selenium.firefox.FirefoxDriver -------
+2016-24-01 19:32:06   INFO [tests.contactUsTests.TC10] : Test - test10[0] - started
+2016-24-01 19:32:11   INFO [libs.WebElementOnPage] : Browser and url https://zapier.com/app/contact-us was opened!
+2016-24-01 19:32:11   INFO [pages.ContactUsPage] : Page https://zapier.com/app/contact-us was opened!
+2016-24-01 19:32:11  ERROR [ConfigData] : Can't get locator!
+2016-24-01 19:32:11  ERROR [pages.ContactUsPage] : java.lang.NullPointerException
+2016-24-01 19:32:12   INFO [libs.WebElementOnPage] : Browser was closed!
+2016-24-01 19:32:12   INFO [pages.ContactUsPage] : ContactUs page was closed!
+2016-24-01 19:36:07   INFO [tests.contactUsTests.TC10] :  ----- class org.openqa.selenium.firefox.FirefoxDriver -------
+2016-24-01 19:36:07   INFO [tests.contactUsTests.TC10] : Test - test10[0] - started
+2016-24-01 19:36:11   INFO [libs.WebElementOnPage] : Browser and url https://zapier.com/app/contact-us was opened!
+2016-24-01 19:36:11   INFO [pages.ContactUsPage] : Page https://zapier.com/app/contact-us was opened!
+2016-24-01 19:36:16  ERROR [libs.WebElementOnPage] : org.openqa.selenium.WebDriverException: Element must be user-editable in order to clear it.
+Command duration or timeout: 3.10 seconds
+Build info: version: '2.49.0', revision: '365eeb4', time: '2016-01-13 18:37:00'
+System info: host: 'romanlekh-mint', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.16.0-38-generic', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=38.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 8b12005f-3aec-4fe0-b6dc-753444ce85e2
+2016-24-01 19:36:16   INFO [pages.ContactUsPage] : Item was selected from DD: 
+2016-24-01 19:36:19  ERROR [libs.WebElementOnPage] : org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":".//textarea[contains(@class, input) and @data-id='message']"}
+Command duration or timeout: 3.11 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.49.0', revision: '365eeb4', time: '2016-01-13 18:37:00'
+System info: host: 'romanlekh-mint', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.16.0-38-generic', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=38.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 8b12005f-3aec-4fe0-b6dc-753444ce85e2
+*** Element info: {Using=xpath, value=.//textarea[contains(@class, input) and @data-id='message']}
+2016-24-01 19:36:19   INFO [pages.ContactUsPage] : Text What is the service?was typed into input questionText: false
+2016-24-01 19:36:19   INFO [libs.WebElementOnPage] : Element is on page!
+2016-24-01 19:36:19   INFO [pages.ContactUsPage] : Button NEXT is present on Page!true
+2016-24-01 19:36:19   INFO [libs.WebElementOnPage] : Browser was closed!
+2016-24-01 19:36:19   INFO [pages.ContactUsPage] : ContactUs page was closed!
+2016-24-01 19:38:15   INFO [tests.contactUsTests.TC10] :  ----- class org.openqa.selenium.firefox.FirefoxDriver -------
+2016-24-01 19:38:15   INFO [tests.contactUsTests.TC10] : Test - test10[0] - started
+2016-24-01 19:38:20   INFO [libs.WebElementOnPage] : Browser and url https://zapier.com/app/contact-us was opened!
+2016-24-01 19:38:20   INFO [pages.ContactUsPage] : Page https://zapier.com/app/contact-us was opened!
+2016-24-01 19:38:21   INFO [pages.ContactUsPage] : Item was selected from DD: 
+2016-24-01 19:38:24  ERROR [libs.WebElementOnPage] : org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":".//textarea[contains(@class, input) and @data-id='message']"}
+Command duration or timeout: 3.04 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.49.0', revision: '365eeb4', time: '2016-01-13 18:37:00'
+System info: host: 'romanlekh-mint', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.16.0-38-generic', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=38.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 0ae94480-0480-48a0-a255-736a415f41b3
+*** Element info: {Using=xpath, value=.//textarea[contains(@class, input) and @data-id='message']}
+2016-24-01 19:38:24   INFO [pages.ContactUsPage] : Text What is the service?was typed into input questionText: false
+2016-24-01 19:38:24   INFO [libs.WebElementOnPage] : Element is on page!
+2016-24-01 19:38:24   INFO [pages.ContactUsPage] : Button NEXT is present on Page!true
+2016-24-01 19:38:25   INFO [libs.WebElementOnPage] : Browser was closed!
+2016-24-01 19:38:25   INFO [pages.ContactUsPage] : ContactUs page was closed!
+2016-24-01 19:40:33   INFO [tests.contactUsTests.TC10] :  ----- class org.openqa.selenium.firefox.FirefoxDriver -------
+2016-24-01 19:40:33   INFO [tests.contactUsTests.TC10] : Test - test10[0] - started
+2016-24-01 19:40:38   INFO [libs.WebElementOnPage] : Browser and url https://zapier.com/app/contact-us was opened!
+2016-24-01 19:40:38   INFO [pages.ContactUsPage] : Page https://zapier.com/app/contact-us was opened!
+2016-24-01 19:40:39  ERROR [pages.ContactUsPage] : org.openqa.selenium.InvalidSelectorException: The given selector ".//*[@data-key='I have a question before signing up']/a[1]" is either invalid or does not result in a WebElement. The following error occurred:
+InvalidSelectorError: Unable to locate an element with the xpath expression ".//*[@data-key='I have a question before signing up']/a[1]" because of the following error:
+TypeError: The expression cannot be converted to return the specified type.
+Command duration or timeout: 43 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '2.49.0', revision: '365eeb4', time: '2016-01-13 18:37:00'
+System info: host: 'romanlekh-mint', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.16.0-38-generic', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=38.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: f883ac02-eab8-47da-8fd9-0a5db01f544f
+*** Element info: {Using=xpath, value=".//*[@data-key='I have a question before signing up']/a[1]"}
+2016-24-01 19:40:39   INFO [libs.WebElementOnPage] : Browser was closed!
+2016-24-01 19:40:39   INFO [pages.ContactUsPage] : ContactUs page was closed!
+2016-24-01 19:42:29   INFO [tests.contactUsTests.TC10] :  ----- class org.openqa.selenium.firefox.FirefoxDriver -------
+2016-24-01 19:42:29   INFO [tests.contactUsTests.TC10] : Test - test10[0] - started
+2016-24-01 19:42:34   INFO [libs.WebElementOnPage] : Browser and url https://zapier.com/app/contact-us was opened!
+2016-24-01 19:42:34   INFO [pages.ContactUsPage] : Page https://zapier.com/app/contact-us was opened!
+2016-24-01 19:42:36  ERROR [pages.ContactUsPage] : org.openqa.selenium.InvalidSelectorException: The given selector (".//*[@data-key='I have a question before signing up']/a[1]") is either invalid or does not result in a WebElement. The following error occurred:
+InvalidSelectorError: Unable to locate an element with the xpath expression (".//*[@data-key='I have a question before signing up']/a[1]") because of the following error:
+TypeError: The expression cannot be converted to return the specified type.
+Command duration or timeout: 33 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '2.49.0', revision: '365eeb4', time: '2016-01-13 18:37:00'
+System info: host: 'romanlekh-mint', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.16.0-38-generic', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=38.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 1c8809f9-e186-4e1e-a647-211291c11822
+*** Element info: {Using=xpath, value=(".//*[@data-key='I have a question before signing up']/a[1]")}
+2016-24-01 19:42:36   INFO [libs.WebElementOnPage] : Browser was closed!
+2016-24-01 19:42:36   INFO [pages.ContactUsPage] : ContactUs page was closed!
+2016-24-01 19:45:09   INFO [tests.contactUsTests.TC10] :  ----- class org.openqa.selenium.firefox.FirefoxDriver -------
+2016-24-01 19:45:09   INFO [tests.contactUsTests.TC10] : Test - test10[0] - started
+2016-24-01 19:45:15   INFO [libs.WebElementOnPage] : Browser and url https://zapier.com/app/contact-us was opened!
+2016-24-01 19:45:15   INFO [pages.ContactUsPage] : Page https://zapier.com/app/contact-us was opened!
+2016-24-01 19:45:16  ERROR [pages.ContactUsPage] : org.openqa.selenium.InvalidSelectorException: The given selector (".//*[@data-key='I have a question before signing up']/a[1]") is either invalid or does not result in a WebElement. The following error occurred:
+InvalidSelectorError: Unable to locate an element with the xpath expression (".//*[@data-key='I have a question before signing up']/a[1]") because of the following error:
+TypeError: The expression cannot be converted to return the specified type.
+Command duration or timeout: 48 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '2.49.0', revision: '365eeb4', time: '2016-01-13 18:37:00'
+System info: host: 'romanlekh-mint', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.16.0-38-generic', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=38.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 6a81ec03-fcad-409b-b354-9d5ef3d3dd32
+*** Element info: {Using=xpath, value=(".//*[@data-key='I have a question before signing up']/a[1]")}
+2016-24-01 19:45:16   INFO [libs.WebElementOnPage] : Browser was closed!
+2016-24-01 19:45:16   INFO [pages.ContactUsPage] : ContactUs page was closed!
+2016-24-01 19:45:53   INFO [tests.contactUsTests.TC10] :  ----- class org.openqa.selenium.firefox.FirefoxDriver -------
+2016-24-01 19:45:53   INFO [tests.contactUsTests.TC10] : Test - test10[0] - started
+2016-24-01 19:45:59   INFO [libs.WebElementOnPage] : Browser and url https://zapier.com/app/contact-us was opened!
+2016-24-01 19:45:59   INFO [pages.ContactUsPage] : Page https://zapier.com/app/contact-us was opened!
+2016-24-01 19:46:00  ERROR [pages.ContactUsPage] : org.openqa.selenium.InvalidSelectorException: The given selector ".//*[@data-key='I have a question before signing up']/a[1]" is either invalid or does not result in a WebElement. The following error occurred:
+InvalidSelectorError: Unable to locate an element with the xpath expression ".//*[@data-key='I have a question before signing up']/a[1]" because of the following error:
+TypeError: The expression cannot be converted to return the specified type.
+Command duration or timeout: 86 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '2.49.0', revision: '365eeb4', time: '2016-01-13 18:37:00'
+System info: host: 'romanlekh-mint', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.16.0-38-generic', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=38.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 90d82ae8-d4fd-4df0-991a-a3fefde4e5ca
+*** Element info: {Using=xpath, value=".//*[@data-key='I have a question before signing up']/a[1]"}
+2016-24-01 19:46:00   INFO [libs.WebElementOnPage] : Browser was closed!
+2016-24-01 19:46:00   INFO [pages.ContactUsPage] : ContactUs page was closed!
+2016-24-01 19:49:30   INFO [tests.contactUsTests.TC10] :  ----- class org.openqa.selenium.firefox.FirefoxDriver -------
+2016-24-01 19:49:30   INFO [tests.contactUsTests.TC10] : Test - test10[0] - started
+2016-24-01 19:49:35   INFO [libs.WebElementOnPage] : Browser and url https://zapier.com/app/contact-us was opened!
+2016-24-01 19:49:35   INFO [pages.ContactUsPage] : Page https://zapier.com/app/contact-us was opened!
+2016-24-01 19:49:36   INFO [libs.WebElementOnPage] : Lick [[FirefoxDriver: firefox on LINUX (c0691888-5bbe-463f-ac4f-9a41dc7bcf0a)] -> xpath: .//*[@data-key='I have a question before signing up']/a[1]] was clicked!
+2016-24-01 19:49:36   INFO [pages.ContactUsPage] : Item was selected from DD: 
+2016-24-01 19:49:40  ERROR [libs.WebElementOnPage] : org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
+Command duration or timeout: 3.04 seconds
+Build info: version: '2.49.0', revision: '365eeb4', time: '2016-01-13 18:37:00'
+System info: host: 'romanlekh-mint', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.16.0-38-generic', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=38.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: c0691888-5bbe-463f-ac4f-9a41dc7bcf0a
+2016-24-01 19:49:40   INFO [pages.ContactUsPage] : Text What is the service?was typed into input questionText: false
+2016-24-01 19:49:40   INFO [libs.WebElementOnPage] : Element is on page!
+2016-24-01 19:49:40   INFO [pages.ContactUsPage] : Button NEXT is present on Page!true
+2016-24-01 19:49:40   INFO [libs.WebElementOnPage] : Browser was closed!
+2016-24-01 19:49:40   INFO [pages.ContactUsPage] : ContactUs page was closed!
+2016-24-01 20:18:28   INFO [tests.contactUsTests.TC10] :  ----- class org.openqa.selenium.firefox.FirefoxDriver -------
+2016-24-01 20:18:28   INFO [tests.contactUsTests.TC10] : Test - test10[0] - started
+2016-24-01 20:18:33   INFO [libs.WebElementOnPage] : Browser and url https://zapier.com/app/contact-us was opened!
+2016-24-01 20:18:33   INFO [pages.ContactUsPage] : Page https://zapier.com/app/contact-us was opened!
+2016-24-01 20:18:35   INFO [libs.WebElementOnPage] : Lick [[FirefoxDriver: firefox on LINUX (d2f213e1-9a8c-40e8-aa35-16518a38610e)] -> xpath: .//*[@data-key='I have a question before signing up']/a[1]] was clicked!
+2016-24-01 20:18:35   INFO [pages.ContactUsPage] : Item was selected from DD: 
+2016-24-01 20:18:38  ERROR [libs.WebElementOnPage] : org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
+Command duration or timeout: 3.11 seconds
+Build info: version: '2.49.0', revision: '365eeb4', time: '2016-01-13 18:37:00'
+System info: host: 'romanlekh-mint', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.16.0-38-generic', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=38.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: d2f213e1-9a8c-40e8-aa35-16518a38610e
+2016-24-01 20:18:38   INFO [pages.ContactUsPage] : Text What is the service?was typed into input questionText: false
+2016-24-01 20:18:38   INFO [libs.WebElementOnPage] : Button [[FirefoxDriver: firefox on LINUX (d2f213e1-9a8c-40e8-aa35-16518a38610e)] -> xpath: .//*[@id='next']] was clicked
+2016-24-01 20:18:38   INFO [pages.ContactUsPage] : Button NEXT is present and clickable!
+2016-24-01 20:18:39   INFO [libs.WebElementOnPage] : Browser was closed!
+2016-24-01 20:18:39   INFO [pages.ContactUsPage] : ContactUs page was closed!
+2016-24-01 20:25:08   INFO [libs.WebElementOnPage] : Browser and url https://zapier.com/app/contact-us was opened!
+2016-24-01 20:25:08   INFO [pages.ContactUsPage] : Page https://zapier.com/app/contact-us was opened!
+2016-24-01 20:25:09   INFO [libs.WebElementOnPage] : Lick [[FirefoxDriver: firefox on LINUX (364c9b56-b174-43e6-9e74-1b4d2c60ffb2)] -> xpath: .//*[@data-key='I have a question before signing up']/a[1]] was clicked!
+2016-24-01 20:25:09   INFO [pages.ContactUsPage] : Item was selected from DD: 
+2016-24-01 20:25:13  ERROR [libs.WebElementOnPage] : org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
+Command duration or timeout: 3.07 seconds
+Build info: version: '2.49.0', revision: '365eeb4', time: '2016-01-13 18:37:00'
+System info: host: 'romanlekh-mint', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.16.0-38-generic', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=38.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 364c9b56-b174-43e6-9e74-1b4d2c60ffb2
+2016-24-01 20:25:13   INFO [libs.WebElementOnPage] : Button [[FirefoxDriver: firefox on LINUX (364c9b56-b174-43e6-9e74-1b4d2c60ffb2)] -> xpath: .//*[@id='next']] was clicked
+2016-24-01 20:25:13   INFO [pages.ContactUsPage] : Button NEXT is present and clickable!
+2016-24-01 20:30:05   INFO [libs.WebElementOnPage] : Browser and url https://zapier.com/app/contact-us was opened!
+2016-24-01 20:30:05   INFO [pages.ContactUsPage] : Page https://zapier.com/app/contact-us was opened!
+2016-24-01 20:30:06   INFO [libs.WebElementOnPage] : Lick [[FirefoxDriver: firefox on LINUX (33fa8b50-dc59-477a-a9ca-92b650554e4c)] -> xpath: .//*[@data-key='I have a question before signing up']/a[1]] was clicked!
+2016-24-01 20:30:06   INFO [pages.ContactUsPage] : Item was selected from DD: 
+2016-24-01 20:30:09  ERROR [libs.WebElementOnPage] : org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
+Command duration or timeout: 3.08 seconds
+Build info: version: '2.49.0', revision: '365eeb4', time: '2016-01-13 18:37:00'
+System info: host: 'romanlekh-mint', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.16.0-38-generic', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=38.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 33fa8b50-dc59-477a-a9ca-92b650554e4c
+2016-24-01 20:30:10   INFO [libs.WebElementOnPage] : Button [[FirefoxDriver: firefox on LINUX (33fa8b50-dc59-477a-a9ca-92b650554e4c)] -> xpath: .//*[@id='next']] was clicked
+2016-24-01 20:30:10   INFO [pages.ContactUsPage] : Button NEXT is present and clickable!
+2016-24-01 20:31:21   INFO [libs.WebElementOnPage] : Browser and url https://zapier.com/app/contact-us was opened!
+2016-24-01 20:31:21   INFO [pages.ContactUsPage] : Page https://zapier.com/app/contact-us was opened!
+2016-24-01 20:31:23   INFO [libs.WebElementOnPage] : Lick [[FirefoxDriver: firefox on LINUX (2096aa3a-ebc6-4e19-b4de-287f903a5a64)] -> xpath: .//*[@data-key='I have a question before signing up']/a[1]] was clicked!
+2016-24-01 20:31:23   INFO [pages.ContactUsPage] : Item was selected from DD: 
+2016-24-01 20:31:26  ERROR [libs.WebElementOnPage] : org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
+Command duration or timeout: 3.08 seconds
+Build info: version: '2.49.0', revision: '365eeb4', time: '2016-01-13 18:37:00'
+System info: host: 'romanlekh-mint', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.16.0-38-generic', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=38.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 2096aa3a-ebc6-4e19-b4de-287f903a5a64
+2016-24-01 20:31:29  ERROR [libs.WebElementOnPage] : org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
+Command duration or timeout: 3.10 seconds
+Build info: version: '2.49.0', revision: '365eeb4', time: '2016-01-13 18:37:00'
+System info: host: 'romanlekh-mint', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.16.0-38-generic', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=38.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 2096aa3a-ebc6-4e19-b4de-287f903a5a64
+2016-24-01 20:31:29   INFO [pages.ContactUsPage] : Text wrbwaqdbwrbwas typed into input questionText: false
+2016-24-01 20:31:29   INFO [libs.WebElementOnPage] : Button [[FirefoxDriver: firefox on LINUX (2096aa3a-ebc6-4e19-b4de-287f903a5a64)] -> xpath: .//*[@id='next']] was clicked
+2016-24-01 20:31:29   INFO [pages.ContactUsPage] : Button NEXT is present and clickable!
+2016-24-01 20:34:25   INFO [libs.WebElementOnPage] : Browser and url https://zapier.com/app/contact-us was opened!
+2016-24-01 20:34:25   INFO [pages.ContactUsPage] : Page https://zapier.com/app/contact-us was opened!
+2016-24-01 20:34:27   INFO [libs.WebElementOnPage] : Lick [[FirefoxDriver: firefox on LINUX (203ae85b-66f4-4907-b9fd-545266d427d6)] -> xpath: .//*[@data-key='I have a question before signing up']/a[1]] was clicked!
+2016-24-01 20:34:27   INFO [pages.ContactUsPage] : Item was selected from DD: 
+2016-24-01 20:34:30  ERROR [libs.WebElementOnPage] : org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
+Command duration or timeout: 3.11 seconds
+Build info: version: '2.49.0', revision: '365eeb4', time: '2016-01-13 18:37:00'
+System info: host: 'romanlekh-mint', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.16.0-38-generic', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=38.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 203ae85b-66f4-4907-b9fd-545266d427d6
+2016-24-01 20:34:33  ERROR [libs.WebElementOnPage] : org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
+Command duration or timeout: 3.11 seconds
+Build info: version: '2.49.0', revision: '365eeb4', time: '2016-01-13 18:37:00'
+System info: host: 'romanlekh-mint', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.16.0-38-generic', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=38.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 203ae85b-66f4-4907-b9fd-545266d427d6
+2016-24-01 20:34:33   INFO [pages.ContactUsPage] : Text wrbwaqdbwrbwas typed into input questionText: false
+2016-24-01 20:34:34   INFO [libs.WebElementOnPage] : Button [[FirefoxDriver: firefox on LINUX (203ae85b-66f4-4907-b9fd-545266d427d6)] -> xpath: .//*[@id='next']] was clicked
+2016-24-01 20:34:34   INFO [pages.ContactUsPage] : Button NEXT is present and clickable!
+2016-24-01 20:37:05   INFO [libs.WebElementOnPage] : Browser and url https://zapier.com/app/contact-us was opened!
+2016-24-01 20:37:05   INFO [pages.ContactUsPage] : Page https://zapier.com/app/contact-us was opened!
+2016-24-01 20:37:06   INFO [libs.WebElementOnPage] : Lick [[FirefoxDriver: firefox on LINUX (1211c2ea-725a-40c8-b6b4-00cab7bb18d6)] -> xpath: .//*[@data-key='I have a question before signing up']/a[1]] was clicked!
+2016-24-01 20:37:06   INFO [pages.ContactUsPage] : Item was selected from DD: 
+2016-24-01 20:37:07  ERROR [libs.WebElementOnPage] : org.openqa.selenium.WebDriverException: Element is not clickable at point (166, 400.95001220703125). Other element would receive the click: <pre class=""></pre>
+Command duration or timeout: 93 milliseconds
+Build info: version: '2.49.0', revision: '365eeb4', time: '2016-01-13 18:37:00'
+System info: host: 'romanlekh-mint', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.16.0-38-generic', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=38.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 1211c2ea-725a-40c8-b6b4-00cab7bb18d6
+2016-24-01 20:37:10  ERROR [libs.WebElementOnPage] : org.openqa.selenium.WebDriverException: Element must be user-editable in order to clear it.
+Command duration or timeout: 3.10 seconds
+Build info: version: '2.49.0', revision: '365eeb4', time: '2016-01-13 18:37:00'
+System info: host: 'romanlekh-mint', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.16.0-38-generic', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=38.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 1211c2ea-725a-40c8-b6b4-00cab7bb18d6
+2016-24-01 20:37:10   INFO [pages.ContactUsPage] : Text wrbwaqdbwrbwas typed into input questionText: false
+2016-24-01 20:37:10   INFO [libs.WebElementOnPage] : Button [[FirefoxDriver: firefox on LINUX (1211c2ea-725a-40c8-b6b4-00cab7bb18d6)] -> xpath: .//*[@id='next']] was clicked
+2016-24-01 20:37:10   INFO [pages.ContactUsPage] : Button NEXT is present and clickable!
+2016-24-01 20:39:11   INFO [libs.WebElementOnPage] : Browser and url https://zapier.com/app/contact-us was opened!
+2016-24-01 20:39:11   INFO [pages.ContactUsPage] : Page https://zapier.com/app/contact-us was opened!
+2016-24-01 20:39:12   INFO [libs.WebElementOnPage] : Lick [[FirefoxDriver: firefox on LINUX (a6abac6c-1543-4d44-89c6-c03254c1d1b8)] -> xpath: .//*[@data-key='I have a question before signing up']/a[1]] was clicked!
+2016-24-01 20:39:12   INFO [pages.ContactUsPage] : Item was selected from DD: 
+2016-24-01 20:39:12   INFO [libs.WebElementOnPage] : Lick [[FirefoxDriver: firefox on LINUX (a6abac6c-1543-4d44-89c6-c03254c1d1b8)] -> xpath: .//*[@id='app']/div/div/div/paramform/div/div[2]/div[2]/div/div/div[6]/div[1]/div/div/div/div[5]/pre] was clicked!
+2016-24-01 20:39:15  ERROR [libs.WebElementOnPage] : org.openqa.selenium.WebDriverException: Element must be user-editable in order to clear it.
+Command duration or timeout: 3.07 seconds
+Build info: version: '2.49.0', revision: '365eeb4', time: '2016-01-13 18:37:00'
+System info: host: 'romanlekh-mint', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.16.0-38-generic', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=38.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: a6abac6c-1543-4d44-89c6-c03254c1d1b8
+2016-24-01 20:39:15   INFO [pages.ContactUsPage] : Text wrbwaqdbwrbwas typed into input questionText: false
+2016-24-01 20:39:16   INFO [libs.WebElementOnPage] : Button [[FirefoxDriver: firefox on LINUX (a6abac6c-1543-4d44-89c6-c03254c1d1b8)] -> xpath: .//*[@id='next']] was clicked
+2016-24-01 20:39:16   INFO [pages.ContactUsPage] : Button NEXT is present and clickable!
+2016-24-01 20:40:15   INFO [libs.WebElementOnPage] : Browser and url https://zapier.com/app/contact-us was opened!
+2016-24-01 20:40:15   INFO [pages.ContactUsPage] : Page https://zapier.com/app/contact-us was opened!
+2016-24-01 20:40:17   INFO [libs.WebElementOnPage] : Lick [[FirefoxDriver: firefox on LINUX (17dd54af-c124-455e-8ba2-ab8fe008aea5)] -> xpath: .//*[@data-key='I have a question before signing up']/a[1]] was clicked!
+2016-24-01 20:40:17   INFO [pages.ContactUsPage] : Item was selected from DD: 
+2016-24-01 20:40:20  ERROR [libs.WebElementOnPage] : org.openqa.selenium.WebDriverException: Element must be user-editable in order to clear it.
+Command duration or timeout: 3.08 seconds
+Build info: version: '2.49.0', revision: '365eeb4', time: '2016-01-13 18:37:00'
+System info: host: 'romanlekh-mint', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.16.0-38-generic', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=38.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 17dd54af-c124-455e-8ba2-ab8fe008aea5
+2016-24-01 20:40:20   INFO [pages.ContactUsPage] : Text wrbwaqdbwrbwas typed into input questionText: false
+2016-24-01 20:40:20   INFO [libs.WebElementOnPage] : Button [[FirefoxDriver: firefox on LINUX (17dd54af-c124-455e-8ba2-ab8fe008aea5)] -> xpath: .//*[@id='next']] was clicked
+2016-24-01 20:40:20   INFO [pages.ContactUsPage] : Button NEXT is present and clickable!
+2016-24-01 20:57:28   INFO [libs.WebElementOnPage] : Browser and url https://zapier.com/app/contact-us was opened!
+2016-24-01 20:57:28   INFO [pages.ContactUsPage] : Page https://zapier.com/app/contact-us was opened!
+2016-24-01 20:57:30   INFO [libs.WebElementOnPage] : Lick [[FirefoxDriver: firefox on LINUX (0fde7fd5-615f-43d1-8c31-961bc40880f1)] -> xpath: .//*[@data-key='I have a question before signing up']/a[1]] was clicked!
+2016-24-01 20:57:30   INFO [pages.ContactUsPage] : Item was selected from DD: 
+2016-24-01 20:57:33  ERROR [libs.WebElementOnPage] : org.openqa.selenium.WebDriverException: Element must be user-editable in order to clear it.
+Command duration or timeout: 3.07 seconds
+Build info: version: '2.49.0', revision: '365eeb4', time: '2016-01-13 18:37:00'
+System info: host: 'romanlekh-mint', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.16.0-38-generic', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=38.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 0fde7fd5-615f-43d1-8c31-961bc40880f1
+2016-24-01 20:57:33   INFO [pages.ContactUsPage] : Text wrbwaqdbwrbwas typed into input questionText: false
+2016-24-01 20:57:33   INFO [libs.WebElementOnPage] : Button [[FirefoxDriver: firefox on LINUX (0fde7fd5-615f-43d1-8c31-961bc40880f1)] -> xpath: .//*[@id='next']] was clicked
+2016-24-01 20:57:33   INFO [pages.ContactUsPage] : Button NEXT is present and clickable!
+2016-24-01 20:58:37   INFO [libs.WebElementOnPage] : Browser and url https://zapier.com/app/contact-us was opened!
+2016-24-01 20:58:37   INFO [pages.ContactUsPage] : Page https://zapier.com/app/contact-us was opened!
+2016-24-01 20:58:39   INFO [libs.WebElementOnPage] : Lick [[FirefoxDriver: firefox on LINUX (4a9de9ee-d8b2-4ade-a849-766447aa2dd7)] -> xpath: .//*[@data-key='I have a question before signing up']/a[1]] was clicked!
+2016-24-01 20:58:39   INFO [pages.ContactUsPage] : Item was selected from DD: 
+2016-24-01 20:58:39  ERROR [libs.WebElementOnPage] : org.openqa.selenium.InvalidSelectorException: The given selector .//*[@id='app']/div/div/div/paramform/div/div[2]/div[2]/div/div/div[6]/div[1]/div/div/div/div[5]/pre' is either invalid or does not result in a WebElement. The following error occurred:
+InvalidSelectorError: Unable to locate an element with the xpath expression .//*[@id='app']/div/div/div/paramform/div/div[2]/div[2]/div/div/div[6]/div[1]/div/div/div/div[5]/pre' because of the following error:
+SyntaxError: The expression is not a legal expression.
+Command duration or timeout: 38 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '2.49.0', revision: '365eeb4', time: '2016-01-13 18:37:00'
+System info: host: 'romanlekh-mint', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.16.0-38-generic', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=38.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 4a9de9ee-d8b2-4ade-a849-766447aa2dd7
+*** Element info: {Using=xpath, value=.//*[@id='app']/div/div/div/paramform/div/div[2]/div[2]/div/div/div[6]/div[1]/div/div/div/div[5]/pre'}
+2016-24-01 20:58:39   INFO [pages.ContactUsPage] : Text wrbwaqdbwrbwas typed into input questionText: false
+2016-24-01 20:58:39   INFO [libs.WebElementOnPage] : Button [[FirefoxDriver: firefox on LINUX (4a9de9ee-d8b2-4ade-a849-766447aa2dd7)] -> xpath: .//*[@id='next']] was clicked
+2016-24-01 20:58:39   INFO [pages.ContactUsPage] : Button NEXT is present and clickable!
+2016-24-01 21:00:44   INFO [libs.WebElementOnPage] : Browser and url https://zapier.com/app/contact-us was opened!
+2016-24-01 21:00:44   INFO [pages.ContactUsPage] : Page https://zapier.com/app/contact-us was opened!
+2016-24-01 21:00:47  ERROR [pages.ContactUsPage] : org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":".//*[@class='fill-button']"}
+Command duration or timeout: 3.05 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.49.0', revision: '365eeb4', time: '2016-01-13 18:37:00'
+System info: host: 'romanlekh-mint', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.16.0-38-generic', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=38.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 5f78a27f-215b-407a-98a0-98a37ea3cc96
+*** Element info: {Using=xpath, value=.//*[@class='fill-button']}
+2016-24-01 21:01:03  ERROR [libs.WebElementOnPage] : org.openqa.selenium.remote.UnreachableBrowserException: Error communicating with the remote browser. It may have died.
+Build info: version: '2.49.0', revision: '365eeb4', time: '2016-01-13 18:37:00'
+System info: host: 'romanlekh-mint', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.16.0-38-generic', java.version: '1.8.0_65'
+Driver info: driver.version: RemoteWebDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=38.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 5f78a27f-215b-407a-98a0-98a37ea3cc96
+2016-24-01 21:01:03   INFO [pages.ContactUsPage] : Text wrbwaqdbwrbwas typed into input questionText: false
+2016-24-01 21:01:03  ERROR [libs.WebElementOnPage] : org.openqa.selenium.remote.UnreachableBrowserException: Error communicating with the remote browser. It may have died.
+Build info: version: '2.49.0', revision: '365eeb4', time: '2016-01-13 18:37:00'
+System info: host: 'romanlekh-mint', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.16.0-38-generic', java.version: '1.8.0_65'
+Driver info: driver.version: RemoteWebDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=38.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 5f78a27f-215b-407a-98a0-98a37ea3cc96
+2016-24-01 21:01:03   INFO [pages.ContactUsPage] : Button NEXT is present and clickable!
+2016-24-01 21:01:43  ERROR [libs.WebElementOnPage] : org.openqa.selenium.remote.UnreachableBrowserException: Error communicating with the remote browser. It may have died.
+Build info: version: '2.49.0', revision: '365eeb4', time: '2016-01-13 18:37:00'
+System info: host: 'romanlekh-mint', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.16.0-38-generic', java.version: '1.8.0_65'
+Driver info: driver.version: RemoteWebDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=38.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: d4929d32-8760-4691-b756-550446a14dc5
+2016-24-01 21:02:12   INFO [tests.contactUsTests.TC10] :  ----- class org.openqa.selenium.firefox.FirefoxDriver -------
+2016-24-01 21:02:12   INFO [tests.contactUsTests.TC10] : Test - test10[0] - started
+2016-24-01 21:04:20   INFO [libs.WebElementOnPage] : Browser and url https://zapier.com/app/contact-us was opened!
+2016-24-01 21:04:20   INFO [pages.ContactUsPage] : Page https://zapier.com/app/contact-us was opened!
+2016-24-01 21:04:30   INFO [libs.WebElementOnPage] : Lick [[FirefoxDriver: firefox on LINUX (7acc04fe-fba4-4bbb-b4f7-431ff8fd1a54)] -> xpath: .//*[@data-key='I have a question before signing up']/a[1]] was clicked!
+2016-24-01 21:04:30   INFO [pages.ContactUsPage] : Item was selected from DD: 
+2016-24-01 21:04:33  ERROR [libs.WebElementOnPage] : org.openqa.selenium.WebDriverException: Element must be user-editable in order to clear it.
+Command duration or timeout: 3.11 seconds
+Build info: version: '2.49.0', revision: '365eeb4', time: '2016-01-13 18:37:00'
+System info: host: 'romanlekh-mint', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.16.0-38-generic', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=38.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 7acc04fe-fba4-4bbb-b4f7-431ff8fd1a54
+2016-24-01 21:04:33   INFO [pages.ContactUsPage] : Text What is the service?was typed into input questionText: false
+2016-24-01 21:04:33   INFO [libs.WebElementOnPage] : Button [[FirefoxDriver: firefox on LINUX (7acc04fe-fba4-4bbb-b4f7-431ff8fd1a54)] -> xpath: .//*[@id='next']] was clicked
+2016-24-01 21:04:33   INFO [pages.ContactUsPage] : Button NEXT is present and clickable!
+2016-24-01 21:04:34   INFO [libs.WebElementOnPage] : Browser was closed!
+2016-24-01 21:04:34   INFO [pages.ContactUsPage] : ContactUs page was closed!
+2016-24-01 21:05:26   INFO [tests.signUpTests.TC3] :  ----- class org.openqa.selenium.firefox.FirefoxDriver -------
+2016-24-01 21:05:26   INFO [tests.signUpTests.TC3] : Test - test3[0] - started
+2016-24-01 21:06:15  ERROR [libs.WebElementOnPage] : org.openqa.selenium.remote.UnreachableBrowserException: Error communicating with the remote browser. It may have died.
+Build info: version: '2.49.0', revision: '365eeb4', time: '2016-01-13 18:37:00'
+System info: host: 'romanlekh-mint', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.16.0-38-generic', java.version: '1.8.0_65'
+Driver info: driver.version: RemoteWebDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=38.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: b2a3d324-24f7-4dd4-9c9c-c631f17657cf
+2016-24-01 21:06:15  ERROR [libs.WebElementOnPage] : org.openqa.selenium.remote.UnreachableBrowserException: Error communicating with the remote browser. It may have died.
+Build info: version: '2.49.0', revision: '365eeb4', time: '2016-01-13 18:37:00'
+System info: host: 'romanlekh-mint', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.16.0-38-generic', java.version: '1.8.0_65'
+Driver info: driver.version: RemoteWebDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=38.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: b2a3d324-24f7-4dd4-9c9c-c631f17657cf
+2016-24-01 21:06:15   INFO [pages.SignUpPage] : Page SignUP and browser was closed!
+2016-24-01 21:09:05   INFO [tests.signUpTests.TC3] :  ----- class org.openqa.selenium.firefox.FirefoxDriver -------
+2016-24-01 21:09:05   INFO [tests.signUpTests.TC3] : Test - test3[0] - started
+2016-24-01 21:09:18   INFO [libs.WebElementOnPage] : Browser and url https://zapier.com/sign-up/ was opened!
+2016-24-01 21:09:18   INFO [pages.SignUpPage] : Browser and url https://zapier.com/sign-up/was opened!
+2016-24-01 21:09:21   INFO [libs.WebElementOnPage] : Button [[FirefoxDriver: firefox on LINUX (40608dde-6177-4511-b7ef-65d963761ed4)] -> xpath: .//*[@type='submit']] was clicked
+2016-24-01 21:09:21   INFO [pages.SignUpPage] : Button "Sign Up" was clicked: true
+2016-24-01 21:09:21   INFO [libs.WebElementOnPage] : Element is on page!
+2016-24-01 21:09:21   INFO [pages.SignUpPage] : Error message on page: true
+2016-24-01 21:09:21   INFO [libs.WebElementOnPage] : Browser was closed!
+2016-24-01 21:09:21   INFO [pages.SignUpPage] : Page SignUP and browser was closed!
+2016-24-01 21:09:42   INFO [tests.signUpTests.TC2] :  ----- class org.openqa.selenium.firefox.FirefoxDriver -------
+2016-24-01 21:09:42   INFO [tests.signUpTests.TC2] : Test - test2[0] - started
+2016-24-01 21:10:12   INFO [libs.WebElementOnPage] : Browser and url https://zapier.com/sign-up/ was opened!
+2016-24-01 21:10:12   INFO [pages.SignUpPage] : Browser and url https://zapier.com/sign-up/was opened!
+2016-24-01 21:10:21   INFO [libs.WebElementOnPage] : Text Zelenskiy was typed into input!
+2016-24-01 21:10:21   INFO [pages.SignUpPage] : Last name was typed into input LastName: true
+2016-24-01 21:10:21  ERROR [libs.WebElementOnPage] : java.lang.NullPointerException
+2016-24-01 21:10:21   INFO [pages.SignUpPage] : TAB was pressed 5times
+2016-24-01 21:10:21  ERROR [libs.WebElementOnPage] : java.lang.NullPointerException
+2016-24-01 21:10:21   INFO [pages.SignUpPage] : Enter was pressed 1times
+2016-24-01 21:10:24  ERROR [libs.WebElementOnPage] : Can't find element on page!
+2016-24-01 21:10:24   INFO [pages.SignUpPage] : Error message on page: false
+2016-24-01 21:10:24   INFO [libs.WebElementOnPage] : Browser was closed!
+2016-24-01 21:10:24   INFO [pages.SignUpPage] : Page SignUP and browser was closed!
+2016-24-01 21:13:50   INFO [tests.signUpTests.TC2] :  ----- class org.openqa.selenium.firefox.FirefoxDriver -------
+2016-24-01 21:13:50   INFO [tests.signUpTests.TC2] : Test - test2[0] - started
+2016-24-01 21:14:03   INFO [libs.WebElementOnPage] : Browser and url https://zapier.com/sign-up/ was opened!
+2016-24-01 21:14:03   INFO [pages.SignUpPage] : Browser and url https://zapier.com/sign-up/was opened!
+2016-24-01 21:14:07   INFO [libs.WebElementOnPage] : Text Zelenskiy was typed into input!
+2016-24-01 21:14:07   INFO [libs.WebElementOnPage] : Lick [[FirefoxDriver: firefox on LINUX (220d4e9f-d49a-4d56-884f-d37cef1053b7)] -> id: id_last_name] was clicked!
+2016-24-01 21:14:07   INFO [pages.SignUpPage] : Last name was typed into input LastName: true
+2016-24-01 21:14:07  ERROR [libs.WebElementOnPage] : java.lang.NullPointerException
+2016-24-01 21:14:07   INFO [pages.SignUpPage] : TAB was pressed 5times
+2016-24-01 21:14:07  ERROR [libs.WebElementOnPage] : java.lang.NullPointerException
+2016-24-01 21:14:07   INFO [pages.SignUpPage] : Enter was pressed 1times
+2016-24-01 21:14:10  ERROR [libs.WebElementOnPage] : Can't find element on page!
+2016-24-01 21:14:10   INFO [pages.SignUpPage] : Error message on page: false
+2016-24-01 21:14:10   INFO [libs.WebElementOnPage] : Browser was closed!
+2016-24-01 21:14:10   INFO [pages.SignUpPage] : Page SignUP and browser was closed!
+2016-24-01 21:17:32   INFO [tests.signUpTests.TC2] :  ----- class org.openqa.selenium.firefox.FirefoxDriver -------
+2016-24-01 21:17:33   INFO [tests.signUpTests.TC2] : Test - test2[0] - started
+2016-24-01 21:18:30   INFO [libs.WebElementOnPage] : Browser and url https://zapier.com/sign-up/ was opened!
+2016-24-01 21:18:30   INFO [pages.SignUpPage] : Browser and url https://zapier.com/sign-up/was opened!
+2016-24-01 21:18:38   INFO [libs.WebElementOnPage] : Text Zelenskiy was typed into input!
+2016-24-01 21:18:39   INFO [libs.WebElementOnPage] : Lick [[FirefoxDriver: firefox on LINUX (114221c8-c7bf-4b2f-9dc4-4b8cd878636e)] -> id: id_last_name] was clicked!
+2016-24-01 21:18:39   INFO [pages.SignUpPage] : Last name was typed into input LastName: true
+2016-24-01 21:18:39  ERROR [libs.WebElementOnPage] : java.lang.NullPointerException
+2016-24-01 21:18:39   INFO [pages.SignUpPage] : Enter was pressed 1times
+2016-24-01 21:18:42  ERROR [libs.WebElementOnPage] : Can't find element on page!
+2016-24-01 21:18:42   INFO [pages.SignUpPage] : Error message on page: false
+2016-24-01 21:18:42   INFO [libs.WebElementOnPage] : Browser was closed!
+2016-24-01 21:18:42   INFO [pages.SignUpPage] : Page SignUP and browser was closed!
+2016-24-01 21:49:23   INFO [tests.signUpTests.TC2] :  ----- class org.openqa.selenium.firefox.FirefoxDriver -------
+2016-24-01 21:49:23   INFO [tests.signUpTests.TC2] : Test - test2[0] - started
+2016-24-01 21:50:19   INFO [libs.WebElementOnPage] : Browser and url https://zapier.com/sign-up/ was opened!
+2016-24-01 21:50:19   INFO [pages.SignUpPage] : Browser and url https://zapier.com/sign-up/was opened!
+2016-24-01 21:54:19   INFO [libs.WebElementOnPage] : Text Zelenskiy was typed into input!
+2016-24-01 21:54:20   INFO [libs.WebElementOnPage] : Lick [[FirefoxDriver: firefox on LINUX (9d50dea5-e186-43ad-82fd-b963a09b5923)] -> id: id_last_name] was clicked!
+2016-24-01 21:54:21   INFO [pages.SignUpPage] : Last name was typed into input LastName: true
+2016-24-01 21:54:21  ERROR [libs.WebElementOnPage] : java.lang.NullPointerException
+2016-24-01 21:54:21   INFO [pages.SignUpPage] : TAB was pressed 5times
+2016-24-01 21:54:22  ERROR [libs.WebElementOnPage] : java.lang.NullPointerException
+2016-24-01 21:54:22   INFO [pages.SignUpPage] : Enter was pressed 1times
+2016-24-01 21:54:28  ERROR [libs.WebElementOnPage] : Can't find element on page!
+2016-24-01 21:54:28   INFO [pages.SignUpPage] : Error message on page: false
+2016-24-01 21:54:32   INFO [libs.WebElementOnPage] : Browser was closed!
+2016-24-01 21:54:32   INFO [pages.SignUpPage] : Page SignUP and browser was closed!
+2016-24-01 21:55:37   INFO [tests.signUpTests.TC2] :  ----- class org.openqa.selenium.firefox.FirefoxDriver -------
+2016-24-01 21:55:37   INFO [tests.signUpTests.TC2] : Test - test2[0] - started
+2016-24-01 21:55:45   INFO [tests.signUpTests.TC2] :  ----- class org.openqa.selenium.firefox.FirefoxDriver -------
+2016-24-01 21:55:45   INFO [tests.signUpTests.TC2] : Test - test2[0] - started
+2016-24-01 21:55:54   INFO [libs.WebElementOnPage] : Browser and url https://zapier.com/sign-up/ was opened!
+2016-24-01 21:55:54   INFO [pages.SignUpPage] : Browser and url https://zapier.com/sign-up/was opened!
+2016-24-01 21:55:56   INFO [libs.WebElementOnPage] : Text Zelenskiy was typed into input!
+2016-24-01 21:55:56   INFO [libs.WebElementOnPage] : Lick [[FirefoxDriver: firefox on LINUX (c1644e55-aa9b-4f5c-8860-7185bb53c374)] -> id: id_last_name] was clicked!
+2016-24-01 21:55:56   INFO [pages.SignUpPage] : Last name was typed into input LastName: true
+2016-24-01 21:55:56  ERROR [libs.WebElementOnPage] : java.lang.NullPointerException
+2016-24-01 21:55:57   INFO [pages.SignUpPage] : TAB was pressed 5times
+2016-24-01 21:55:57  ERROR [libs.WebElementOnPage] : java.lang.NullPointerException
+2016-24-01 21:55:57   INFO [pages.SignUpPage] : Enter was pressed 1times
+2016-24-01 21:56:00  ERROR [libs.WebElementOnPage] : Can't find element on page!
+2016-24-01 21:56:00   INFO [pages.SignUpPage] : Error message on page: false
+2016-24-01 21:56:00   INFO [libs.WebElementOnPage] : Browser was closed!
+2016-24-01 21:56:00   INFO [pages.SignUpPage] : Page SignUP and browser was closed!
+2016-24-01 21:56:07   INFO [libs.WebElementOnPage] : Browser and url https://zapier.com/sign-up/ was opened!
+2016-24-01 21:56:07   INFO [pages.SignUpPage] : Browser and url https://zapier.com/sign-up/was opened!
+2016-24-01 21:56:13   INFO [libs.WebElementOnPage] : Text Zelenskiy was typed into input!
+2016-24-01 21:56:14   INFO [libs.WebElementOnPage] : Lick [[FirefoxDriver: firefox on LINUX (2cad06ef-50a2-4102-8a81-6de52d7990a3)] -> id: id_last_name] was clicked!
+2016-24-01 21:56:14   INFO [pages.SignUpPage] : Last name was typed into input LastName: true
+2016-24-01 21:56:14  ERROR [libs.WebElementOnPage] : java.lang.NullPointerException
+2016-24-01 21:56:14   INFO [pages.SignUpPage] : TAB was pressed 5times
+2016-24-01 21:56:14  ERROR [libs.WebElementOnPage] : java.lang.NullPointerException
+2016-24-01 21:56:14   INFO [pages.SignUpPage] : Enter was pressed 1times
+2016-24-01 21:56:17  ERROR [libs.WebElementOnPage] : Can't find element on page!
+2016-24-01 21:56:17   INFO [pages.SignUpPage] : Error message on page: false
+2016-24-01 21:56:17   INFO [libs.WebElementOnPage] : Browser was closed!
+2016-24-01 21:56:17   INFO [pages.SignUpPage] : Page SignUP and browser was closed!
+2016-25-01 22:48:21   INFO [libs.WebElementOnPage] : Browser and url https://zapier.com/app/contact-us was opened!
+2016-25-01 22:48:21   INFO [pages.ContactUsPage] : Page https://zapier.com/app/contact-us was opened!
+2016-25-01 22:48:22   INFO [libs.WebElementOnPage] : Lick [[FirefoxDriver: firefox on LINUX (c63488a9-6508-4797-bf75-27a1a43d3ade)] -> xpath: .//*[@data-key='I have a question before signing up']/a[1]] was clicked!
+2016-25-01 22:48:22   INFO [pages.ContactUsPage] : Item was selected from DD: 
+2016-25-01 22:48:26  ERROR [libs.WebElementOnPage] : org.openqa.selenium.WebDriverException: Element must be user-editable in order to clear it.
+Command duration or timeout: 3.04 seconds
+Build info: version: '2.49.0', revision: '365eeb4', time: '2016-01-13 18:37:00'
+System info: host: 'romanlekh-mint', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.16.0-38-generic', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=38.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: c63488a9-6508-4797-bf75-27a1a43d3ade
+2016-25-01 22:48:26   INFO [pages.ContactUsPage] : Text wrbwaqdbwrbwas typed into input questionText: false
+2016-25-01 22:48:26   INFO [libs.WebElementOnPage] : Button [[FirefoxDriver: firefox on LINUX (c63488a9-6508-4797-bf75-27a1a43d3ade)] -> xpath: .//*[@id='next']] was clicked
+2016-25-01 22:48:26   INFO [pages.ContactUsPage] : Button NEXT is present and clickable!
+2016-25-01 22:51:15   INFO [libs.WebElementOnPage] : Browser and url https://zapier.com/app/contact-us was opened!
+2016-25-01 22:51:15   INFO [pages.ContactUsPage] : Page https://zapier.com/app/contact-us was opened!
+2016-25-01 22:51:17   INFO [libs.WebElementOnPage] : Lick [[FirefoxDriver: firefox on LINUX (6930d0ef-f48b-48c5-a380-f3acceb883ef)] -> xpath: .//*[@data-key='I have a question before signing up']/a[1]] was clicked!
+2016-25-01 22:51:17   INFO [pages.ContactUsPage] : Item was selected from DD: 
+2016-25-01 22:51:17   INFO [libs.WebElementOnPage] : Lick [[FirefoxDriver: firefox on LINUX (6930d0ef-f48b-48c5-a380-f3acceb883ef)] -> xpath: .//*[@id='app']/div/div/div/paramform/div/div[2]/div[2]/div/div/div[6]/div[1]/div/div/div/div[5]/pre] was clicked!
+2016-25-01 22:51:20  ERROR [libs.WebElementOnPage] : org.openqa.selenium.WebDriverException: Element must be user-editable in order to clear it.
+Command duration or timeout: 3.07 seconds
+Build info: version: '2.49.0', revision: '365eeb4', time: '2016-01-13 18:37:00'
+System info: host: 'romanlekh-mint', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.16.0-38-generic', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=38.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 6930d0ef-f48b-48c5-a380-f3acceb883ef
+2016-25-01 22:51:20   INFO [pages.ContactUsPage] : Text wrbwaqdbwrbwas typed into input questionText: false
+2016-25-01 22:51:20   INFO [libs.WebElementOnPage] : Button [[FirefoxDriver: firefox on LINUX (6930d0ef-f48b-48c5-a380-f3acceb883ef)] -> xpath: .//*[@id='next']] was clicked
+2016-25-01 22:51:20   INFO [pages.ContactUsPage] : Button NEXT is present and clickable!
+2016-25-01 23:00:53   INFO [libs.WebElementOnPage] : Browser and url https://zapier.com/app/contact-us was opened!
+2016-25-01 23:00:53   INFO [pages.ContactUsPage] : Page https://zapier.com/app/contact-us was opened!
+2016-25-01 23:00:54   INFO [libs.WebElementOnPage] : Lick [[FirefoxDriver: firefox on LINUX (a469405b-4c27-4b9e-98dc-c8f3ec572d21)] -> xpath: .//*[@data-key='I have a question before signing up']/a[1]] was clicked!
+2016-25-01 23:00:54   INFO [pages.ContactUsPage] : Item was selected from DD: 
+2016-25-01 23:02:44   INFO [libs.WebElementOnPage] : Browser and url https://zapier.com/app/contact-us was opened!
+2016-25-01 23:02:44   INFO [pages.ContactUsPage] : Page https://zapier.com/app/contact-us was opened!
+2016-25-01 23:02:45   INFO [libs.WebElementOnPage] : Lick [[FirefoxDriver: firefox on LINUX (d4ac808f-36a9-41a6-b9df-14bfca96964f)] -> xpath: .//*[@data-key='I have a question before signing up']/a[1]] was clicked!
+2016-25-01 23:02:45   INFO [pages.ContactUsPage] : Item was selected from DD: 
+2016-25-01 23:04:01   INFO [libs.WebElementOnPage] : Browser and url https://zapier.com/app/contact-us was opened!
+2016-25-01 23:04:01   INFO [pages.ContactUsPage] : Page https://zapier.com/app/contact-us was opened!
+2016-25-01 23:04:03   INFO [libs.WebElementOnPage] : Lick [[FirefoxDriver: firefox on LINUX (f070b42e-63a2-4243-8602-c6e84363c1f6)] -> xpath: .//*[@data-key='I have a question before signing up']/a[1]] was clicked!
+2016-25-01 23:04:03   INFO [pages.ContactUsPage] : Item was selected from DD: 
+2016-25-01 23:04:03   INFO [libs.WebElementOnPage] : Lick [[FirefoxDriver: firefox on LINUX (f070b42e-63a2-4243-8602-c6e84363c1f6)] -> xpath: .//*[@id='app']/div/div/div/paramform/div/div[2]/div[2]/div/div/div[6]/div[1]/div/div/div/div[5]/pre] was clicked!
+2016-25-01 23:04:06  ERROR [libs.WebElementOnPage] : org.openqa.selenium.WebDriverException: Element must be user-editable in order to clear it.
+Command duration or timeout: 3.08 seconds
+Build info: version: '2.49.0', revision: '365eeb4', time: '2016-01-13 18:37:00'
+System info: host: 'romanlekh-mint', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.16.0-38-generic', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=38.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: f070b42e-63a2-4243-8602-c6e84363c1f6
+2016-25-01 23:04:06   INFO [pages.ContactUsPage] : Text wrbwaqdbwrbwas typed into input questionText: false
+2016-25-01 23:04:06   INFO [libs.WebElementOnPage] : Button [[FirefoxDriver: firefox on LINUX (f070b42e-63a2-4243-8602-c6e84363c1f6)] -> xpath: .//*[@id='next']] was clicked
+2016-25-01 23:04:06   INFO [pages.ContactUsPage] : Button NEXT is present and clickable!
+2016-25-01 23:06:47   INFO [libs.WebElementOnPage] : Browser and url https://zapier.com/app/contact-us was opened!
+2016-25-01 23:06:47   INFO [pages.ContactUsPage] : Page https://zapier.com/app/contact-us was opened!
+2016-25-01 23:06:48   INFO [libs.WebElementOnPage] : Lick [[FirefoxDriver: firefox on LINUX (6eb5420f-cd2b-4f54-9366-a27ae35cb33d)] -> xpath: .//*[@data-key='I have a question before signing up']/a[1]] was clicked!
+2016-25-01 23:06:48   INFO [pages.ContactUsPage] : Item was selected from DD: 
+2016-25-01 23:06:49   INFO [libs.WebElementOnPage] : Lick [[FirefoxDriver: firefox on LINUX (6eb5420f-cd2b-4f54-9366-a27ae35cb33d)] -> xpath: .//*[@id='app']/div/div/div/paramform/div/div[2]/div[2]/div/div/div[6]/div[1]/div/div/div/div[5]/pre] was clicked!
+2016-25-01 23:06:49   INFO [libs.WebElementOnPage] : Button [[FirefoxDriver: firefox on LINUX (6eb5420f-cd2b-4f54-9366-a27ae35cb33d)] -> xpath: .//*[@id='next']] was clicked
+2016-25-01 23:06:49   INFO [pages.ContactUsPage] : Button NEXT is present and clickable!
+2016-25-01 23:07:31   INFO [libs.WebElementOnPage] : Browser and url https://zapier.com/app/contact-us was opened!
+2016-25-01 23:07:31   INFO [pages.ContactUsPage] : Page https://zapier.com/app/contact-us was opened!
+2016-25-01 23:07:34   INFO [libs.WebElementOnPage] : Lick [[FirefoxDriver: firefox on LINUX (962dd22a-112f-42c2-acf9-b28c04ad3ae0)] -> xpath: .//*[@data-key='I have a question before signing up']/a[1]] was clicked!
+2016-25-01 23:07:34   INFO [pages.ContactUsPage] : Item was selected from DD: 
+2016-25-01 23:07:34   INFO [libs.WebElementOnPage] : Button [[FirefoxDriver: firefox on LINUX (962dd22a-112f-42c2-acf9-b28c04ad3ae0)] -> xpath: .//*[@id='next']] was clicked
+2016-25-01 23:07:34   INFO [pages.ContactUsPage] : Button NEXT is present and clickable!
+2016-25-01 23:10:06   INFO [libs.WebElementOnPage] : Browser and url https://zapier.com/app/contact-us was opened!
+2016-25-01 23:10:06   INFO [pages.ContactUsPage] : Page https://zapier.com/app/contact-us was opened!
+2016-25-01 23:10:08   INFO [libs.WebElementOnPage] : Lick [[FirefoxDriver: firefox on LINUX (2abba844-7b28-4e5f-a629-12c7bc7825f3)] -> xpath: .//*[@data-key='I have a question before signing up']/a[1]] was clicked!
+2016-25-01 23:10:08   INFO [pages.ContactUsPage] : Item was selected from DD: 
+2016-25-01 23:10:08   INFO [libs.WebElementOnPage] : Button [[FirefoxDriver: firefox on LINUX (2abba844-7b28-4e5f-a629-12c7bc7825f3)] -> xpath: .//*[@id='next']] was clicked
+2016-25-01 23:10:08   INFO [pages.ContactUsPage] : Button NEXT is present and clickable!
+2016-25-01 23:59:30   INFO [tests.signUpTests.TC1] :  ----- class org.openqa.selenium.firefox.FirefoxDriver -------
+2016-25-01 23:59:30   INFO [tests.signUpTests.TC1] : Test - test1[0] - started
+2016-25-01 23:59:37   INFO [libs.WebElementOnPage] : Browser and url https://zapier.com/sign-up/ was opened!
+2016-25-01 23:59:37   INFO [pages.SignUpPage] : Browser and url https://zapier.com/sign-up/was opened!
+2016-25-01 23:59:38   INFO [libs.WebElementOnPage] : Text Roman was typed into input!
+2016-25-01 23:59:38   INFO [pages.SignUpPage] : First name was typed in input FirstName: true
+2016-25-01 23:59:38   INFO [libs.WebElementOnPage] : Text Lekh was typed into input!
+2016-25-01 23:59:38   INFO [libs.WebElementOnPage] : Lick [[FirefoxDriver: firefox on LINUX (a7aa6c05-52cf-48d9-9e21-89b9d475eae4)] -> id: id_last_name] was clicked!
+2016-25-01 23:59:38   INFO [pages.SignUpPage] : Last name was typed into input LastName: true
+2016-25-01 23:59:39   INFO [libs.WebElementOnPage] : Text ______ was typed into input!
+2016-25-01 23:59:39   INFO [pages.SignUpPage] : Email was typed into input Email: true
+2016-25-01 23:59:39   INFO [libs.WebElementOnPage] : Text 123 was typed into input!
+2016-25-01 23:59:39   INFO [pages.SignUpPage] : Password was typed into input Password: true
+2016-25-01 23:59:39   INFO [pages.SignUpPage] : Check box "Updates" was unchecked: true
+2016-25-01 23:59:41   INFO [libs.WebElementOnPage] : Button [[FirefoxDriver: firefox on LINUX (a7aa6c05-52cf-48d9-9e21-89b9d475eae4)] -> xpath: .//*[@type='submit']] was clicked
+2016-25-01 23:59:41   INFO [pages.SignUpPage] : Button "Sign Up" was clicked: true
+2016-25-01 23:59:41   INFO [libs.WebElementOnPage] : Element is on page!
+2016-25-01 23:59:41   INFO [pages.SignUpPage] : Error message on page: true
+2016-25-01 23:59:41   INFO [libs.WebElementOnPage] : Browser was closed!
+2016-25-01 23:59:41   INFO [pages.SignUpPage] : Page SignUP and browser was closed!
+2016-26-01 11:58:30   INFO [tests.signUpTests.TC2] :  ----- class org.openqa.selenium.firefox.FirefoxDriver -------
+2016-26-01 11:58:31   INFO [tests.signUpTests.TC2] : Test - test2[0] - started
+2016-26-01 11:58:37   INFO [libs.WebElementOnPage] : Browser and url https://zapier.com/sign-up/ was opened!
+2016-26-01 11:58:37   INFO [pages.SignUpPage] : Browser and url https://zapier.com/sign-up/was opened!
+2016-26-01 11:58:38   INFO [libs.WebElementOnPage] : Text Zelenskiy was typed into input!
+2016-26-01 11:58:39   INFO [libs.WebElementOnPage] : Lick [[FirefoxDriver: firefox on LINUX (04a09b0e-b60c-4054-9ab0-199d786894ea)] -> id: id_last_name] was clicked!
+2016-26-01 11:58:39   INFO [pages.SignUpPage] : Last name was typed into input LastName: true
+2016-26-01 11:58:39  ERROR [libs.WebElementOnPage] : java.lang.NullPointerException
+2016-26-01 11:58:39   INFO [pages.SignUpPage] : TAB was pressed 5times
+2016-26-01 11:58:39  ERROR [libs.WebElementOnPage] : java.lang.NullPointerException
+2016-26-01 11:58:39   INFO [pages.SignUpPage] : Enter was pressed 1times
+2016-26-01 11:58:42  ERROR [libs.WebElementOnPage] : Can't find element on page!
+2016-26-01 11:58:42   INFO [pages.SignUpPage] : Error message on page: false
+2016-26-01 11:58:42   INFO [libs.WebElementOnPage] : Browser was closed!
+2016-26-01 11:58:42   INFO [pages.SignUpPage] : Page SignUP and browser was closed!
+2016-26-01 12:04:51   INFO [tests.signUpTests.TC2] :  ----- class org.openqa.selenium.firefox.FirefoxDriver -------
+2016-26-01 12:04:51   INFO [tests.signUpTests.TC2] : Test - test2[0] - started
+2016-26-01 12:04:55   INFO [libs.WebElementOnPage] : Browser and url https://zapier.com/sign-up/ was opened!
+2016-26-01 12:04:55   INFO [pages.SignUpPage] : Browser and url https://zapier.com/sign-up/was opened!
+2016-26-01 12:04:56   INFO [libs.WebElementOnPage] : Text Zelenskiy was typed into input!
+2016-26-01 12:04:56   INFO [libs.WebElementOnPage] : Lick [[FirefoxDriver: firefox on LINUX (cddf0d14-02e4-4f99-bd6b-ccc6be91b481)] -> id: id_last_name] was clicked!
+2016-26-01 12:04:57   INFO [pages.SignUpPage] : Last name was typed into input LastName: true
+2016-26-01 12:04:57   INFO [libs.WebElementOnPage] : Key TAB was pressed! 
+2016-26-01 12:04:57   INFO [pages.SignUpPage] : TAB was pressed 5times
+2016-26-01 12:04:57   INFO [libs.WebElementOnPage] : Key ENTER was pressed!
+2016-26-01 12:04:57   INFO [pages.SignUpPage] : Enter was pressed 1times
+2016-26-01 12:05:00  ERROR [libs.WebElementOnPage] : Can't find element on page!
+2016-26-01 12:05:00   INFO [pages.SignUpPage] : Error message on page: false
+2016-26-01 12:05:00   INFO [libs.WebElementOnPage] : Browser was closed!
+2016-26-01 12:05:00   INFO [pages.SignUpPage] : Page SignUP and browser was closed!
+2016-26-01 12:08:58   INFO [libs.WebElementOnPage] : Browser and url https://zapier.com/sign-up/ was opened!
+2016-26-01 12:08:58   INFO [pages.SignUpPage] : Browser and url https://zapier.com/sign-up/was opened!
+2016-26-01 12:08:59   INFO [libs.WebElementOnPage] : Text llllllll was typed into input!
+2016-26-01 12:08:59   INFO [libs.WebElementOnPage] : Lick [[FirefoxDriver: firefox on LINUX (4e7cab6a-e761-4b7e-bfeb-cdc7f8e96ea8)] -> id: id_last_name] was clicked!
+2016-26-01 12:08:59   INFO [pages.SignUpPage] : Last name was typed into input LastName: true
+2016-26-01 12:08:59   INFO [libs.WebElementOnPage] : Key TAB was pressed! 
+2016-26-01 12:08:59   INFO [pages.SignUpPage] : TAB was pressed 5times
+2016-26-01 12:12:26   INFO [tests.signUpTests.TC2] :  ----- class org.openqa.selenium.firefox.FirefoxDriver -------
+2016-26-01 12:12:27   INFO [tests.signUpTests.TC2] : Test - test2[0] - started
+2016-26-01 12:12:32   INFO [libs.WebElementOnPage] : Browser and url https://zapier.com/sign-up/ was opened!
+2016-26-01 12:12:32   INFO [pages.SignUpPage] : Browser and url https://zapier.com/sign-up/was opened!
+2016-26-01 12:12:34   INFO [libs.WebElementOnPage] : Text Zelenskiy was typed into input!
+2016-26-01 12:12:34   INFO [libs.WebElementOnPage] : Lick [[FirefoxDriver: firefox on LINUX (a7ad8655-3dc7-46d5-bcea-373e9f49f914)] -> id: id_last_name] was clicked!
+2016-26-01 12:12:34   INFO [pages.SignUpPage] : Last name was typed into input LastName: true
+2016-26-01 12:12:34   INFO [libs.WebElementOnPage] : Key TAB was pressed! 
+2016-26-01 12:12:34   INFO [pages.SignUpPage] : TAB was pressed 5times
+2016-26-01 12:12:34   INFO [libs.WebElementOnPage] : Key ENTER was pressed!
+2016-26-01 12:12:34   INFO [pages.SignUpPage] : Enter was pressed 1times
+2016-26-01 12:12:38  ERROR [libs.WebElementOnPage] : Can't find element on page!
+2016-26-01 12:12:38   INFO [pages.SignUpPage] : Error message on page: false
+2016-26-01 12:12:38   INFO [libs.WebElementOnPage] : Browser was closed!
+2016-26-01 12:12:38   INFO [pages.SignUpPage] : Page SignUP and browser was closed!
+2016-26-01 12:15:33   INFO [libs.WebElementOnPage] : Browser and url https://zapier.com/sign-up/ was opened!
+2016-26-01 12:15:33   INFO [pages.SignUpPage] : Browser and url https://zapier.com/sign-up/was opened!
+2016-26-01 12:15:34   INFO [libs.WebElementOnPage] : Text llllllll was typed into input!
+2016-26-01 12:15:34   INFO [libs.WebElementOnPage] : Lick [[FirefoxDriver: firefox on LINUX (daf14965-b39a-400a-ac5f-9589c19ecb10)] -> id: id_last_name] was clicked!
+2016-26-01 12:15:34   INFO [pages.SignUpPage] : Last name was typed into input LastName: true
+2016-26-01 12:15:34   INFO [libs.WebElementOnPage] : Key TAB was pressed! 
+2016-26-01 12:23:31   INFO [libs.WebElementOnPage] : Browser and url https://zapier.com/sign-up/ was opened!
+2016-26-01 12:23:31   INFO [pages.SignUpPage] : Browser and url https://zapier.com/sign-up/was opened!
+2016-26-01 12:23:32   INFO [libs.WebElementOnPage] : Text llllllll was typed into input!
+2016-26-01 12:23:33   INFO [libs.WebElementOnPage] : Lick [[FirefoxDriver: firefox on LINUX (d404a289-005f-4d15-8dc5-6ef36b68a362)] -> id: id_last_name] was clicked!
+2016-26-01 12:23:33   INFO [pages.SignUpPage] : Last name was typed into input LastName: true
+2016-26-01 12:34:19   INFO [libs.WebElementOnPage] : Browser and url https://zapier.com/sign-up/ was opened!
+2016-26-01 12:34:19   INFO [pages.SignUpPage] : Browser and url https://zapier.com/sign-up/was opened!
+2016-26-01 12:34:20   INFO [libs.WebElementOnPage] : Text llllllll was typed into input!
+2016-26-01 12:34:20   INFO [libs.WebElementOnPage] : Lick [[FirefoxDriver: firefox on LINUX (c72eb277-5a90-449a-9dec-1fe2e681d48f)] -> id: id_last_name] was clicked!
+2016-26-01 12:34:20   INFO [pages.SignUpPage] : Last name was typed into input LastName: true
+2016-26-01 12:38:48   INFO [libs.WebElementOnPage] : Browser and url https://zapier.com/sign-up/ was opened!
+2016-26-01 12:38:48   INFO [pages.SignUpPage] : Browser and url https://zapier.com/sign-up/was opened!
+2016-26-01 12:38:50   INFO [libs.WebElementOnPage] : Text llllllll was typed into input!
+2016-26-01 12:38:50   INFO [libs.WebElementOnPage] : Lick [[FirefoxDriver: firefox on LINUX (bdb3da1c-bacb-46c4-9664-4b75c00255f0)] -> id: id_last_name] was clicked!
+2016-26-01 12:38:50   INFO [pages.SignUpPage] : Last name was typed into input LastName: true
+2016-26-01 13:00:47   INFO [libs.WebElementOnPage] : Browser and url https://zapier.com/sign-up/ was opened!
+2016-26-01 13:00:47   INFO [pages.SignUpPage] : Browser and url https://zapier.com/sign-up/was opened!
+2016-26-01 13:01:24   INFO [libs.WebElementOnPage] : Browser and url https://zapier.com/sign-up/ was opened!
+2016-26-01 13:01:24   INFO [pages.SignUpPage] : Browser and url https://zapier.com/sign-up/was opened!
+2016-26-01 13:01:25   INFO [libs.WebElementOnPage] : Text llllllll was typed into input!
+2016-26-01 13:01:25   INFO [libs.WebElementOnPage] : Lick [[FirefoxDriver: firefox on LINUX (330d4910-da05-426b-83ab-93f1e49ee0f6)] -> id: id_last_name] was clicked!
+2016-26-01 13:01:25   INFO [pages.SignUpPage] : Last name was typed into input LastName: true
+2016-26-01 13:02:58   INFO [libs.WebElementOnPage] : Browser and url https://zapier.com/sign-up/ was opened!
+2016-26-01 13:02:58   INFO [pages.SignUpPage] : Browser and url https://zapier.com/sign-up/was opened!
+2016-26-01 13:02:59   INFO [libs.WebElementOnPage] : Text llllllll was typed into input!
+2016-26-01 13:02:59   INFO [libs.WebElementOnPage] : Lick [[FirefoxDriver: firefox on LINUX (d56b4ada-3817-4c42-b2db-230afe69517b)] -> id: id_last_name] was clicked!
+2016-26-01 13:02:59   INFO [pages.SignUpPage] : Last name was typed into input LastName: true
+2016-26-01 13:04:53   INFO [libs.WebElementOnPage] : Browser and url https://zapier.com/sign-up/ was opened!
+2016-26-01 13:04:53   INFO [pages.SignUpPage] : Browser and url https://zapier.com/sign-up/was opened!
+2016-26-01 13:04:54   INFO [libs.WebElementOnPage] : Text 78 was typed into input!
+2016-26-01 13:04:54   INFO [libs.WebElementOnPage] : Lick [[FirefoxDriver: firefox on LINUX (4f28e242-23f4-453e-88bb-dd594dc7b4b6)] -> id: id_last_name] was clicked!
+2016-26-01 13:04:54   INFO [pages.SignUpPage] : Last name was typed into input LastName: true
+2016-26-01 13:05:56   INFO [libs.WebElementOnPage] : Browser and url https://zapier.com/sign-up/ was opened!
+2016-26-01 13:05:56   INFO [pages.SignUpPage] : Browser and url https://zapier.com/sign-up/was opened!
+2016-26-01 13:05:57   INFO [libs.WebElementOnPage] : Text 78 was typed into input!
+2016-26-01 13:05:57   INFO [libs.WebElementOnPage] : Lick [[FirefoxDriver: firefox on LINUX (6303240b-7728-49db-9d0d-c3a74a476381)] -> id: id_last_name] was clicked!
+2016-26-01 13:05:57   INFO [pages.SignUpPage] : Last name was typed into input LastName: true
+2016-26-01 13:06:56   INFO [libs.WebElementOnPage] : Browser and url https://zapier.com/sign-up/ was opened!
+2016-26-01 13:06:56   INFO [pages.SignUpPage] : Browser and url https://zapier.com/sign-up/was opened!
+2016-26-01 13:06:57   INFO [libs.WebElementOnPage] : Text 78 was typed into input!
+2016-26-01 13:06:57   INFO [libs.WebElementOnPage] : Lick [[FirefoxDriver: firefox on LINUX (b44630d9-b50c-44c4-be45-49b7a1a87f40)] -> id: id_last_name] was clicked!
+2016-26-01 13:06:57   INFO [pages.SignUpPage] : Last name was typed into input LastName: true
+2016-26-01 13:08:42   INFO [libs.WebElementOnPage] : Browser and url https://zapier.com/sign-up/ was opened!
+2016-26-01 13:08:42   INFO [pages.SignUpPage] : Browser and url https://zapier.com/sign-up/was opened!
+2016-26-01 13:08:43   INFO [libs.WebElementOnPage] : Text 78 was typed into input!
+2016-26-01 13:08:43   INFO [libs.WebElementOnPage] : Lick [[FirefoxDriver: firefox on LINUX (9863cc60-4a8d-412c-999c-2b1a9fa2eb17)] -> id: id_last_name] was clicked!
+2016-26-01 13:08:43   INFO [pages.SignUpPage] : Last name was typed into input LastName: true
+2016-26-01 13:11:10   INFO [libs.WebElementOnPage] : Browser and url https://zapier.com/sign-up/ was opened!
+2016-26-01 13:11:10   INFO [pages.SignUpPage] : Browser and url https://zapier.com/sign-up/was opened!
+2016-26-01 13:11:11   INFO [libs.WebElementOnPage] : Text 78 was typed into input!
+2016-26-01 13:11:11   INFO [libs.WebElementOnPage] : Lick [[FirefoxDriver: firefox on LINUX (602f44cc-bf8d-4406-b46d-9b39408bbde2)] -> id: id_last_name] was clicked!
+2016-26-01 13:11:11   INFO [pages.SignUpPage] : Last name was typed into input LastName: true
+2016-27-01 19:32:20   INFO [tests.signUpTests.TC2] :  ----- class org.openqa.selenium.firefox.FirefoxDriver -------
+2016-27-01 19:32:20   INFO [tests.signUpTests.TC2] : Test - test2[0] - started
+2016-27-01 19:32:25   INFO [libs.WebElementOnPage] : Browser and url https://zapier.com/sign-up/ was opened!
+2016-27-01 19:32:25   INFO [pages.SignUpPage] : Browser and url https://zapier.com/sign-up/was opened!
+2016-27-01 19:32:28   INFO [libs.WebElementOnPage] : Text Zelenskiy was typed into input!
+2016-27-01 19:32:28   INFO [libs.WebElementOnPage] : Lick [[FirefoxDriver: firefox on LINUX (759ce748-0b3a-40ea-aad2-555c99b60eb1)] -> id: id_last_name] was clicked!
+2016-27-01 19:32:28   INFO [pages.SignUpPage] : Last name was typed into input LastName: true
+2016-27-01 19:32:28  ERROR [libs.WebElementOnPage] : java.lang.NullPointerException
+2016-27-01 19:32:28   INFO [pages.SignUpPage] : TAB was pressed 5times
+2016-27-01 19:32:28  ERROR [libs.WebElementOnPage] : java.lang.NullPointerException
+2016-27-01 19:32:28   INFO [pages.SignUpPage] : Enter was pressed 1times
+2016-27-01 19:32:31  ERROR [libs.WebElementOnPage] : Can't find element on page!
+2016-27-01 19:32:31   INFO [pages.SignUpPage] : Error message on page: false
+2016-27-01 19:32:31   INFO [libs.WebElementOnPage] : Browser was closed!
+2016-27-01 19:32:31   INFO [pages.SignUpPage] : Page SignUP and browser was closed!
+2016-27-01 19:35:41   INFO [tests.signUpTests.TC2] :  ----- class org.openqa.selenium.firefox.FirefoxDriver -------
+2016-27-01 19:35:41   INFO [tests.signUpTests.TC2] : Test - test2[0] - started
+2016-27-01 19:35:46   INFO [libs.WebElementOnPage] : Browser and url https://zapier.com/sign-up/ was opened!
+2016-27-01 19:35:46   INFO [pages.SignUpPage] : Browser and url https://zapier.com/sign-up/was opened!
+2016-27-01 19:35:48   INFO [libs.WebElementOnPage] : Text Zelenskiy was typed into input!
+2016-27-01 19:35:48   INFO [libs.WebElementOnPage] : Lick [[FirefoxDriver: firefox on LINUX (dbaafdba-2462-41f4-b1f3-f1f5b5169872)] -> id: id_last_name] was clicked!
+2016-27-01 19:35:48   INFO [pages.SignUpPage] : Last name was typed into input LastName: true
+2016-27-01 19:35:48  ERROR [libs.WebElementOnPage] : java.lang.NullPointerException
+2016-27-01 19:35:48   INFO [pages.SignUpPage] : TAB was pressed 5times
+2016-27-01 19:35:48  ERROR [libs.WebElementOnPage] : java.lang.NullPointerException
+2016-27-01 19:35:48   INFO [pages.SignUpPage] : Enter was pressed 1times
+2016-27-01 19:35:51  ERROR [libs.WebElementOnPage] : Can't find element on page!
+2016-27-01 19:35:51   INFO [pages.SignUpPage] : Error message on page: false
+2016-27-01 19:35:51   INFO [libs.WebElementOnPage] : Browser was closed!
+2016-27-01 19:35:51   INFO [pages.SignUpPage] : Page SignUP and browser was closed!
+2016-27-01 19:47:15   INFO [tests.signUpTests.TC2] :  ----- class org.openqa.selenium.firefox.FirefoxDriver -------
+2016-27-01 19:47:15   INFO [tests.signUpTests.TC2] : Test - test2[0] - started
+2016-27-01 19:47:19   INFO [libs.WebElementOnPage] : Browser and url https://zapier.com/sign-up/ was opened!
+2016-27-01 19:47:19   INFO [pages.SignUpPage] : Browser and url https://zapier.com/sign-up/was opened!
+2016-27-01 19:47:21   INFO [libs.WebElementOnPage] : Text Zelenskiy was typed into input!
+2016-27-01 19:47:21   INFO [libs.WebElementOnPage] : Lick [[FirefoxDriver: firefox on LINUX (800e9611-5b57-41e3-a63f-e09b18c06821)] -> id: id_last_name] was clicked!
+2016-27-01 19:47:21   INFO [pages.SignUpPage] : Last name was typed into input LastName: true
+2016-27-01 19:47:21  ERROR [libs.WebElementOnPage] : java.lang.NullPointerException
+2016-27-01 19:47:21   INFO [pages.SignUpPage] : TAB was pressed 5times
+2016-27-01 19:47:21  ERROR [libs.WebElementOnPage] : java.lang.NullPointerException
+2016-27-01 19:47:21   INFO [pages.SignUpPage] : Enter was pressed 1times
+2016-27-01 19:47:24  ERROR [libs.WebElementOnPage] : Can't find element on page!
+2016-27-01 19:47:24   INFO [pages.SignUpPage] : Error message on page: false
+2016-27-01 19:47:24   INFO [libs.WebElementOnPage] : Browser was closed!
+2016-27-01 19:47:24   INFO [pages.SignUpPage] : Page SignUP and browser was closed!
+2016-27-01 20:53:12   INFO [tests.contactUsTests.TC10] :  ----- class org.openqa.selenium.firefox.FirefoxDriver -------
+2016-27-01 20:53:12   INFO [tests.contactUsTests.TC10] : Test - test10[0] - started
+2016-27-01 20:53:21   INFO [libs.WebElementOnPage] : Browser and url https://zapier.com/app/contact-us was opened!
+2016-27-01 20:53:21   INFO [pages.ContactUsPage] : Page https://zapier.com/app/contact-us was opened!
+2016-27-01 20:53:23   INFO [libs.WebElementOnPage] : Lick [[FirefoxDriver: firefox on LINUX (56b233c9-8216-441e-96f7-faf90df3b2a5)] -> xpath: .//*[@data-key='I have a question before signing up']/a[1]] was clicked!
+2016-27-01 20:53:23   INFO [pages.ContactUsPage] : Item was selected from DD: 
+2016-27-01 20:53:23  ERROR [libs.WebElementOnPage] : org.openqa.selenium.WebDriverException: Element is not clickable at point (166, 400.95001220703125). Other element would receive the click: <pre class=""></pre>
+Command duration or timeout: 83 milliseconds
+Build info: version: '2.49.0', revision: '365eeb4', time: '2016-01-13 18:37:00'
+System info: host: 'romanlekh-mint', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.16.0-38-generic', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=38.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 56b233c9-8216-441e-96f7-faf90df3b2a5
+2016-27-01 20:53:26  ERROR [libs.WebElementOnPage] : org.openqa.selenium.WebDriverException: Element must be user-editable in order to clear it.
+Command duration or timeout: 3.11 seconds
+Build info: version: '2.49.0', revision: '365eeb4', time: '2016-01-13 18:37:00'
+System info: host: 'romanlekh-mint', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.16.0-38-generic', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=38.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 56b233c9-8216-441e-96f7-faf90df3b2a5
+2016-27-01 20:53:26   INFO [pages.ContactUsPage] : Text What is the service?was typed into input questionText: false
+2016-27-01 20:53:26   INFO [libs.WebElementOnPage] : Button [[FirefoxDriver: firefox on LINUX (56b233c9-8216-441e-96f7-faf90df3b2a5)] -> xpath: .//*[@id='next']] was clicked
+2016-27-01 20:53:26   INFO [pages.ContactUsPage] : Button NEXT is present and clickable!
+2016-27-01 20:53:26   INFO [libs.WebElementOnPage] : Browser was closed!
+2016-27-01 20:53:26   INFO [pages.ContactUsPage] : ContactUs page was closed!
+2016-27-01 20:55:59   INFO [tests.contactUsTests.TC10] :  ----- class org.openqa.selenium.firefox.FirefoxDriver -------
+2016-27-01 20:56:00   INFO [tests.contactUsTests.TC10] : Test - test10[0] - started
+2016-27-01 20:56:05   INFO [libs.WebElementOnPage] : Browser and url https://zapier.com/app/contact-us was opened!
+2016-27-01 20:56:05   INFO [pages.ContactUsPage] : Page https://zapier.com/app/contact-us was opened!
+2016-27-01 20:56:07   INFO [libs.WebElementOnPage] : Lick [[FirefoxDriver: firefox on LINUX (58ecafea-508d-4c8d-aecb-e1cde6271662)] -> xpath: .//*[@data-key='I have a question before signing up']/a[1]] was clicked!
+2016-27-01 20:56:07   INFO [pages.ContactUsPage] : Item was selected from DD: 
+2016-27-01 20:56:07  ERROR [libs.WebElementOnPage] : org.openqa.selenium.WebDriverException: Element is not clickable at point (166, 400.95001220703125). Other element would receive the click: <pre class=""></pre>
+Command duration or timeout: 83 milliseconds
+Build info: version: '2.49.0', revision: '365eeb4', time: '2016-01-13 18:37:00'
+System info: host: 'romanlekh-mint', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.16.0-38-generic', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=38.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 58ecafea-508d-4c8d-aecb-e1cde6271662
+2016-27-01 20:56:10  ERROR [libs.WebElementOnPage] : org.openqa.selenium.WebDriverException: Element must be user-editable in order to clear it.
+Command duration or timeout: 3.10 seconds
+Build info: version: '2.49.0', revision: '365eeb4', time: '2016-01-13 18:37:00'
+System info: host: 'romanlekh-mint', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.16.0-38-generic', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=38.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 58ecafea-508d-4c8d-aecb-e1cde6271662
+2016-27-01 20:56:10   INFO [pages.ContactUsPage] : Text What is the service?was typed into input questionText: false
+2016-27-01 20:56:11   INFO [libs.WebElementOnPage] : Button [[FirefoxDriver: firefox on LINUX (58ecafea-508d-4c8d-aecb-e1cde6271662)] -> xpath: .//*[@id='next']] was clicked
+2016-27-01 20:56:11   INFO [pages.ContactUsPage] : Button NEXT is present and clickable: true
+2016-27-01 20:56:11   INFO [libs.WebElementOnPage] : Browser was closed!
+2016-27-01 20:56:11   INFO [pages.ContactUsPage] : ContactUs page was closed!
+2016-28-01 00:55:10   INFO [libs.WebElementOnPage] : Browser and url https://zapier.com/sign-up/ was opened!
+2016-28-01 00:55:10   INFO [pages.SignUpPage] : Browser and url https://zapier.com/sign-up/was opened!
+2016-28-01 00:55:11   INFO [libs.WebElementOnPage] : Text 78 was typed into input!
+2016-28-01 00:55:11   INFO [libs.WebElementOnPage] : Lick [[FirefoxDriver: firefox on LINUX (c61f5a68-7d2e-438f-a627-cb60f1913563)] -> id: id_last_name] was clicked!
+2016-28-01 00:55:11   INFO [pages.SignUpPage] : Last name was typed into input LastName: true
+2016-28-01 00:55:12   INFO [libs.WebElementOnPage] : Lick [[FirefoxDriver: firefox on LINUX (c61f5a68-7d2e-438f-a627-cb60f1913563)] -> id: id_last_name] was clicked!
+2016-28-01 00:59:58   INFO [libs.WebElementOnPage] : Browser and url https://zapier.com/sign-up/ was opened!
+2016-28-01 00:59:58   INFO [pages.SignUpPage] : Browser and url https://zapier.com/sign-up/was opened!
+2016-28-01 01:03:04   INFO [libs.WebElementOnPage] : Browser and url https://zapier.com/sign-up/ was opened!
+2016-28-01 01:03:04   INFO [pages.SignUpPage] : Browser and url https://zapier.com/sign-up/was opened!
+2016-28-01 01:04:34   INFO [libs.WebElementOnPage] : Browser and url https://zapier.com/sign-up/ was opened!
+2016-28-01 01:04:34   INFO [pages.SignUpPage] : Browser and url https://zapier.com/sign-up/was opened!
+2016-28-01 01:17:00   INFO [tests.signUpTests.TC2] :  ----- class org.openqa.selenium.firefox.FirefoxDriver -------
+2016-28-01 01:17:00   INFO [tests.signUpTests.TC2] : Test - test2[0] - started
+2016-28-01 01:17:41   INFO [libs.WebElementOnPage] : Browser and url https://zapier.com/sign-up/ was opened!
+2016-28-01 01:17:41   INFO [pages.SignUpPage] : Browser and url https://zapier.com/sign-up/was opened!
+2016-28-01 01:17:43   INFO [libs.WebElementOnPage] : Text Zelenskiy was typed into input!
+2016-28-01 01:17:43   INFO [libs.WebElementOnPage] : Lick [[FirefoxDriver: firefox on LINUX (825d67aa-316c-4dbc-9c87-b8c8f1571223)] -> id: id_last_name] was clicked!
+2016-28-01 01:17:43   INFO [pages.SignUpPage] : Last name was typed into input LastName: true
+2016-28-01 01:17:43  ERROR [libs.WebElementOnPage] : java.lang.NullPointerException
+2016-28-01 01:17:43   INFO [pages.SignUpPage] : TAB was pressed 5times
+2016-28-01 01:17:43  ERROR [libs.WebElementOnPage] : java.lang.NullPointerException
+2016-28-01 01:17:43   INFO [pages.SignUpPage] : Enter was pressed 1times
+2016-28-01 01:17:47  ERROR [libs.WebElementOnPage] : Can't find element on page!
+2016-28-01 01:17:47   INFO [pages.SignUpPage] : Error message on page: false
+2016-28-01 01:17:47   INFO [libs.WebElementOnPage] : Browser was closed!
+2016-28-01 01:17:47   INFO [pages.SignUpPage] : Page SignUP and browser was closed!
+2016-28-01 01:19:30   INFO [libs.WebElementOnPage] : Browser and url https://zapier.com/sign-up/ was opened!
+2016-28-01 01:19:30   INFO [pages.SignUpPage] : Browser and url https://zapier.com/sign-up/was opened!
+2016-28-01 01:20:39   INFO [libs.WebElementOnPage] : Browser and url https://zapier.com/sign-up/ was opened!
+2016-28-01 01:20:39   INFO [pages.SignUpPage] : Browser and url https://zapier.com/sign-up/was opened!
+2016-28-01 01:21:44   INFO [tests.signUpTests.TC2] :  ----- class org.openqa.selenium.firefox.FirefoxDriver -------
+2016-28-01 01:21:44   INFO [tests.signUpTests.TC2] : Test - test2[0] - started
+2016-28-01 01:21:49   INFO [libs.WebElementOnPage] : Browser and url https://zapier.com/sign-up/ was opened!
+2016-28-01 01:21:49   INFO [pages.SignUpPage] : Browser and url https://zapier.com/sign-up/was opened!
+2016-28-01 01:21:50   INFO [libs.WebElementOnPage] : Text Zelenskiy was typed into input!
+2016-28-01 01:21:51   INFO [libs.WebElementOnPage] : Lick [[FirefoxDriver: firefox on LINUX (742bd7c9-4114-4f6f-90fd-15d56a97f720)] -> id: id_last_name] was clicked!
+2016-28-01 01:21:51   INFO [pages.SignUpPage] : Last name was typed into input LastName: true
+2016-28-01 01:21:51   INFO [libs.WebElementOnPage] : Key TAB was pressed! 
+2016-28-01 01:21:51   INFO [pages.SignUpPage] : TAB was pressed 5times
+2016-28-01 01:21:51   INFO [libs.WebElementOnPage] : Key ENTER was pressed!
+2016-28-01 01:21:51   INFO [pages.SignUpPage] : Enter was pressed 1times
+2016-28-01 01:21:53   INFO [libs.WebElementOnPage] : Element is on page!
+2016-28-01 01:21:53   INFO [pages.SignUpPage] : Error message on page: true
+2016-28-01 01:21:53   INFO [libs.WebElementOnPage] : Browser was closed!
+2016-28-01 01:21:53   INFO [pages.SignUpPage] : Page SignUP and browser was closed!
+2016-28-01 01:25:35   INFO [libs.WebElementOnPage] : Browser and url https://zapier.com/app/contact-us was opened!
+2016-28-01 01:25:35   INFO [pages.ContactUsPage] : Page https://zapier.com/app/contact-us was opened!
+2016-28-01 01:25:37   INFO [libs.WebElementOnPage] : Lick [[FirefoxDriver: firefox on LINUX (c7ed43cb-fe70-46f8-9d9d-5474d3245d3c)] -> xpath: .//*[@data-key='I have a question before signing up']/a[1]] was clicked!
+2016-28-01 01:25:37   INFO [pages.ContactUsPage] : Item was selected from DD: 
+2016-28-01 01:25:37  ERROR [libs.WebElementOnPage] : org.openqa.selenium.WebDriverException: Element is not clickable at point (166, 400.95001220703125). Other element would receive the click: <pre class=""></pre>
+Command duration or timeout: 82 milliseconds
+Build info: version: '2.49.0', revision: '365eeb4', time: '2016-01-13 18:37:00'
+System info: host: 'romanlekh-mint', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.16.0-38-generic', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=38.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: c7ed43cb-fe70-46f8-9d9d-5474d3245d3c
+2016-28-01 01:27:49   INFO [libs.WebElementOnPage] : Browser and url https://zapier.com/app/contact-us was opened!
+2016-28-01 01:27:49   INFO [pages.ContactUsPage] : Page https://zapier.com/app/contact-us was opened!
+2016-28-01 01:27:51   INFO [libs.WebElementOnPage] : Lick [[FirefoxDriver: firefox on LINUX (4ffa101f-99b0-4ebb-bad6-23ee360c09a5)] -> xpath: .//*[@data-key='I have a question before signing up']/a[1]] was clicked!
+2016-28-01 01:27:51   INFO [pages.ContactUsPage] : Item was selected from DD: 
+2016-28-01 01:28:30   INFO [libs.WebElementOnPage] : Browser and url https://zapier.com/app/contact-us was opened!
+2016-28-01 01:28:30   INFO [pages.ContactUsPage] : Page https://zapier.com/app/contact-us was opened!
+2016-28-01 01:28:32   INFO [libs.WebElementOnPage] : Lick [[FirefoxDriver: firefox on LINUX (b2c7340a-eb3e-431c-abc0-d6381d4babcb)] -> xpath: .//*[@data-key='I have a question before signing up']/a[1]] was clicked!
+2016-28-01 01:28:32   INFO [pages.ContactUsPage] : Item was selected from DD: 
+2016-28-01 01:29:13   INFO [libs.WebElementOnPage] : Browser and url https://zapier.com/app/contact-us was opened!
+2016-28-01 01:29:13   INFO [pages.ContactUsPage] : Page https://zapier.com/app/contact-us was opened!
+2016-28-01 01:29:14   INFO [libs.WebElementOnPage] : Lick [[FirefoxDriver: firefox on LINUX (6c68a1ae-61f2-4b20-b84b-687a18dabe1a)] -> xpath: .//*[@data-key='I have a question before signing up']/a[1]] was clicked!
+2016-28-01 01:29:14   INFO [pages.ContactUsPage] : Item was selected from DD: 
+2016-28-01 01:29:50   INFO [libs.WebElementOnPage] : Browser and url https://zapier.com/app/contact-us was opened!
+2016-28-01 01:29:50   INFO [pages.ContactUsPage] : Page https://zapier.com/app/contact-us was opened!
+2016-28-01 01:29:51   INFO [libs.WebElementOnPage] : Lick [[FirefoxDriver: firefox on LINUX (001d17bd-e469-4011-bb3c-7e0d37157efe)] -> xpath: .//*[@data-key='I have a question before signing up']/a[1]] was clicked!
+2016-28-01 01:29:51   INFO [pages.ContactUsPage] : Item was selected from DD: 
+2016-28-01 01:30:52   INFO [libs.WebElementOnPage] : Browser and url https://zapier.com/app/contact-us was opened!
+2016-28-01 01:30:52   INFO [pages.ContactUsPage] : Page https://zapier.com/app/contact-us was opened!
+2016-28-01 01:30:54   INFO [libs.WebElementOnPage] : Lick [[FirefoxDriver: firefox on LINUX (ce88c028-1cc4-441e-bf80-05fb54884bc3)] -> xpath: .//*[@data-key='I have a question before signing up']/a[1]] was clicked!
+2016-28-01 01:30:54   INFO [pages.ContactUsPage] : Item was selected from DD: 
+2016-28-01 01:34:56   INFO [tests.contactUsTests.TC10] :  ----- class org.openqa.selenium.firefox.FirefoxDriver -------
+2016-28-01 01:34:56   INFO [tests.contactUsTests.TC10] : Test - test10[0] - started
+2016-28-01 01:35:04   INFO [libs.WebElementOnPage] : Browser and url https://zapier.com/app/contact-us was opened!
+2016-28-01 01:35:04   INFO [pages.ContactUsPage] : Page https://zapier.com/app/contact-us was opened!
+2016-28-01 01:35:06   INFO [libs.WebElementOnPage] : Lick [[FirefoxDriver: firefox on LINUX (4ec6279c-faf0-42dd-acb5-1fdf3369a63b)] -> xpath: .//*[@data-key='I have a question before signing up']/a[1]] was clicked!
+2016-28-01 01:35:06   INFO [pages.ContactUsPage] : Item was selected from DD: 
+2016-28-01 01:35:06  ERROR [libs.WebElementOnPage] : org.openqa.selenium.WebDriverException: Element is not clickable at point (166, 400.95001220703125). Other element would receive the click: <pre class=""></pre>
+Command duration or timeout: 80 milliseconds
+Build info: version: '2.49.0', revision: '365eeb4', time: '2016-01-13 18:37:00'
+System info: host: 'romanlekh-mint', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.16.0-38-generic', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=38.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 4ec6279c-faf0-42dd-acb5-1fdf3369a63b
+2016-28-01 01:35:09  ERROR [libs.WebElementOnPage] : org.openqa.selenium.WebDriverException: Element must be user-editable in order to clear it.
+Command duration or timeout: 3.08 seconds
+Build info: version: '2.49.0', revision: '365eeb4', time: '2016-01-13 18:37:00'
+System info: host: 'romanlekh-mint', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.16.0-38-generic', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=38.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 4ec6279c-faf0-42dd-acb5-1fdf3369a63b
+2016-28-01 01:35:09   INFO [pages.ContactUsPage] : Text What is the service?was typed into input questionText: false
+2016-28-01 01:35:09   INFO [libs.WebElementOnPage] : Button [[FirefoxDriver: firefox on LINUX (4ec6279c-faf0-42dd-acb5-1fdf3369a63b)] -> xpath: .//*[@id='next']] was clicked
+2016-28-01 01:35:09   INFO [pages.ContactUsPage] : Button NEXT is present and clickable: true
+2016-28-01 01:35:09   INFO [libs.WebElementOnPage] : Browser was closed!
+2016-28-01 01:35:09   INFO [pages.ContactUsPage] : ContactUs page was closed!
+2016-28-01 01:40:33   INFO [tests.contactUsTests.TC10] :  ----- class org.openqa.selenium.firefox.FirefoxDriver -------
+2016-28-01 01:40:33   INFO [tests.contactUsTests.TC10] : Test - test10[0] - started
+2016-28-01 01:40:38   INFO [libs.WebElementOnPage] : Browser and url https://zapier.com/app/contact-us was opened!
+2016-28-01 01:40:38   INFO [pages.ContactUsPage] : Page https://zapier.com/app/contact-us was opened!
+2016-28-01 01:40:39   INFO [libs.WebElementOnPage] : Lick [[FirefoxDriver: firefox on LINUX (91242e3e-6604-48d1-8b71-121b55157b89)] -> xpath: .//*[@data-key='I have a question before signing up']/a[1]] was clicked!
+2016-28-01 01:40:39   INFO [pages.ContactUsPage] : Item was selected from DD: 
+2016-28-01 01:40:39  ERROR [libs.WebElementOnPage] : org.openqa.selenium.WebDriverException: Element is not clickable at point (166, 400.95001220703125). Other element would receive the click: <pre class=""></pre>
+Command duration or timeout: 89 milliseconds
+Build info: version: '2.49.0', revision: '365eeb4', time: '2016-01-13 18:37:00'
+System info: host: 'romanlekh-mint', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.16.0-38-generic', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=38.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 91242e3e-6604-48d1-8b71-121b55157b89
+2016-28-01 01:40:42  ERROR [libs.WebElementOnPage] : org.openqa.selenium.WebDriverException: Element must be user-editable in order to clear it.
+Command duration or timeout: 3.09 seconds
+Build info: version: '2.49.0', revision: '365eeb4', time: '2016-01-13 18:37:00'
+System info: host: 'romanlekh-mint', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.16.0-38-generic', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=38.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 91242e3e-6604-48d1-8b71-121b55157b89
+2016-28-01 01:40:42   INFO [pages.ContactUsPage] : Text What is the service?was typed into input questionText: false
+2016-28-01 01:40:43   INFO [libs.WebElementOnPage] : Button [[FirefoxDriver: firefox on LINUX (91242e3e-6604-48d1-8b71-121b55157b89)] -> xpath: .//*[@id='next']] was clicked
+2016-28-01 01:40:43   INFO [pages.ContactUsPage] : Button NEXT is present and clickable: true
+2016-28-01 01:40:43   INFO [libs.WebElementOnPage] : Browser was closed!
+2016-28-01 01:40:43   INFO [pages.ContactUsPage] : ContactUs page was closed!
+2016-28-01 01:41:42   INFO [libs.WebElementOnPage] : Browser and url https://zapier.com/app/contact-us was opened!
+2016-28-01 01:41:42   INFO [pages.ContactUsPage] : Page https://zapier.com/app/contact-us was opened!
+2016-28-01 01:41:44   INFO [libs.WebElementOnPage] : Lick [[FirefoxDriver: firefox on LINUX (57c0c262-7712-4fbe-bcc1-f8d684e69d5a)] -> xpath: .//*[@data-key='I have a question before signing up']/a[1]] was clicked!
+2016-28-01 01:41:44   INFO [pages.ContactUsPage] : Item was selected from DD: 
+2016-28-01 01:44:26   INFO [libs.WebElementOnPage] : Browser and url https://zapier.com/app/contact-us was opened!
+2016-28-01 01:44:26   INFO [pages.ContactUsPage] : Page https://zapier.com/app/contact-us was opened!
+2016-28-01 01:44:27   INFO [libs.WebElementOnPage] : Lick [[FirefoxDriver: firefox on LINUX (6764f830-b034-4b8c-8909-a89fbf1814cc)] -> xpath: .//*[@data-key='I have a question before signing up']/a[1]] was clicked!
+2016-28-01 01:44:27   INFO [pages.ContactUsPage] : Item was selected from DD: 
+2016-28-01 01:44:57   INFO [libs.WebElementOnPage] : Browser and url https://zapier.com/app/contact-us was opened!
+2016-28-01 01:44:57   INFO [pages.ContactUsPage] : Page https://zapier.com/app/contact-us was opened!
+2016-28-01 01:44:59   INFO [libs.WebElementOnPage] : Lick [[FirefoxDriver: firefox on LINUX (81533c30-4a99-4721-b0a0-6aeec0fb5dfd)] -> xpath: .//*[@data-key='I have a question before signing up']/a[1]] was clicked!
+2016-28-01 01:44:59   INFO [pages.ContactUsPage] : Item was selected from DD: 
+2016-28-01 01:45:30   INFO [tests.contactUsTests.TC10] :  ----- class org.openqa.selenium.firefox.FirefoxDriver -------
+2016-28-01 01:45:30   INFO [tests.contactUsTests.TC10] : Test - test10[0] - started
+2016-28-01 01:45:35   INFO [libs.WebElementOnPage] : Browser and url https://zapier.com/app/contact-us was opened!
+2016-28-01 01:45:35   INFO [pages.ContactUsPage] : Page https://zapier.com/app/contact-us was opened!
+2016-28-01 01:45:37   INFO [libs.WebElementOnPage] : Lick [[FirefoxDriver: firefox on LINUX (02841ec7-9950-41f9-96c8-816c5d416f9b)] -> xpath: .//*[@data-key='I have a question before signing up']/a[1]] was clicked!
+2016-28-01 01:45:37   INFO [pages.ContactUsPage] : Item was selected from DD: 
+2016-28-01 01:45:37   INFO [libs.WebElementOnPage] : Lick [[FirefoxDriver: firefox on LINUX (02841ec7-9950-41f9-96c8-816c5d416f9b)] -> xpath: .//*[@id='app']/div/div/div/paramform/div/div[2]/div[2]/div/div/div[6]/div[1]/div/div/div/div[5]/pre] was clicked!
+2016-28-01 01:45:40  ERROR [libs.WebElementOnPage] : org.openqa.selenium.WebDriverException: Element must be user-editable in order to clear it.
+Command duration or timeout: 3.13 seconds
+Build info: version: '2.49.0', revision: '365eeb4', time: '2016-01-13 18:37:00'
+System info: host: 'romanlekh-mint', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.16.0-38-generic', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=38.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 02841ec7-9950-41f9-96c8-816c5d416f9b
+2016-28-01 01:45:40   INFO [pages.ContactUsPage] : Text What is the service?was typed into input questionText: false
+2016-28-01 01:45:40   INFO [libs.WebElementOnPage] : Button [[FirefoxDriver: firefox on LINUX (02841ec7-9950-41f9-96c8-816c5d416f9b)] -> xpath: .//*[@id='next']] was clicked
+2016-28-01 01:45:40   INFO [pages.ContactUsPage] : Button NEXT is present and clickable: true
+2016-28-01 01:45:40   INFO [libs.WebElementOnPage] : Browser was closed!
+2016-28-01 01:45:40   INFO [pages.ContactUsPage] : ContactUs page was closed!
+2016-28-01 01:49:54   INFO [libs.WebElementOnPage] : Browser and url https://zapier.com/app/contact-us was opened!
+2016-28-01 01:49:54   INFO [pages.ContactUsPage] : Page https://zapier.com/app/contact-us was opened!
+2016-28-01 01:49:56   INFO [libs.WebElementOnPage] : Lick [[FirefoxDriver: firefox on LINUX (870de5d0-d04e-44a8-8280-7b68c9c277b4)] -> xpath: .//*[@data-key='I have a question before signing up']/a[1]] was clicked!
+2016-28-01 01:49:56   INFO [pages.ContactUsPage] : Item was selected from DD: 
+2016-28-01 01:49:59  ERROR [libs.WebElementOnPage] : org.openqa.selenium.WebDriverException: Element must be user-editable in order to clear it.
+Command duration or timeout: 3.05 seconds
+Build info: version: '2.49.0', revision: '365eeb4', time: '2016-01-13 18:37:00'
+System info: host: 'romanlekh-mint', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.16.0-38-generic', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=38.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 870de5d0-d04e-44a8-8280-7b68c9c277b4
+2016-28-01 01:50:55   INFO [libs.WebElementOnPage] : Browser and url https://zapier.com/app/contact-us was opened!
+2016-28-01 01:50:55   INFO [pages.ContactUsPage] : Page https://zapier.com/app/contact-us was opened!
+2016-28-01 01:50:57   INFO [libs.WebElementOnPage] : Lick [[FirefoxDriver: firefox on LINUX (1db62ab1-98cc-46f6-8428-11c5e6fe4f7f)] -> xpath: .//*[@data-key='I have a question before signing up']/a[1]] was clicked!
+2016-28-01 01:50:57   INFO [pages.ContactUsPage] : Item was selected from DD: 
+2016-28-01 01:51:00  ERROR [libs.WebElementOnPage] : org.openqa.selenium.WebDriverException: Element must be user-editable in order to clear it.
+Command duration or timeout: 3.05 seconds
+Build info: version: '2.49.0', revision: '365eeb4', time: '2016-01-13 18:37:00'
+System info: host: 'romanlekh-mint', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.16.0-38-generic', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=38.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 1db62ab1-98cc-46f6-8428-11c5e6fe4f7f
+2016-28-01 01:51:51   INFO [libs.WebElementOnPage] : Browser and url https://zapier.com/app/contact-us was opened!
+2016-28-01 01:51:51   INFO [pages.ContactUsPage] : Page https://zapier.com/app/contact-us was opened!
+2016-28-01 01:51:52   INFO [libs.WebElementOnPage] : Lick [[FirefoxDriver: firefox on LINUX (033e7cd0-bbd7-4c6b-bd60-507d5dc81ab5)] -> xpath: .//*[@data-key='I have a question before signing up']/a[1]] was clicked!
+2016-28-01 01:51:52   INFO [pages.ContactUsPage] : Item was selected from DD: 
+2016-28-01 01:51:53   INFO [libs.WebElementOnPage] : Text 123123123 was typed into input!
+2016-28-01 01:53:56   INFO [libs.WebElementOnPage] : Browser and url https://zapier.com/app/contact-us was opened!
+2016-28-01 01:53:56   INFO [pages.ContactUsPage] : Page https://zapier.com/app/contact-us was opened!
+2016-28-01 01:53:58   INFO [libs.WebElementOnPage] : Lick [[FirefoxDriver: firefox on LINUX (f4ac5e4b-2369-48b1-9d87-92680cdab131)] -> xpath: .//*[@data-key='I have a question before signing up']/a[1]] was clicked!
+2016-28-01 01:53:58   INFO [pages.ContactUsPage] : Item was selected from DD: 
+2016-28-01 01:53:58   INFO [libs.WebElementOnPage] : Lick [[FirefoxDriver: firefox on LINUX (f4ac5e4b-2369-48b1-9d87-92680cdab131)] -> xpath: .//*[@id='app']/div/div/div/paramform/div/div[2]/div[2]/div/div/div[6]/div[1]/div/div/div/div[5]/pre] was clicked!
+2016-28-01 01:53:59   INFO [libs.WebElementOnPage] : Text 12312312312 was typed into input!
+2016-28-01 01:53:59   INFO [pages.ContactUsPage] : Text "12312312312" was typed into input questionText: true
+2016-28-01 01:54:55   INFO [tests.contactUsTests.TC10] :  ----- class org.openqa.selenium.firefox.FirefoxDriver -------
+2016-28-01 01:54:55   INFO [tests.contactUsTests.TC10] : Test - test10[0] - started
+2016-28-01 01:54:59   INFO [libs.WebElementOnPage] : Browser and url https://zapier.com/app/contact-us was opened!
+2016-28-01 01:54:59   INFO [pages.ContactUsPage] : Page https://zapier.com/app/contact-us was opened!
+2016-28-01 01:55:01   INFO [libs.WebElementOnPage] : Lick [[FirefoxDriver: firefox on LINUX (031dcf4c-34eb-444a-b939-cdd501da197a)] -> xpath: .//*[@data-key='I have a question before signing up']/a[1]] was clicked!
+2016-28-01 01:55:01   INFO [pages.ContactUsPage] : Item was selected from DD: 
+2016-28-01 01:55:01   INFO [libs.WebElementOnPage] : Lick [[FirefoxDriver: firefox on LINUX (031dcf4c-34eb-444a-b939-cdd501da197a)] -> xpath: .//*[@id='app']/div/div/div/paramform/div/div[2]/div[2]/div/div/div[6]/div[1]/div/div/div/div[5]/pre] was clicked!
+2016-28-01 01:55:01   INFO [libs.WebElementOnPage] : Text What is the service? was typed into input!
+2016-28-01 01:55:01   INFO [pages.ContactUsPage] : Text "What is the service?" was typed into input questionText: true
+2016-28-01 01:55:02   INFO [libs.WebElementOnPage] : Button [[FirefoxDriver: firefox on LINUX (031dcf4c-34eb-444a-b939-cdd501da197a)] -> xpath: .//*[@id='next']] was clicked
+2016-28-01 01:55:02   INFO [pages.ContactUsPage] : Button NEXT is present and clickable: true
+2016-28-01 01:55:02   INFO [libs.WebElementOnPage] : Browser was closed!
+2016-28-01 01:55:02   INFO [pages.ContactUsPage] : ContactUs page was closed!

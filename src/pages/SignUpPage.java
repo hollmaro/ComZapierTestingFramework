@@ -64,6 +64,7 @@ public class SignUpPage {
 	public boolean typeLastNameIntoInputLastName(String lastName) {
 		boolean tempElement=
 		webElementOnPage.typeTextIntoInput(lastName, "SignUP.LastName.Input");
+		webElementOnPage.clickLink("SignUP.LastName.Input");
 		log.info("Last name was typed into input LastName: " + tempElement);
 		return tempElement;
 	}
@@ -158,5 +159,25 @@ public class SignUpPage {
 		webElementOnPage.isElementOnPage("SignUP.Error.Message");
 		log.info("Error message on page: " + tempElement);
 		return tempElement;
+	}
+	/**
+	 * Method press TAB "numerosity" times
+	 * @param numerosity
+	 * @return
+	 */
+	public boolean pressTabOnPage(int numerosity){
+		webElementOnPage.pressTabKey(numerosity);
+		log.info("TAB was pressed " + numerosity + "times");
+		return true;
+	}
+	/**
+	 * Method press ENTER "numerosity" times
+	 * @param numerosity
+	 * @return
+	 */
+	public boolean pressEnterOnPage(int numerosity){
+		webElementOnPage.pressEnter(numerosity);
+		log.info("Enter was pressed " + numerosity + "times");
+		return true;
 	}
 }

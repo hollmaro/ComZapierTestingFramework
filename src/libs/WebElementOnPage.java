@@ -5,8 +5,10 @@ import java.util.concurrent.TimeUnit;
 import org.apache.log4j.Logger;
 import org.junit.Assert;
 import org.openqa.selenium.By;
+import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
+import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.Select;
 import org.openqa.selenium.support.ui.WebDriverWait;
@@ -19,6 +21,7 @@ public class WebElementOnPage {
 	WebDriver driver;
 	Logger log;
 	public WebDriverWait wait;
+	Actions keyAction;
 	
 	
 	/**
@@ -29,6 +32,8 @@ public class WebElementOnPage {
 		this.driver = extDriver;
 		log = Logger.getLogger(getClass());
 		wait = new WebDriverWait(driver, 30);
+		keyAction = new Actions(driver);
+
 	}
 	/**
 	 * Method open browser and url
@@ -66,8 +71,9 @@ public class WebElementOnPage {
 	public boolean typeTextIntoInput(String text, String keyInputLocator){
 		try {
 			WebElement input = driver.findElement(ui(keyInputLocator));
-			input.clear();
-			input.sendKeys(text);
+			
+			input.click();
+			keyAction.sendKeys(text).build().perform();
 			log.info("Text "+text+" was typed into input!");
 			return true;
 		} catch (Exception e) {
@@ -230,9 +236,41 @@ public class WebElementOnPage {
 			log.error(e);
 			return false;
 		}
-		
-		
-		
 	}
+	/**
+	 * Method press TAB key "numerosity" times
+	 * @param numerosity
+	 * @return
+	 */
+	public boolean pressTabKey(int numerosity) {
+		try {
+			for (int i = 0; i < numerosity; i++) {
+				keyAction.sendKeys(Keys.TAB).build().perform();
+			}
+			log.info("Key TAB was pressed! ");
+			return true;
+		} catch (Exception e) {
+			log.error(e);
+			return false;
+		}
+	}
+	/**
+	 * Method press ENTER key "numerosity" times
+	 * @param numerosity
+	 * @return
+	 */
+	public boolean pressEnter(int numerosity){
+		try {
+			for(int i = 0; i < numerosity; i++){
+			keyAction.sendKeys(Keys.ENTER).build().perform();
+			}
+			log.info("Key ENTER was pressed!");
+			return true;
+		} catch (Exception e) {
+			log.error(e);
+			return false;
+		}
+	}
+
 }
 
