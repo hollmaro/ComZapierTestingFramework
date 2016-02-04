@@ -1520,3 +1520,16 @@ Session ID: 1db62ab1-98cc-46f6-8428-11c5e6fe4f7f
 2016-28-01 01:55:02   INFO [pages.ContactUsPage] : Button NEXT is present and clickable: true
 2016-28-01 01:55:02   INFO [libs.WebElementOnPage] : Browser was closed!
 2016-28-01 01:55:02   INFO [pages.ContactUsPage] : ContactUs page was closed!
+2016-30-01 00:56:51   INFO [tests.contactUsTests.TC10] :  ----- class org.openqa.selenium.firefox.FirefoxDriver -------
+2016-30-01 00:56:51   INFO [tests.contactUsTests.TC10] : Test - test10[0] - started
+2016-30-01 00:56:57   INFO [libs.WebElementOnPage] : Browser and url https://zapier.com/app/contact-us was opened!
+2016-30-01 00:56:57   INFO [pages.ContactUsPage] : Page https://zapier.com/app/contact-us was opened!
+2016-30-01 00:56:58   INFO [libs.WebElementOnPage] : Lick [[FirefoxDriver: firefox on LINUX (342ded19-d03a-4d28-898a-27b0aec050f7)] -> xpath: .//*[@data-key='I have a question before signing up']/a[1]] was clicked!
+2016-30-01 00:56:58   INFO [pages.ContactUsPage] : Item was selected from DD: 
+2016-30-01 00:56:59   INFO [libs.WebElementOnPage] : Lick [[FirefoxDriver: firefox on LINUX (342ded19-d03a-4d28-898a-27b0aec050f7)] -> xpath: .//*[@id='app']/div/div/div/paramform/div/div[2]/div[2]/div/div/div[6]/div[1]/div/div/div/div[5]/pre] was clicked!
+2016-30-01 00:56:59   INFO [libs.WebElementOnPage] : Text What is the service? was typed into input!
+2016-30-01 00:56:59   INFO [pages.ContactUsPage] : Text "What is the service?" was typed into input questionText: true
+2016-30-01 00:56:59   INFO [libs.WebElementOnPage] : Button [[FirefoxDriver: firefox on LINUX (342ded19-d03a-4d28-898a-27b0aec050f7)] -> xpath: .//*[@id='next']] was clicked
+2016-30-01 00:56:59   INFO [pages.ContactUsPage] : Button NEXT is present and clickable: true
+2016-30-01 00:57:00   INFO [libs.WebElementOnPage] : Browser was closed!
+2016-30-01 00:57:00   INFO [pages.ContactUsPage] : ContactUs page was closed!
