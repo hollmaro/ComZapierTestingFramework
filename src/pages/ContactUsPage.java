@@ -1,25 +1,17 @@
 package pages;
 
-import com.gargoylesoftware.htmlunit.html.Keyboard;
 import libs.ConfigData;
 import libs.WebElementOnPage;
 import org.apache.log4j.Logger;
-import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
-import org.openqa.selenium.interactions.Action;
-import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.ui.ExpectedConditions;
-import org.openqa.selenium.support.ui.WebDriverWait;
-
-import java.awt.*;
+import java.util.NoSuchElementException;
 
 /**
  * Created by roman on 1/24/16.
  */
 public class ContactUsPage {
     WebDriver driver;
-    WebDriverWait wait;
     WebElementOnPage webElementOnPage;
     Logger log;
 
@@ -30,12 +22,11 @@ public class ContactUsPage {
     public ContactUsPage(WebDriver externalDriver){
         this.driver = externalDriver;
         log = Logger.getLogger(getClass());
-        wait = new WebDriverWait(driver, 30);
         webElementOnPage = new WebElementOnPage(driver);
     }
 
     /**
-     * Method opens page Contact Us and browser
+     * Method opens page ContactUs and browser
      */
     public void openContactUsPageAndBrowser(){
         try {
@@ -47,6 +38,9 @@ public class ContactUsPage {
         }
     }
 
+    /**
+     * Method closes ContactUs page and browser
+     */
     public void closeContactUsPageAndBrowser(){
         try {
             webElementOnPage.closeBrowser();
@@ -57,57 +51,62 @@ public class ContactUsPage {
     }
 
     /**
-     * Method selects type of question from DD
+     * Method selects type of question from DD by questionNum (1-6)
      * @return
      */
-    public boolean selectQuestionFromDDByText(){
+    public boolean selectQuestionFromDDByQuestionNum(int questionNum){
         try {
 
-            webElementOnPage.wait.until(ExpectedConditions.elementToBeClickable(driver.findElement(By.xpath(".//*[@class='fill-button']"))));
-            driver.findElement(By.xpath(".//*[@class='fill-button']")).click();
-            webElementOnPage.clickLink("ContactUs.QuestionType.DD");
-
-
-            //WebElement element = driver.findElement(by);
-//            webElementOnPage.wait.until(ExpectedConditions.elementToBeClickable(element));
-
-           // boolean tempElement = driver.findElement(by);
-            log.info("Item was selected from DD: ");
+            webElementOnPage.wait.until(ExpectedConditions.elementToBeClickable(ConfigData.ui("ContactUs.TypeQuestion.Button")));
+            webElementOnPage.clickLink("ContactUs.TypeQuestion.Button");
+            boolean tempElement = webElementOnPage.clickLink("ContactUs.QuestionType" + questionNum + ".DD");
+            log.info("Item was selected from DD: " + tempElement);
             return true;
         } catch (Exception e) {
             log.error(e);
             return false;
         }
     }
-
     /**
-     * Method types text into input questionText
-     * @param questionText
+     * Method selects NO for having account DD
      * @return
      */
-    public boolean typeQuestionText(String questionText){
+    public boolean selectNoForHavingAccountFromDD(){
         try {
-            //webElementOnPage.wait.until(ExpectedConditions.elementToBeClickable(ConfigData.ui("ContactUs.QuestionText.Input")));
-            webElementOnPage.clickLink("ContactUs.QuestionText.Input");
-            boolean tempElement =
-                    webElementOnPage.typeTextIntoInput(questionText, "ContactUs.QuestionText.Input");
-            log.info("Text \"" + questionText + "\" was typed into input questionText: " + tempElement);
+            webElementOnPage.clickLink("ContactUs.ButtonYesNo.DD");
+            boolean tempElement = webElementOnPage.clickLink("ContactUs.HaveAccountNo.DD");
+            log.info("Select NO for having account: " + tempElement);
             return true;
-        }catch (Exception e){
+        } catch (NoSuchElementException e) {
             log.error(e);
             return false;
         }
     }
-
     /**
-     * Method clicks button "Next"
+     * Method selects YES from having account DD
      * @return
      */
-    public boolean clickNextButton(){
+    public boolean selectYesForHavingAccountFromDD() {
         try {
-            boolean tempElement =
-                    webElementOnPage.clickButton("ContactUs.Next.Button");
-            log.info("Button NEXT was clicked: " + tempElement);
+        	webElementOnPage.clickLink("ContactUs.ButtonYesNo.DD");
+            boolean tempElement = webElementOnPage.clickLink("ContactUs.HaveAccountYes.DD");
+            log.info("Select YES for having account: " + tempElement);
+            return true;
+        } catch (NoSuchElementException e) {
+            log.error(e);
+            return false;
+        }
+    }
+    /**
+     * Method clicks button "Send Email"
+     * @return
+     */
+    public boolean clickSendEmailButton(){
+        try {
+            boolean tempElement = webElementOnPage.clickButton("ContactUs.SendEmailDisabled.Button");
+            if (tempElement==false)
+                webElementOnPage.clickButton("ContactUs.SendEmailAnabled.Button");
+            log.info("Button Send Email was clicked: " + tempElement);
             return true;
         }catch (Exception e) {
             log.error(e);
@@ -116,17 +115,29 @@ public class ContactUsPage {
     }
 
     /**
-     * Method checks is button "Next" clickable on ContactUs page
+     * Method checks is PopUp error on page
      * @return
      */
-    public boolean isButtonNextIsClickableOnContactUsPage(){
+    public boolean isPopUpErrorOnPage(){
         try {
-            boolean tempElement =
-                    webElementOnPage.clickButton("ContactUs.Next.Button");
-            log.info("Button NEXT is present and clickable: " + tempElement) ;
+            boolean tempElement = webElementOnPage.isElementOnPage("ContactUs.Error.PopUp");
+            log.info("PopUp error is on page: " + tempElement);
             return true;
-        }catch (Exception e) {
-            log.error("Button NEXT is not clickable! error here: " + e);
+        } catch (NoSuchElementException e) {
+            log.error(e);
+            return false;
+        }
+    }
+
+    public boolean isInputEmailOnPage(){
+        try {
+        	webElementOnPage.wait.until(ExpectedConditions.elementToBeClickable(
+                    driver.findElement(ConfigData.ui("ContactUs.Email.Input"))));
+            boolean tempElement = webElementOnPage.isElementOnPage("ContactUs.Email.Input");
+            log.info("Input email on page: " + tempElement);
+            return true;
+        } catch (NoSuchElementException e) {
+            log.error(e);
             return false;
         }
     }

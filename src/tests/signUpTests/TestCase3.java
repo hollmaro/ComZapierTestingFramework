@@ -7,16 +7,16 @@ import pages.SignUpPage;
 import tests.ParentTest;
 import java.net.MalformedURLException;
 
-public class TC3 extends ParentTest{
+public class TestCase3 extends ParentTest{
 
     SignUpPage signUpPage;
 
     /**
-     * CONSTRUCTOR for TC3
+     * CONSTRUCTOR for TestCase3
      * @param browser
      * @throws MalformedURLException
      */
-    public TC3(String browser)throws MalformedURLException{
+    public TestCase3(String browser)throws MalformedURLException{
         super(browser);
     }
     @Test

@@ -19,17 +19,21 @@ import org.apache.poi.poifs.filesystem.POIFSFileSystem;
 public class ExcelDriver {
 	Map excelMap;
 
-	/**
+	/*
 	 * CONSTRUCTOR
 	 */
 	public ExcelDriver(Map map){
 		this.excelMap = map;
 	}
-	/*
-	 * Static method that retrieves testing data from multiple data Excel table and returns it
-	 * as Map collection of key-value pairs. Column Number indicates number of data set. Note, please, that returned values
-	 * are String. We should take care of value's type by himself when will use
-	 * data values in the test.
+
+	/**
+	 * Static method that retrieves testing data from multiple data Excel table
+	 * and returns it as Map collection of key-value pairs. Column Number indicates number of data set.
+	 * @param dataFileName
+	 * @param sheetName
+	 * @param columnNumber
+	 * @return
+	 * @throws IOException
 	 */
 	public static Map getMultipleData(String dataFileName, String sheetName, int columnNumber) throws IOException {
 		Map<String, String> testData = new HashMap<String, String>();
@@ -54,14 +58,15 @@ public class ExcelDriver {
 		return testData;
 	}
 
-
-    /*
-      * Static method that retrieves testing data from Excel table and returns it
-      * as Map collection of key-value pairs. Note, please, that returned values
-      * are String. We should take care of value's type by himself when will use
-      * data values in the test.
-      */
-    public static Map getData(String dataFileName, String sheetName) throws IOException {
+	/**
+	 * Static method that retrieves testing data from Excel table
+	 * and returns it as Map collection of key-value pairs.
+	 * @param dataFileName
+	 * @param sheetName
+	 * @return
+	 * @throws IOException
+	 */
+	public static Map getData(String dataFileName, String sheetName) throws IOException {
         Map<String, String> testData = new HashMap<String, String>();
         // Create stream for reading from file
         InputStream input = new FileInputStream(dataFileName);
@@ -84,13 +89,13 @@ public class ExcelDriver {
         return testData;
     }
 
-	
-
-	/*
+	/**
 	 * Static method that retrieves testing data from Excel table and returns it
-	 * as Map collection of key-value pairs. Note, please, that returned values
-	 * are String. We should take care of value's type by himself when will use
-	 * data values in the test.
+	 * as Map collection of key-value pairs.
+	 * @param dataFileName
+	 * @param sheetName
+	 * @return
+	 * @throws IOException
 	 */
 	public static Map getDataRow(String dataFileName, String sheetName) throws IOException {
 		Map<String, String> testData = new HashMap<String, String>();

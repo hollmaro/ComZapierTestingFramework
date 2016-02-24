@@ -1,9 +1,9 @@
 package pages;
 
+import libs.myUtil;
 import org.apache.log4j.Logger;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.ui.ExpectedConditions;
-import org.openqa.selenium.support.ui.WebDriverWait;
 import static libs.ConfigData.ui;
 import static libs.ConfigData.getCfgValue;
 import java.io.IOException;
@@ -12,9 +12,9 @@ import libs.WebElementOnPage;
 public class SignUpPage {
 	
 	WebDriver driver;
-	//WebDriverWait wait;
 	Logger log;
 	WebElementOnPage webElementOnPage;
+
 	/**
 	 * CONSTRUCTOR for SignUpPage
 	 * @param externalDriver
@@ -50,9 +50,9 @@ public class SignUpPage {
 	 */
 	public boolean typeFirstNameIntoInputFirstName(String firstName) {
 		webElementOnPage.wait.until(ExpectedConditions.elementToBeClickable(
-			driver.findElement(ui("SignUP.FirstName.Input"))));
+						driver.findElement(ui("SignUP.FirstName.Input"))));
 		boolean tempElement=
-		webElementOnPage.typeTextIntoInput(firstName, "SignUP.FirstName.Input");
+				webElementOnPage.typeTextIntoInput(firstName, "SignUP.FirstName.Input");
 		log.info("First name was typed in input FirstName: " + tempElement);
 		return tempElement;
 	}
@@ -63,7 +63,7 @@ public class SignUpPage {
 	 */
 	public boolean typeLastNameIntoInputLastName(String lastName) {
 		boolean tempElement=
-		webElementOnPage.typeTextIntoInput(lastName, "SignUP.LastName.Input");
+				webElementOnPage.typeTextIntoInput(lastName, "SignUP.LastName.Input");
 		webElementOnPage.clickLink("SignUP.LastName.Input");
 		log.info("Last name was typed into input LastName: " + tempElement);
 		return tempElement;
@@ -75,8 +75,20 @@ public class SignUpPage {
 	 */
 	public boolean typeEmailIntoInputEmail(String email) {
 		boolean tempElement=
-		webElementOnPage.typeTextIntoInput(email, "SignUP.Email.Input");
+				webElementOnPage.typeTextIntoInput(email, "SignUP.Email.Input");
 		log.info("Email was typed into input Email: " + tempElement);
+		return tempElement;
+	}
+
+	/**
+	 * Method types random email into input Email
+	 * @return
+	 */
+	public boolean typeRandomEmailIntoInputEmail(){
+		String randomEmail = String.valueOf(myUtil.getNumFromDate()) + "@gmail.com";
+		boolean tempElement=
+				webElementOnPage.typeTextIntoInput(randomEmail, "SignUP.Email.Input");
+		log.info("Random email " + randomEmail + " was typed into input email: " + tempElement);
 		return tempElement;
 	}
 	/**
@@ -86,7 +98,7 @@ public class SignUpPage {
 	 */
 	public boolean typePasswIntoInputPassword(String passw) {
 		boolean tempElement=
-		webElementOnPage.typeTextIntoInput(passw, "SignUP.Password.Input");
+				webElementOnPage.typeTextIntoInput(passw, "SignUP.Password.Input");
 		log.info("Password was typed into input Password: " + tempElement);
 		return tempElement;
 	}
@@ -96,7 +108,7 @@ public class SignUpPage {
 	 */
 	public boolean checkUpdatesCheckBox() {
 		boolean tempElement=
-		webElementOnPage.setActionInCheckBox("Check", "SignUP.CheckBoxUpdates.Input");
+				webElementOnPage.setActionInCheckBox("Check", "SignUP.CheckBoxUpdates.Input");
 		log.info("Check box \"Updates\" was checked: " + tempElement);
 		return tempElement;
 	}
@@ -106,7 +118,7 @@ public class SignUpPage {
 	 */
 	public boolean unCheckUpdatesCheckBox() {
 		boolean tempElement=
-		webElementOnPage.setActionInCheckBox("Uncheck", "SignUP.CheckBoxUpdates.Input");
+				webElementOnPage.setActionInCheckBox("Uncheck", "SignUP.CheckBoxUpdates.Input");
 		log.info("Check box \"Updates\" was unchecked: " + tempElement);
 		return tempElement;
 	}
@@ -116,7 +128,7 @@ public class SignUpPage {
 	 */
 	public boolean clickNewFeaturesLink() {
 		boolean tempElement=
-		webElementOnPage.clickLink("SignUP.NewFeatures.Link");
+				webElementOnPage.clickLink("SignUP.NewFeatures.Link");
 		log.info("Link NewFeatures was clicked: " + tempElement);
 		return tempElement;
 	}
@@ -126,7 +138,7 @@ public class SignUpPage {
 	 */
 	public boolean clickSignUPButton() {
 		boolean tempElement=
-		webElementOnPage.clickButton("SignUP.SignUpSubmit.Button");
+				webElementOnPage.clickButton("SignUP.SignUpSubmit.Button");
 		log.info("Button \"Sign Up\" was clicked: " + tempElement);
 		return tempElement;
 	}
@@ -136,7 +148,7 @@ public class SignUpPage {
 	 */
 	public boolean clickTermsOfServiceLink() {
 		boolean tempElement=
-		webElementOnPage.clickLink("SignUP.TermsOfService.Link");
+				webElementOnPage.clickLink("SignUP.TermsOfService.Link");
 		log.info("Link \"Terms of Service\" was clicked: " + tempElement);
 		return tempElement;
 	}
@@ -146,7 +158,7 @@ public class SignUpPage {
 	 */
 	public boolean clickGetHelpButton() {
 		boolean tempElement=
-		webElementOnPage.clickButton("SignUP.GetHelp.Button");
+				webElementOnPage.clickButton("SignUP.GetHelp.Button");
 		log.info("BUtton \"GetHelp\" was clicked: " + tempElement);
 		return tempElement;
 	}
@@ -156,7 +168,7 @@ public class SignUpPage {
 	 */
 	public boolean isErrorMessages() {
 		boolean tempElement=
-		webElementOnPage.isElementOnPage("SignUP.Error.Message");
+				webElementOnPage.isElementOnPage("SignUP.Error.Message");
 		log.info("Error message on page: " + tempElement);
 		return tempElement;
 	}
@@ -179,5 +191,39 @@ public class SignUpPage {
 		webElementOnPage.pressEnter(numerosity);
 		log.info("Enter was pressed " + numerosity + "times");
 		return true;
+	}
+
+	public boolean isAppSelectionOnPage() {
+		webElementOnPage.wait.until(ExpectedConditions.elementToBeClickable(driver.findElement(ui("SignUP.SearchApp.Input"))));
+		boolean tempElement =
+				webElementOnPage.isElementOnPage("SignUP.SearchApp.Input");
+		return tempElement;
+	}
+
+	/**
+	 * Method clicks button Continue
+	 * @return
+	 */
+	public boolean clickContinueButton() {
+		boolean tempElement =
+				webElementOnPage.clickButton("SignUP.Continue.Button");
+		return tempElement;
+
+	}
+
+	/**
+	 * Method clicks button "No Thanks"
+	 * @return
+	 */
+	public boolean clickNoThanksButton() {
+		boolean tempElement =
+				webElementOnPage.clickButton("SignUP.NoThanks.Button");
+		return tempElement;
+	}
+
+	public boolean isUserIconOnPage() {
+		boolean tempElement =
+				webElementOnPage.isElementOnPage("SignUP.UserIcon.Img");
+		return tempElement;
 	}
 }

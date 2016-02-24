@@ -1,6 +1,7 @@
 package tests;
 
 import java.net.MalformedURLException;
+import java.net.URL;
 import java.util.Arrays;
 import java.util.Collection;
 
@@ -14,12 +15,12 @@ import org.junit.runners.Parameterized;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
+import org.openqa.selenium.remote.DesiredCapabilities;
 import org.openqa.selenium.remote.RemoteWebDriver;
 
 @RunWith(Parameterized.class)
 public class ParentTest {
   public RemoteWebDriver driver;
-  WebDriver iE, fireFox, chrome;
   public Logger log = Logger.getLogger(getClass());
 
   @Rule 
@@ -29,8 +30,8 @@ public class ParentTest {
   public static Collection data() {
    return Arrays.asList(new String[][] { 
     { "fireFoxString" }
-   /* ,
-    { "chromeString" }*/
+    ,
+    { "chromeString" }
 
     });
   }
@@ -39,9 +40,19 @@ public class ParentTest {
   public ParentTest(String browser) throws MalformedURLException {
    if (browser.equals("fireFoxString")) {
     this.driver = new FirefoxDriver();
+
+      /* DesiredCapabilities capability = DesiredCapabilities.firefox();
+       this.driver = new RemoteWebDriver(new URL("http://localhost:4444/wd/hub"),
+               capability);*/
+
    } else {
     if (browser.equals("chromeString")) {
      this.driver = new ChromeDriver();
+
+        /*DesiredCapabilities capability = DesiredCapabilities.chrome();
+        this.driver = new RemoteWebDriver(new URL("http://localhost:4444/wd/hub"),
+                capability);*/
+
     } 
     
    }
@@ -53,9 +64,7 @@ public class ParentTest {
  
  @Before
  public void setUp(){
-//  driver = new FirefoxDriver();
-//  driver = new ChromeDriver();
-	 log.info("Test - " +  name.getMethodName() + " - started");
+     log.info("Test - " +  name.getMethodName() + " - started");
  }
  
  

@@ -1,13 +1,16 @@
 package libs;
 
-import java.util.Calendar;
+import java.util.Date;
 
-/**
- * Created by roman on 1/28/16.
- */
 public class myUtil {
-    Calendar time;
+    /**
+     * Method generate unique num
+     * @return
+     */
+    public static Long getNumFromDate(){
+        Date date = new Date();
+        return date.getTime();
 
-    //time
+    }
 
 }

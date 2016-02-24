@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/G12RomanLekhComZapier.iml" filepath="$PROJECT_DIR$/G12RomanLekhComZapier.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ComZapierTestingFramework.iml" filepath="$PROJECT_DIR$/ComZapierTestingFramework.iml" />
     </modules>
   </component>
 </project>

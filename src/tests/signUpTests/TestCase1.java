@@ -15,20 +15,21 @@ import pages.SignUpPage;
 import tests.ParentTest;
 
 
-public class TC1 extends ParentTest {
-	SignUpPage signUpPage;
+public class TestCase1 extends ParentTest {
 	/**
 	 * CONSTRUCTOR for TC
 	 * @param browser
 	 * @throws MalformedURLException
 	 */
-	public TC1(String browser) throws MalformedURLException {
+	public TestCase1(String browser) throws MalformedURLException {
 		super(browser);
 	}
+
+	SignUpPage signUpPage;
 	
 	@Test
 	public void test1()throws IOException{
-		Map mapDataTC = ExcelDriver.getData(ConfigData.getCfgValue("TestDataSignUp"), "TC1");
+		Map mapDataTC = ExcelDriver.getData(ConfigData.getCfgValue("TestDataSignUp"), "TestCase1");
 		ExcelDriver excelDriver = new ExcelDriver(mapDataTC);
 		signUpPage = new SignUpPage(driver);
 		signUpPage.openSignUpPage();

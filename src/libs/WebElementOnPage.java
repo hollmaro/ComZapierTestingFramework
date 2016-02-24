@@ -90,7 +90,7 @@ public class WebElementOnPage {
 		try {
 			WebElement link = driver.findElement(ui(keyLinkLocator));
 			link.click();
-			log.info("Lick "+link+" was clicked!");
+			log.info("Link was clicked!");
 			return true;
 		} catch (Exception e) {
 			log.error(e);
