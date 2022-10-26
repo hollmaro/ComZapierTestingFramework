@@ -1,0 +1,11 @@
+*.iml
+libs/
+.classpath
+.project
+.idea/
+.settings/
+reports/
+surefire/
+target/
+.logs/*
+test-output/
