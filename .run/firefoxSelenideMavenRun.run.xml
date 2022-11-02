@@ -1,5 +1,5 @@
 <component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="edgeMavenRun" type="MavenRunConfiguration" factoryName="Maven">
+  <configuration default="false" name="firefoxSelenideMavenRun" type="MavenRunConfiguration" factoryName="Maven">
     <MavenSettings>
       <option name="myGeneralSettings" />
       <option name="myRunnerSettings" />
@@ -12,9 +12,8 @@
             <list>
               <option value="clean" />
               <option value="test" />
-              <option value="-Denv=ci_env" />
-              <option value="-DbrowserVar=edge" />
-              <option value="-DsuiteXmlFile=exampleSuite.xml" />
+              <option value="-Dselenide.userBrowser=firefox" />
+              <option value="-DsuiteXmlFile=exampleSuiteSelenide.xml" />
             </list>
           </option>
           <option name="pomFileName" />

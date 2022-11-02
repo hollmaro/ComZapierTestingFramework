@@ -6,9 +6,6 @@ import org.testng.annotations.Test;
 import pages.ContactUsPage;
 import parentTest.ParentTest;
 
-/**
- * Created by roman on 2/8/16.
- */
 public class TestCase11 extends ParentTest{
     ContactUsPage contactUsPage;
 

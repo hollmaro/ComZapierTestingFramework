@@ -9,9 +9,6 @@ import userLibs.WebElementOnPage;
 
 import java.util.NoSuchElementException;
 
-/**
- * Created by roman on 1/24/16.
- */
 public class ContactUsPage {
     WebDriver driver;
     WebElementOnPage webElementOnPage;

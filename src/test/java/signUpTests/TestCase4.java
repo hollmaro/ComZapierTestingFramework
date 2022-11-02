@@ -11,15 +11,9 @@ import userLibs.ExcelDriver;
 import java.io.IOException;
 import java.util.Map;
 
-/**
- * Created by roman on 2/18/16.
- */
 public class TestCase4 extends ParentTest {
 
-
-
     SignUpPage signUpPage;
-
 
     @Test
     public void test4() throws IOException {

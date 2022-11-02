@@ -1,75 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
+    <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="34b2093b-53f2-43ea-b732-a1a4994b4907" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.run/chromeMavenRun.run.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.run/edgeMavenRun.run.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/emailMessageFile_example.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/userLibs/ConfigData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/userLibs/LoggerWrapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/log4j2.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/contactUsTests/TestCase10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/contactUsTests/TestCase11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/parentTest/ParentTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/signUpTests/TestCase1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/signUpTests/TestCase2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/signUpTests/TestCase3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/allure.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testng-suites/exampleSuite.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.run/chromeSelenideMavenRun.run.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.run/edgeSelenideMavenRun.run.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/parentTest/ParentTestSelenide.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/selenideTests/TestSelenide.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng-suites/exampleSuiteSelenide.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/ComZapierTestingFramework.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ComZapierTestingFramework.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/TestData/.~lock.TestDataSignUp.xls#" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/TestData/TestDataContactUs.xls" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/TestData/TestDataSignUp.xls" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/UIMapping.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/profiles/config_profile_based.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/libs/ConfigData.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/libs/DataBaseData.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/libs/Database.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/libs/ExcelDriver.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/libs/WebElementOnPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/libs/myUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/log4j.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/pages/ContactUsPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/pages/SignUpPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/tests/ParentTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/tests/contactUsTests/TestCase10.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/tests/contactUsTests/TestCase11.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/tests/signUpTests/TestCase1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/tests/signUpTests/TestCase2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/tests/signUpTests/TestCase3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/tests/signUpTests/TestCase4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/tests/signUpTests/TrashTryToDo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/G12LekhComZapier.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/poi-3.8-20120326.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TestData/.~lock.TestDataSignUp.xls#" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/config.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/libs/ConfigData.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/libs/DataBaseData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/userLibs/DataBaseData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/libs/Database.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/userLibs/Database.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/libs/ExcelDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/userLibs/ExcelDriver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/libs/WebElementOnPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/userLibs/WebElementOnPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/libs/myUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/userLibs/myUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/log4j.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/ContactUsPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/ContactUsPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/SignUpPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/SignUpPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tests/ParentTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tests/contactUsTests/TestCase10.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tests/contactUsTests/TestCase11.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tests/signUpTests/TestCase1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tests/signUpTests/TestCase2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tests/signUpTests/TestCase3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tests/signUpTests/TestCase4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/signUpTests/TestCase4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/ContactUsPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/ContactUsPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/userLibs/WebElementOnPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/userLibs/WebElementOnPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/userLibs/myUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/userLibs/myUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/contactUsTests/TestCase11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/contactUsTests/TestCase11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/parentTest/ParentTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/parentTest/ParentTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/signUpTests/TestCase1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/signUpTests/TestCase1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/signUpTests/TestCase4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/signUpTests/TestCase4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,14 +33,15 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="HTML File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
+        <option value="hollmaro &lt;hollmaro66@gmail.com&gt;" />
         <option value="hollmaro66@gmail.com" />
         <option value="hollmaro" />
       </list>
@@ -332,9 +284,10 @@
     <property name="GenerateAntBuildDialog.outputFileNameProperty" value="g12romanlekhcomzapier" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.openapi.externalSystem.service.settings.ExternalSystemGroupConfigurable" value="ALL" />
     <property name="dynamic.classpath" value="false" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/tests/parentTest" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../access-mobile-android" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/testng-suites" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -342,9 +295,9 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\PROJECTS\ComZapierTestingFramework\testng-suites" />
       <recent name="C:\PROJECTS\ComZapierTestingFramework" />
       <recent name="C:\PROJECTS\ComZapierTestingFramework\src\test\resources" />
-      <recent name="C:\PROJECTS\ComZapierTestingFramework\testng-suites" />
       <recent name="C:\PROJECTS\ComZapierTestingFramework\src\main" />
       <recent name="C:\PROJECTS\ComZapierTestingFramework\src\main\libs" />
     </key>
@@ -357,8 +310,11 @@
       <recent name="parentTest" />
       <recent name="main" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="parentTest" />
+    </key>
   </component>
-  <component name="RunManager" selected="Maven.chromeMavenRun">
+  <component name="RunManager" selected="Maven.firefoxSelenideMavenRun">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
       <module name="" />
       <option name="ACTIVITY_CLASS" value="" />
@@ -485,6 +441,30 @@
       <setting name="launchBrowser" value="false" />
       <method />
     </configuration>
+    <configuration type="JUnit" factoryName="JUnit">
+      <module name="ComZapierTestingFramework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.signUpTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.signUpTests" />
+      <option name="MAIN_CLASS_NAME" value="tests.signUpTests.TestCase2" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
       <method />
     </configuration>
@@ -509,63 +489,8 @@
     <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
       <method />
     </configuration>
-    <configuration name="ConfigData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="userLibs.ConfigData" />
-      <module name="ComZapierTestingFramework" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="userLibs.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration type="JUnit" factoryName="JUnit">
-      <module name="ComZapierTestingFramework" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.signUpTests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tests.signUpTests" />
-      <option name="MAIN_CLASS_NAME" value="tests.signUpTests.TestCase2" />
-      <option name="METHOD_NAME" value="test2" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestCase2.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="G12RomanLekhComZapier" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.signUpTests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tests.signUpTests" />
-      <option name="MAIN_CLASS_NAME" value="tests.signUpTests.TestCase2" />
-      <option name="METHOD_NAME" value="test2" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="JUnit" factoryName="JUnit">
-      <option name="TEST_OBJECT" value="class" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -590,58 +515,76 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestCase10.test10" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TestCase11.test11" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="ComZapierTestingFramework" />
-      <shortenClasspath name="NONE" />
-      <useClassPathOnly />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="contactUsTests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="SUITE_NAME" value="" />
       <option name="PACKAGE_NAME" value="contactUsTests" />
-      <option name="MAIN_CLASS_NAME" value="contactUsTests.TestCase10" />
-      <option name="METHOD_NAME" value="test10" />
-      <option name="GROUP_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="contactUsTests.TestCase11" />
+      <option name="METHOD_NAME" value="test11" />
       <option name="TEST_OBJECT" value="METHOD" />
-      <option name="PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="OUTPUT_DIRECTORY" value="" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <option name="PROPERTIES_FILE" value="" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestCase2.test2" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TestCase1.test1" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="ComZapierTestingFramework" />
-      <shortenClasspath name="NONE" />
-      <useClassPathOnly />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="signUpTests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="SUITE_NAME" value="" />
       <option name="PACKAGE_NAME" value="signUpTests" />
-      <option name="MAIN_CLASS_NAME" value="signUpTests.TestCase2" />
-      <option name="METHOD_NAME" value="test2" />
-      <option name="GROUP_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="signUpTests.TestCase1" />
+      <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="METHOD" />
-      <option name="PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="OUTPUT_DIRECTORY" value="" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCase4.test4" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ComZapierTestingFramework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="signUpTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="signUpTests" />
+      <option name="MAIN_CLASS_NAME" value="signUpTests.TestCase4" />
+      <option name="METHOD_NAME" value="test4" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSelenide.test1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ComZapierTestingFramework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="selenideTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="contactUsTestsSelenide" />
+      <option name="MAIN_CLASS_NAME" value="selenideTests.TestSelenide" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <properties />
       <listeners />
       <method v="2">
@@ -667,19 +610,25 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ConfigData" />
-      <item itemvalue="Maven.chromeMavenRun" />
       <item itemvalue="Maven.edgeMavenRun" />
-      <item itemvalue="TestNG.TestCase10.test10" />
+      <item itemvalue="Maven.chromeMavenRun" />
+      <item itemvalue="Maven.edgeSelenideMavenRun" />
+      <item itemvalue="Maven.chromeSelenideMavenRun" />
+      <item itemvalue="Maven.firefoxMavenRun" />
+      <item itemvalue="Maven.firefoxSelenideMavenRun" />
       <item itemvalue="TestNG.C:/PROJECTS/ComZapierTestingFramework/testng-suites/exampleSuite.xml" />
-      <item itemvalue="TestNG.TestCase2.test2" />
+      <item itemvalue="TestNG.TestCase1.test1" />
+      <item itemvalue="TestNG.TestSelenide.test1" />
+      <item itemvalue="TestNG.TestCase11.test11" />
+      <item itemvalue="TestNG.TestCase4.test4" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.TestCase4.test4" />
+        <item itemvalue="TestNG.TestCase11.test11" />
+        <item itemvalue="TestNG.TestSelenide.test1" />
         <item itemvalue="TestNG.C:/PROJECTS/ComZapierTestingFramework/testng-suites/exampleSuite.xml" />
-        <item itemvalue="TestNG.TestCase10.test10" />
-        <item itemvalue="Application.ConfigData" />
-        <item itemvalue="TestNG.TestCase2.test2" />
+        <item itemvalue="TestNG.TestCase1.test1" />
       </list>
     </recent_temporary>
   </component>
@@ -707,6 +656,14 @@
       <workItem from="1455604404286" duration="27470000" />
       <workItem from="1456073491397" duration="4967000" />
     </task>
+    <task id="LOCAL-00001" summary="Updated dependencies versions&#10;Migrated to testNG, WebDriverManager, log4j2&#10;Modified ParentTest class&#10;Added maven profiles (refactored ConfigData to detect config_profile_based.properties), run configuration for Chrome and Edge">
+      <created>1666818953643</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1666818953643</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -768,17 +725,6 @@
     <MESSAGE value="Updated dependencies versions&#10;Migrated to testNG, WebDriverManager, log4j2&#10;Modified ParentTest class&#10;Added maven profiles (refactored ConfigData to detect config_profile_based.properties), run configuration for Chrome and Edge" />
     <option name="LAST_COMMIT_MESSAGE" value="Updated dependencies versions&#10;Migrated to testNG, WebDriverManager, log4j2&#10;Modified ParentTest class&#10;Added maven profiles (refactored ConfigData to detect config_profile_based.properties), run configuration for Chrome and Edge" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/parentTest/ParentTest.java</url>
-          <line>28</line>
-          <option name="timeStamp" value="11" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />

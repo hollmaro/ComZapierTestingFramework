@@ -1,5 +1,5 @@
 <component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="edgeMavenRun" type="MavenRunConfiguration" factoryName="Maven">
+  <configuration default="false" name="firefoxMavenRun" type="MavenRunConfiguration" factoryName="Maven">
     <MavenSettings>
       <option name="myGeneralSettings" />
       <option name="myRunnerSettings" />
@@ -13,7 +13,7 @@
               <option value="clean" />
               <option value="test" />
               <option value="-Denv=ci_env" />
-              <option value="-DbrowserVar=edge" />
+              <option value="-DbrowserVar=firefox" />
               <option value="-DsuiteXmlFile=exampleSuite.xml" />
             </list>
           </option>

@@ -13,10 +13,6 @@ import java.util.Map;
 
 public class TestCase1 extends ParentTest {
 
-	public TestCase1() {
-		LOG.info("Constructor sighupTests.TestCase1");
-	}
-
 	SignUpPage signUpPage;
 
 	@Test

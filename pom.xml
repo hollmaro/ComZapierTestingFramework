@@ -26,7 +26,7 @@
     <properties>
         <testng.reports.directory>./test-output</testng.reports.directory>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <org.seleniumhq.version>3.5.3</org.seleniumhq.version>
+        <org.seleniumhq.version>4.5.0</org.seleniumhq.version>
         <org.testng.version>7.0.0</org.testng.version>
         <net.sourceforge.jtds.version>1.2.4</net.sourceforge.jtds.version>
         <org.reportng.version>1.1.2</org.reportng.version>
@@ -125,7 +125,7 @@
         <dependency>
             <groupId>org.seleniumhq.selenium</groupId>
             <artifactId>selenium-server</artifactId>
-            <version>${org.seleniumhq.version}</version>
+            <version>3.5.3</version>
         </dependency>
 
 
@@ -185,7 +185,7 @@
         <dependency>
             <groupId>org.seleniumhq.selenium</groupId>
             <artifactId>selenium-chrome-driver</artifactId>
-            <version>3.8.1</version>
+            <version>${org.seleniumhq.version}</version>
         </dependency>
         <dependency>
             <groupId>org.seleniumhq.selenium</groupId>
@@ -197,16 +197,35 @@
             <artifactId>selenium-edge-driver</artifactId>
             <version>${org.seleniumhq.version}</version>
         </dependency>
+
         <!--___________________________________________-->
 
         <!--Managing browsers' drivers-->
         <dependency>
             <groupId>io.github.bonigarcia</groupId>
             <artifactId>webdrivermanager</artifactId>
-            <version>5.3.0</version>
+            <version>5.0.1</version>
         </dependency>
-
-
+        <!--_________________________SELENIDE_________________________________________-->
+        <dependency>
+            <groupId>com.codeborne</groupId>
+            <artifactId>selenide</artifactId>
+            <version>6.9.0</version>
+            <scope>test</scope>
+        </dependency>
+        <!-- https://mvnrepository.com/artifact/com.google.guava/guava -->
+        <dependency>
+            <groupId>com.google.guava</groupId>
+            <artifactId>guava</artifactId>
+            <version>31.1-jre</version>
+        </dependency>
+        <!--_________________________SELENIDE_________________________________________-->
+        <!-- https://mvnrepository.com/artifact/com.google.inject/guice -->
+        <dependency>
+            <groupId>com.google.inject</groupId>
+            <artifactId>guice</artifactId>
+            <version>3.0</version>
+        </dependency>
     </dependencies>
 
     <build>

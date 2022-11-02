@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Example Selenide suite">
+	<test name="Test suite">
+		<classes>
+			<class name="selenideTests.TestSelenide">
+				<methods>
+					<include name="test1"/>
+				</methods>
+			</class>
+		</classes>
+	</test>
+</suite>

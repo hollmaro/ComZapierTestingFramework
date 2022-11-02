@@ -10,6 +10,7 @@ import org.openqa.selenium.support.ui.Select;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.Assert;
 
+import java.time.Duration;
 import java.util.concurrent.TimeUnit;
 
 public class WebElementOnPage {
@@ -27,7 +28,7 @@ public class WebElementOnPage {
 	public WebElementOnPage(WebDriver extDriver){
 		this.driver = extDriver;
 		log = LoggerWrapper.loggerForThisClass();
-		wait = new WebDriverWait(driver, 30);
+		wait = new WebDriverWait(driver, Duration.ofSeconds(30));
 		keyAction = new Actions(driver);
 
 	}
